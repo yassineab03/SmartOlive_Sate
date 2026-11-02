@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "area_hectares": 116.82267997628614,
+  "centroid_lon_lat": [
+    -7.30282365107155,
+    32.11477494254126
+  ],
+  "covered_by_tile_bounds": true,
+  "distance_to_previous_map_location_km": null,
+  "olive_presence_confirmed": false
+}

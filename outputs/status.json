@@ -1,0 +1,12 @@
+{
+  "real_data_available": true,
+  "training_series_available": false,
+  "local_acquisitions": 5,
+  "trained_models": 0,
+  "metrics_available": false,
+  "blockers": [
+    "Parcelles oléicoles et groupes non confirmés",
+    "Séries multi-temporelles insuffisantes",
+    "Vérité terrain et surveillance à constituer"
+  ]
+}

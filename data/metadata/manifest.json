@@ -1,0 +1,106 @@
+[
+  {
+    "file": "data\\raw\\sentinel2\\S2A_MSIL2A_20240714T110621_N0510_R137_T29SPR_20240714T171450.SAFE.zip",
+    "bytes": 1158851322,
+    "sha256": "7e4f908193cc382f4d24e4b23dbfe8ffe9af7e13efa062835982d5e53197c18b",
+    "published_checksum": null,
+    "integrity": "ZIP : tous les CRC valides ; XML lisible ; bandes requises lisibles",
+    "source": "Copernicus Data Space / Sentinel-2 L2A natif",
+    "version": "05.10",
+    "url": "https://dataspace.copernicus.eu/",
+    "retrieved_utc": null,
+    "audited_utc": "2026-11-02T01:01:56.099179+00:00"
+  },
+  {
+    "file": "data\\raw\\sentinel2\\S2A_MSIL2A_20240724T110621_N0511_R137_T29SPR_20240724T201752.SAFE.zip",
+    "bytes": 1152383089,
+    "sha256": "bc89ba8a7b91b494015f1dba04e36d7c27894e5732ffbc2c3e36a3aebacfcfaf",
+    "published_checksum": null,
+    "integrity": "ZIP : tous les CRC valides ; XML lisible ; bandes requises lisibles",
+    "source": "Copernicus Data Space / Sentinel-2 L2A natif",
+    "version": "05.11",
+    "url": "https://dataspace.copernicus.eu/",
+    "retrieved_utc": null,
+    "audited_utc": "2026-11-02T01:01:57.999463+00:00"
+  },
+  {
+    "file": "data\\raw\\sentinel2\\S2A_MSIL2A_20240813T110621_N0511_R137_T29SPR_20240813T151552.SAFE.zip",
+    "bytes": 1170371830,
+    "sha256": "8d323d99802b52bb41c354e479689faebe70bf9970c027d38e13802d8a2426a1",
+    "published_checksum": null,
+    "integrity": "ZIP : tous les CRC valides ; XML lisible ; bandes requises lisibles",
+    "source": "Copernicus Data Space / Sentinel-2 L2A natif",
+    "version": "05.11",
+    "url": "https://dataspace.copernicus.eu/",
+    "retrieved_utc": null,
+    "audited_utc": "2026-11-02T01:01:59.956477+00:00"
+  },
+  {
+    "file": "data\\raw\\sentinel2\\S2A_MSIL2A_20241101T111221_N0511_R137_T29SPR_20241101T153152.SAFE.zip",
+    "bytes": 1202717468,
+    "sha256": "6861087ffed927be47733a54349387a1fbf701d475d77cf32483736d2337fb69",
+    "published_checksum": null,
+    "integrity": "ZIP : tous les CRC valides ; XML lisible ; bandes requises lisibles",
+    "source": "Copernicus Data Space / Sentinel-2 L2A natif",
+    "version": "05.11",
+    "url": "https://dataspace.copernicus.eu/",
+    "retrieved_utc": null,
+    "audited_utc": "2026-11-02T01:02:10.031046+00:00"
+  },
+  {
+    "file": "data\\raw\\sentinel2\\S2B_MSIL2A_20240917T110619_N0511_R137_T29SPR_20240917T153002.SAFE.zip",
+    "bytes": 1172024706,
+    "sha256": "8d0174684a3ddfbd93ca23167d01270c494c1bf65e6c48ccdeb615154655b097",
+    "published_checksum": null,
+    "integrity": "ZIP : tous les CRC valides ; XML lisible ; bandes requises lisibles",
+    "source": "Copernicus Data Space / Sentinel-2 L2A natif",
+    "version": "05.11",
+    "url": "https://dataspace.copernicus.eu/",
+    "retrieved_utc": null,
+    "audited_utc": "2026-11-02T01:02:12.696319+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "version": "catalogue officiel",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
+    "file": "data\\metadata\\sentinel2.html",
+    "bytes": 128053,
+    "sha256": "f2808277ebad418bafc9f431c2cc2a80366f138d485b62073d0996aafaaef92d",
+    "published_checksum": null,
+    "integrity": "HTML conservÃƒÆ’Ã‚Â© ; pas une acquisition raster",
+    "retrieved_utc": "2026-11-02T01:02:34.423341+00:00"
+  },
+  {
+    "source": "landsat",
+    "version": "catalogue officiel",
+    "url": "https://www.usgs.gov/landsat-missions/landsat-collection-2",
+    "file": "data\\metadata\\landsat.html",
+    "bytes": 148939,
+    "sha256": "2369c0188add1d63989a579e7f48f5eb4c58079723e0920fcce40126b5f38067",
+    "published_checksum": null,
+    "integrity": "HTML conservÃƒÂ© ; pas une acquisition raster",
+    "retrieved_utc": "2026-11-02T01:02:34.426582+00:00"
+  },
+  {
+    "source": "era5",
+    "version": "catalogue officiel",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR",
+    "file": "data\\metadata\\era5.html",
+    "bytes": 148862,
+    "sha256": "06393d5640fbcf3412525a2d31b60e862f32a9f2db4b9d75fcf0898fb0b9053a",
+    "published_checksum": null,
+    "integrity": "HTML conservÃ© ; pas une acquisition raster",
+    "retrieved_utc": "2026-11-02T01:02:34.428621+00:00"
+  },
+  {
+    "source": "copernicus",
+    "version": "catalogue officiel",
+    "url": "https://dataspace.copernicus.eu/",
+    "file": "data\\metadata\\copernicus.html",
+    "bytes": 110976,
+    "sha256": "aadd6c3e019f0afb734db51800e8378bcbb79fa356ccffa6cf88c3955392df19",
+    "published_checksum": null,
+    "integrity": "HTML conservé ; pas une acquisition raster",
+    "retrieved_utc": "2026-11-02T01:02:34.430351+00:00"
+  }
+]
