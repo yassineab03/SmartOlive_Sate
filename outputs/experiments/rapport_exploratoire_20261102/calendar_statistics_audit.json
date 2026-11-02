@@ -1,0 +1,102 @@
+[
+  {
+    "model": "zscore",
+    "ablation": "ndvi",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "isolation",
+    "ablation": "ndvi",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "svm",
+    "ablation": "ndvi",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "autoencoder",
+    "ablation": "ndvi",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "isolation",
+    "ablation": "indices",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "svm",
+    "ablation": "indices",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "autoencoder",
+    "ablation": "indices",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "isolation",
+    "ablation": "meteo",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "svm",
+    "ablation": "meteo",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  },
+  {
+    "model": "autoencoder",
+    "ablation": "meteo",
+    "campaign_years": [
+      2024
+    ],
+    "unchanged_scores": true,
+    "unchanged_alerts": true,
+    "n": 81
+  }
+]

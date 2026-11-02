@@ -1,0 +1,19 @@
+{
+  "pdf": "output\\pdf\\OliveSmart_Rapport_Resultats_IA.pdf",
+  "pages": 7,
+  "experiment": "outputs\\experiments\\rapport_exploratoire_20261102",
+  "test_common_observations": 81,
+  "configurations": 10,
+  "trials": 120,
+  "confirmed_stress_labels": 0,
+  "metrics_not_evaluable": [
+    "precision",
+    "recall",
+    "f1",
+    "ap",
+    "auc",
+    "detection_delay",
+    "false_positive_rate"
+  ],
+  "claim": "Recommandation provisoire du z-score pour transparence ; aucun gagnant agronomique démontré"
+}

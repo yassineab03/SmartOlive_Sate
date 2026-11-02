@@ -248,6 +248,8 @@ connus. La stabilité interannuelle n'est pas mesurable sur une seule année de 
 Les tableaux descriptifs ne permettent pas de désigner un modèle comme meilleur en détection.
 '''))
 evaluation=old_code('def event_metrics(')
+evaluation=evaluation.replace("['parcel_id','farm_id','basin','date','label']", "['parcel_id','region','window_start','date','label']")
+evaluation=evaluation.replace("pred.assign(year=pred.date.dt.year)", "pred.assign(year=pred.window_start.dt.year)")
 train.append(code(evaluation))
 train.append(markdown('''## 4. Courbes, modèles et sauvegarde
 Les modèles, seuils, prédictions et courbes d'apprentissage ne sont écrits qu'après un

@@ -1,0 +1,11 @@
+split,model,ablation,n,alert_rate,inference_seconds,n_labelled,precision,recall,f1,ap,auc,event_precision,event_recall,event_f1,mean_delay_days,fp_per_parcel,reason,annual_alert_rate_std
+test,zscore,ndvi,81,0.0,2.529995981603861e-05,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,isolation,ndvi,81,0.0,0.009519600018393248,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,svm,ndvi,81,0.024691358024691357,0.0004498999915085733,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,autoencoder,ndvi,81,0.024691358024691357,0.00046900002053007483,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,isolation,indices,81,0.012345679012345678,0.021407100022770464,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,svm,indices,81,0.012345679012345678,0.0004346999921835959,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,autoencoder,indices,81,0.0,0.000423500023316592,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,isolation,meteo,81,0.0,0.008652399992570281,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,svm,meteo,81,0.012345679012345678,0.00046389998169615865,0,,,,,,,,,,,Surveillance exhaustive absente,
+test,autoencoder,meteo,81,0.012345679012345678,0.00040959997568279505,0,,,,,,,,,,,Surveillance exhaustive absente,

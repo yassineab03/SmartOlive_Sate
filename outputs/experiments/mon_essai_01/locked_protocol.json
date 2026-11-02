@@ -1,0 +1,131 @@
+{
+  "config": {
+    "start": "2021-01-01",
+    "train_end": "2023-01-01",
+    "val_end": "2024-01-01",
+    "end": "2025-01-01",
+    "heldout_region": null,
+    "min_valid_fraction": 0.6,
+    "max_gap_days": 15,
+    "step_days": 10,
+    "trials": 12,
+    "target_alert_rate": 0.05,
+    "event_tolerance_days": 10
+  },
+  "choices": [
+    {
+      "name": "zscore",
+      "ablation": "ndvi",
+      "params": {},
+      "length": 3,
+      "threshold": 6.414740514755248,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "isolation",
+      "ablation": "ndvi",
+      "params": {
+        "n_estimators": 100,
+        "max_samples": 0.5,
+        "contamination": 0.08795585311974417
+      },
+      "length": 3,
+      "threshold": 0.7232087365829114,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "svm",
+      "ablation": "ndvi",
+      "params": {
+        "gamma": 0.024810409748678097,
+        "nu": 0.039643541684062936
+      },
+      "length": 3,
+      "threshold": -0.44195519905172487,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "autoencoder",
+      "ablation": "ndvi",
+      "params": {
+        "latent": 2,
+        "lr": 0.00013066739238053285,
+        "weight_decay": 0.0029154431891537554
+      },
+      "length": 3,
+      "threshold": 38.3210071182251,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "isolation",
+      "ablation": "indices",
+      "params": {
+        "n_estimators": 250,
+        "max_samples": 0.5,
+        "contamination": 0.09296868115208053
+      },
+      "length": 6,
+      "threshold": 0.6668631515472051,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "svm",
+      "ablation": "indices",
+      "params": {
+        "gamma": 0.024810409748678097,
+        "nu": 0.039643541684062936
+      },
+      "length": 3,
+      "threshold": -0.0017750549913023665,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "autoencoder",
+      "ablation": "indices",
+      "params": {
+        "latent": 2,
+        "lr": 0.00013066739238053285,
+        "weight_decay": 0.0029154431891537554
+      },
+      "length": 3,
+      "threshold": 26.004282321929928,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "isolation",
+      "ablation": "meteo",
+      "params": {
+        "n_estimators": 100,
+        "max_samples": 0.5,
+        "contamination": 0.08795585311974417
+      },
+      "length": 3,
+      "threshold": 0.671513049559613,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "svm",
+      "ablation": "meteo",
+      "params": {
+        "gamma": 0.024810409748678097,
+        "nu": 0.039643541684062936
+      },
+      "length": 3,
+      "threshold": -0.0013702813164495854,
+      "criterion": "taux alerte cible (pas une performance)"
+    },
+    {
+      "name": "autoencoder",
+      "ablation": "meteo",
+      "params": {
+        "latent": 2,
+        "lr": 0.00013066739238053285,
+        "weight_decay": 0.0029154431891537554
+      },
+      "length": 3,
+      "threshold": 27.437030620574948,
+      "criterion": "taux alerte cible (pas une performance)"
+    }
+  ],
+  "seed": 42
+}
