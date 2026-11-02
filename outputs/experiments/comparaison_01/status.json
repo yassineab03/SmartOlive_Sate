@@ -1,0 +1,9 @@
+{
+  "input_manifest_sha256": "380e42adb2b724d1854fc543e8cf010bff5d6b837856d80e26a5c27efd4a72e0",
+  "training_requested": false,
+  "trained_models": 0,
+  "known_labels": 0,
+  "comparison_rows": 0,
+  "detection_metrics_evaluable": false,
+  "seed": 42
+}

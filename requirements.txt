@@ -1,5 +1,5 @@
 numpy>=2.2,<3
-pandas>=2.2,<4
+pandas>=2.2,<3
 scikit-learn>=1.6,<2
 torch>=2.6,<3
 optuna>=4,<6
@@ -10,3 +10,5 @@ nbformat>=5,<6
 nbclient>=0.10,<1
 ipykernel>=6,<8
 rasterio>=1.4,<2
+geopandas>=1.0,<2
+requests>=2.32,<3

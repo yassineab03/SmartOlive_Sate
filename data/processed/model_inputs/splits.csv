@@ -1,0 +1,889 @@
+parcel_id,region,window_start,date,split,usable
+Tadla_Trees_20240224_001,Tadla,2021-01-01,2021-01-11,train,True
+Tadla_Trees_20240224_001,Tadla,2021-01-11,2021-01-21,train,True
+Tadla_Trees_20240224_001,Tadla,2021-01-21,2021-01-31,train,True
+Tadla_Trees_20240224_001,Tadla,2021-01-31,2021-02-10,train,True
+Tadla_Trees_20240224_001,Tadla,2021-02-10,2021-02-20,train,True
+Tadla_Trees_20240224_001,Tadla,2021-02-20,2021-03-02,train,True
+Tadla_Trees_20240224_001,Tadla,2021-03-02,2021-03-12,train,True
+Tadla_Trees_20240224_001,Tadla,2021-03-12,2021-03-22,train,True
+Tadla_Trees_20240224_001,Tadla,2021-03-22,2021-04-01,train,True
+Tadla_Trees_20240224_001,Tadla,2021-04-01,2021-04-11,train,True
+Tadla_Trees_20240224_001,Tadla,2021-04-11,2021-04-21,train,True
+Tadla_Trees_20240224_001,Tadla,2021-04-21,2021-05-01,train,True
+Tadla_Trees_20240224_001,Tadla,2021-05-01,2021-05-11,train,True
+Tadla_Trees_20240224_001,Tadla,2021-05-11,2021-05-21,train,True
+Tadla_Trees_20240224_001,Tadla,2021-05-21,2021-05-31,train,True
+Tadla_Trees_20240224_001,Tadla,2021-05-31,2021-06-10,train,True
+Tadla_Trees_20240224_001,Tadla,2021-06-10,2021-06-20,train,False
+Tadla_Trees_20240224_001,Tadla,2021-06-20,2021-06-30,train,True
+Tadla_Trees_20240224_001,Tadla,2021-06-30,2021-07-10,train,True
+Tadla_Trees_20240224_001,Tadla,2021-07-10,2021-07-20,train,True
+Tadla_Trees_20240224_001,Tadla,2021-07-20,2021-07-30,train,True
+Tadla_Trees_20240224_001,Tadla,2021-07-30,2021-08-09,train,True
+Tadla_Trees_20240224_001,Tadla,2021-08-09,2021-08-19,train,True
+Tadla_Trees_20240224_001,Tadla,2021-08-19,2021-08-29,train,True
+Tadla_Trees_20240224_001,Tadla,2021-08-29,2021-09-08,train,True
+Tadla_Trees_20240224_001,Tadla,2021-09-08,2021-09-18,train,False
+Tadla_Trees_20240224_001,Tadla,2021-09-18,2021-09-28,train,True
+Tadla_Trees_20240224_001,Tadla,2021-09-28,2021-10-08,train,True
+Tadla_Trees_20240224_001,Tadla,2021-10-08,2021-10-18,train,True
+Tadla_Trees_20240224_001,Tadla,2021-10-18,2021-10-28,train,True
+Tadla_Trees_20240224_001,Tadla,2021-10-28,2021-11-07,train,True
+Tadla_Trees_20240224_001,Tadla,2021-11-07,2021-11-17,train,True
+Tadla_Trees_20240224_001,Tadla,2021-11-17,2021-11-27,train,True
+Tadla_Trees_20240224_001,Tadla,2021-11-27,2021-12-07,train,True
+Tadla_Trees_20240224_001,Tadla,2021-12-07,2021-12-17,train,True
+Tadla_Trees_20240224_001,Tadla,2021-12-17,2021-12-27,train,True
+Tadla_Trees_20240224_001,Tadla,2021-12-27,2022-01-01,train,False
+Tadla_Trees_20240224_001,Tadla,2022-01-01,2022-01-11,train,False
+Tadla_Trees_20240224_001,Tadla,2022-01-11,2022-01-21,train,False
+Tadla_Trees_20240224_001,Tadla,2022-01-21,2022-01-31,train,False
+Tadla_Trees_20240224_001,Tadla,2022-01-31,2022-02-10,train,False
+Tadla_Trees_20240224_001,Tadla,2022-02-10,2022-02-20,train,False
+Tadla_Trees_20240224_001,Tadla,2022-02-20,2022-03-02,train,False
+Tadla_Trees_20240224_001,Tadla,2022-03-02,2022-03-12,train,False
+Tadla_Trees_20240224_001,Tadla,2022-03-12,2022-03-22,train,False
+Tadla_Trees_20240224_001,Tadla,2022-03-22,2022-04-01,train,True
+Tadla_Trees_20240224_001,Tadla,2022-04-01,2022-04-11,train,False
+Tadla_Trees_20240224_001,Tadla,2022-04-11,2022-04-21,train,False
+Tadla_Trees_20240224_001,Tadla,2022-04-21,2022-05-01,train,False
+Tadla_Trees_20240224_001,Tadla,2022-05-01,2022-05-11,train,False
+Tadla_Trees_20240224_001,Tadla,2022-05-11,2022-05-21,train,False
+Tadla_Trees_20240224_001,Tadla,2022-05-21,2022-05-31,train,False
+Tadla_Trees_20240224_001,Tadla,2022-05-31,2022-06-10,train,False
+Tadla_Trees_20240224_001,Tadla,2022-06-10,2022-06-20,train,False
+Tadla_Trees_20240224_001,Tadla,2022-06-20,2022-06-30,train,False
+Tadla_Trees_20240224_001,Tadla,2022-06-30,2022-07-10,train,False
+Tadla_Trees_20240224_001,Tadla,2022-07-10,2022-07-20,train,False
+Tadla_Trees_20240224_001,Tadla,2022-07-20,2022-07-30,train,False
+Tadla_Trees_20240224_001,Tadla,2022-07-30,2022-08-09,train,False
+Tadla_Trees_20240224_001,Tadla,2022-08-09,2022-08-19,train,False
+Tadla_Trees_20240224_001,Tadla,2022-08-19,2022-08-29,train,False
+Tadla_Trees_20240224_001,Tadla,2022-08-29,2022-09-08,train,False
+Tadla_Trees_20240224_001,Tadla,2022-09-08,2022-09-18,train,False
+Tadla_Trees_20240224_001,Tadla,2022-09-18,2022-09-28,train,False
+Tadla_Trees_20240224_001,Tadla,2022-09-28,2022-10-08,train,False
+Tadla_Trees_20240224_001,Tadla,2022-10-08,2022-10-18,train,False
+Tadla_Trees_20240224_001,Tadla,2022-10-18,2022-10-28,train,False
+Tadla_Trees_20240224_001,Tadla,2022-10-28,2022-11-07,train,False
+Tadla_Trees_20240224_001,Tadla,2022-11-07,2022-11-17,train,False
+Tadla_Trees_20240224_001,Tadla,2022-11-17,2022-11-27,train,False
+Tadla_Trees_20240224_001,Tadla,2022-11-27,2022-12-07,train,False
+Tadla_Trees_20240224_001,Tadla,2022-12-07,2022-12-17,train,False
+Tadla_Trees_20240224_001,Tadla,2022-12-17,2022-12-27,train,True
+Tadla_Trees_20240224_001,Tadla,2022-12-27,2023-01-01,train,False
+Tadla_Trees_20240224_001,Tadla,2023-01-01,2023-01-11,val,True
+Tadla_Trees_20240224_001,Tadla,2023-01-11,2023-01-21,val,True
+Tadla_Trees_20240224_001,Tadla,2023-01-21,2023-01-31,val,True
+Tadla_Trees_20240224_001,Tadla,2023-01-31,2023-02-10,val,True
+Tadla_Trees_20240224_001,Tadla,2023-02-10,2023-02-20,val,True
+Tadla_Trees_20240224_001,Tadla,2023-02-20,2023-03-02,val,True
+Tadla_Trees_20240224_001,Tadla,2023-03-02,2023-03-12,val,True
+Tadla_Trees_20240224_001,Tadla,2023-03-12,2023-03-22,val,True
+Tadla_Trees_20240224_001,Tadla,2023-03-22,2023-04-01,val,True
+Tadla_Trees_20240224_001,Tadla,2023-04-01,2023-04-11,val,True
+Tadla_Trees_20240224_001,Tadla,2023-04-11,2023-04-21,val,True
+Tadla_Trees_20240224_001,Tadla,2023-04-21,2023-05-01,val,True
+Tadla_Trees_20240224_001,Tadla,2023-05-01,2023-05-11,val,True
+Tadla_Trees_20240224_001,Tadla,2023-05-11,2023-05-21,val,True
+Tadla_Trees_20240224_001,Tadla,2023-05-21,2023-05-31,val,True
+Tadla_Trees_20240224_001,Tadla,2023-05-31,2023-06-10,val,True
+Tadla_Trees_20240224_001,Tadla,2023-06-10,2023-06-20,val,True
+Tadla_Trees_20240224_001,Tadla,2023-06-20,2023-06-30,val,True
+Tadla_Trees_20240224_001,Tadla,2023-06-30,2023-07-10,val,True
+Tadla_Trees_20240224_001,Tadla,2023-07-10,2023-07-20,val,True
+Tadla_Trees_20240224_001,Tadla,2023-07-20,2023-07-30,val,True
+Tadla_Trees_20240224_001,Tadla,2023-07-30,2023-08-09,val,True
+Tadla_Trees_20240224_001,Tadla,2023-08-09,2023-08-19,val,True
+Tadla_Trees_20240224_001,Tadla,2023-08-19,2023-08-29,val,True
+Tadla_Trees_20240224_001,Tadla,2023-08-29,2023-09-08,val,True
+Tadla_Trees_20240224_001,Tadla,2023-09-08,2023-09-18,val,True
+Tadla_Trees_20240224_001,Tadla,2023-09-18,2023-09-28,val,True
+Tadla_Trees_20240224_001,Tadla,2023-09-28,2023-10-08,val,True
+Tadla_Trees_20240224_001,Tadla,2023-10-08,2023-10-18,val,True
+Tadla_Trees_20240224_001,Tadla,2023-10-18,2023-10-28,val,False
+Tadla_Trees_20240224_001,Tadla,2023-10-28,2023-11-07,val,True
+Tadla_Trees_20240224_001,Tadla,2023-11-07,2023-11-17,val,True
+Tadla_Trees_20240224_001,Tadla,2023-11-17,2023-11-27,val,True
+Tadla_Trees_20240224_001,Tadla,2023-11-27,2023-12-07,val,False
+Tadla_Trees_20240224_001,Tadla,2023-12-07,2023-12-17,val,False
+Tadla_Trees_20240224_001,Tadla,2023-12-17,2023-12-27,val,True
+Tadla_Trees_20240224_001,Tadla,2023-12-27,2024-01-01,val,True
+Tadla_Trees_20240224_001,Tadla,2024-01-01,2024-01-11,test,True
+Tadla_Trees_20240224_001,Tadla,2024-01-11,2024-01-21,test,True
+Tadla_Trees_20240224_001,Tadla,2024-01-21,2024-01-31,test,True
+Tadla_Trees_20240224_001,Tadla,2024-01-31,2024-02-10,test,True
+Tadla_Trees_20240224_001,Tadla,2024-02-10,2024-02-20,test,False
+Tadla_Trees_20240224_001,Tadla,2024-02-20,2024-03-01,test,True
+Tadla_Trees_20240224_001,Tadla,2024-03-01,2024-03-11,test,True
+Tadla_Trees_20240224_001,Tadla,2024-03-11,2024-03-21,test,False
+Tadla_Trees_20240224_001,Tadla,2024-03-21,2024-03-31,test,False
+Tadla_Trees_20240224_001,Tadla,2024-03-31,2024-04-10,test,True
+Tadla_Trees_20240224_001,Tadla,2024-04-10,2024-04-20,test,True
+Tadla_Trees_20240224_001,Tadla,2024-04-20,2024-04-30,test,True
+Tadla_Trees_20240224_001,Tadla,2024-04-30,2024-05-10,test,False
+Tadla_Trees_20240224_001,Tadla,2024-05-10,2024-05-20,test,True
+Tadla_Trees_20240224_001,Tadla,2024-05-20,2024-05-30,test,True
+Tadla_Trees_20240224_001,Tadla,2024-05-30,2024-06-09,test,True
+Tadla_Trees_20240224_001,Tadla,2024-06-09,2024-06-19,test,True
+Tadla_Trees_20240224_001,Tadla,2024-06-19,2024-06-29,test,True
+Tadla_Trees_20240224_001,Tadla,2024-06-29,2024-07-09,test,True
+Tadla_Trees_20240224_001,Tadla,2024-07-09,2024-07-19,test,True
+Tadla_Trees_20240224_001,Tadla,2024-07-19,2024-07-29,test,True
+Tadla_Trees_20240224_001,Tadla,2024-07-29,2024-08-08,test,True
+Tadla_Trees_20240224_001,Tadla,2024-08-08,2024-08-18,test,True
+Tadla_Trees_20240224_001,Tadla,2024-08-18,2024-08-28,test,True
+Tadla_Trees_20240224_001,Tadla,2024-08-28,2024-09-07,test,True
+Tadla_Trees_20240224_001,Tadla,2024-09-07,2024-09-17,test,True
+Tadla_Trees_20240224_001,Tadla,2024-09-17,2024-09-27,test,True
+Tadla_Trees_20240224_001,Tadla,2024-09-27,2024-10-07,test,True
+Tadla_Trees_20240224_001,Tadla,2024-10-07,2024-10-17,test,False
+Tadla_Trees_20240224_001,Tadla,2024-10-17,2024-10-27,test,True
+Tadla_Trees_20240224_001,Tadla,2024-10-27,2024-11-06,test,True
+Tadla_Trees_20240224_001,Tadla,2024-11-06,2024-11-16,test,True
+Tadla_Trees_20240224_001,Tadla,2024-11-16,2024-11-26,test,True
+Tadla_Trees_20240224_001,Tadla,2024-11-26,2024-12-06,test,True
+Tadla_Trees_20240224_001,Tadla,2024-12-06,2024-12-16,test,True
+Tadla_Trees_20240224_001,Tadla,2024-12-16,2024-12-26,test,True
+Tadla_Trees_20240224_001,Tadla,2024-12-26,2025-01-01,test,True
+Tadla_Trees_20240224_002,Tadla,2021-01-01,2021-01-11,train,True
+Tadla_Trees_20240224_002,Tadla,2021-01-11,2021-01-21,train,True
+Tadla_Trees_20240224_002,Tadla,2021-01-21,2021-01-31,train,True
+Tadla_Trees_20240224_002,Tadla,2021-01-31,2021-02-10,train,True
+Tadla_Trees_20240224_002,Tadla,2021-02-10,2021-02-20,train,True
+Tadla_Trees_20240224_002,Tadla,2021-02-20,2021-03-02,train,True
+Tadla_Trees_20240224_002,Tadla,2021-03-02,2021-03-12,train,True
+Tadla_Trees_20240224_002,Tadla,2021-03-12,2021-03-22,train,True
+Tadla_Trees_20240224_002,Tadla,2021-03-22,2021-04-01,train,True
+Tadla_Trees_20240224_002,Tadla,2021-04-01,2021-04-11,train,True
+Tadla_Trees_20240224_002,Tadla,2021-04-11,2021-04-21,train,True
+Tadla_Trees_20240224_002,Tadla,2021-04-21,2021-05-01,train,False
+Tadla_Trees_20240224_002,Tadla,2021-05-01,2021-05-11,train,True
+Tadla_Trees_20240224_002,Tadla,2021-05-11,2021-05-21,train,True
+Tadla_Trees_20240224_002,Tadla,2021-05-21,2021-05-31,train,True
+Tadla_Trees_20240224_002,Tadla,2021-05-31,2021-06-10,train,True
+Tadla_Trees_20240224_002,Tadla,2021-06-10,2021-06-20,train,False
+Tadla_Trees_20240224_002,Tadla,2021-06-20,2021-06-30,train,True
+Tadla_Trees_20240224_002,Tadla,2021-06-30,2021-07-10,train,True
+Tadla_Trees_20240224_002,Tadla,2021-07-10,2021-07-20,train,True
+Tadla_Trees_20240224_002,Tadla,2021-07-20,2021-07-30,train,True
+Tadla_Trees_20240224_002,Tadla,2021-07-30,2021-08-09,train,True
+Tadla_Trees_20240224_002,Tadla,2021-08-09,2021-08-19,train,True
+Tadla_Trees_20240224_002,Tadla,2021-08-19,2021-08-29,train,True
+Tadla_Trees_20240224_002,Tadla,2021-08-29,2021-09-08,train,True
+Tadla_Trees_20240224_002,Tadla,2021-09-08,2021-09-18,train,False
+Tadla_Trees_20240224_002,Tadla,2021-09-18,2021-09-28,train,True
+Tadla_Trees_20240224_002,Tadla,2021-09-28,2021-10-08,train,True
+Tadla_Trees_20240224_002,Tadla,2021-10-08,2021-10-18,train,True
+Tadla_Trees_20240224_002,Tadla,2021-10-18,2021-10-28,train,True
+Tadla_Trees_20240224_002,Tadla,2021-10-28,2021-11-07,train,True
+Tadla_Trees_20240224_002,Tadla,2021-11-07,2021-11-17,train,True
+Tadla_Trees_20240224_002,Tadla,2021-11-17,2021-11-27,train,True
+Tadla_Trees_20240224_002,Tadla,2021-11-27,2021-12-07,train,True
+Tadla_Trees_20240224_002,Tadla,2021-12-07,2021-12-17,train,True
+Tadla_Trees_20240224_002,Tadla,2021-12-17,2021-12-27,train,True
+Tadla_Trees_20240224_002,Tadla,2021-12-27,2022-01-01,train,True
+Tadla_Trees_20240224_002,Tadla,2022-01-01,2022-01-11,train,False
+Tadla_Trees_20240224_002,Tadla,2022-01-11,2022-01-21,train,False
+Tadla_Trees_20240224_002,Tadla,2022-01-21,2022-01-31,train,False
+Tadla_Trees_20240224_002,Tadla,2022-01-31,2022-02-10,train,False
+Tadla_Trees_20240224_002,Tadla,2022-02-10,2022-02-20,train,False
+Tadla_Trees_20240224_002,Tadla,2022-02-20,2022-03-02,train,False
+Tadla_Trees_20240224_002,Tadla,2022-03-02,2022-03-12,train,False
+Tadla_Trees_20240224_002,Tadla,2022-03-12,2022-03-22,train,False
+Tadla_Trees_20240224_002,Tadla,2022-03-22,2022-04-01,train,True
+Tadla_Trees_20240224_002,Tadla,2022-04-01,2022-04-11,train,False
+Tadla_Trees_20240224_002,Tadla,2022-04-11,2022-04-21,train,False
+Tadla_Trees_20240224_002,Tadla,2022-04-21,2022-05-01,train,False
+Tadla_Trees_20240224_002,Tadla,2022-05-01,2022-05-11,train,False
+Tadla_Trees_20240224_002,Tadla,2022-05-11,2022-05-21,train,False
+Tadla_Trees_20240224_002,Tadla,2022-05-21,2022-05-31,train,False
+Tadla_Trees_20240224_002,Tadla,2022-05-31,2022-06-10,train,False
+Tadla_Trees_20240224_002,Tadla,2022-06-10,2022-06-20,train,False
+Tadla_Trees_20240224_002,Tadla,2022-06-20,2022-06-30,train,False
+Tadla_Trees_20240224_002,Tadla,2022-06-30,2022-07-10,train,False
+Tadla_Trees_20240224_002,Tadla,2022-07-10,2022-07-20,train,False
+Tadla_Trees_20240224_002,Tadla,2022-07-20,2022-07-30,train,False
+Tadla_Trees_20240224_002,Tadla,2022-07-30,2022-08-09,train,False
+Tadla_Trees_20240224_002,Tadla,2022-08-09,2022-08-19,train,False
+Tadla_Trees_20240224_002,Tadla,2022-08-19,2022-08-29,train,False
+Tadla_Trees_20240224_002,Tadla,2022-08-29,2022-09-08,train,False
+Tadla_Trees_20240224_002,Tadla,2022-09-08,2022-09-18,train,False
+Tadla_Trees_20240224_002,Tadla,2022-09-18,2022-09-28,train,False
+Tadla_Trees_20240224_002,Tadla,2022-09-28,2022-10-08,train,False
+Tadla_Trees_20240224_002,Tadla,2022-10-08,2022-10-18,train,False
+Tadla_Trees_20240224_002,Tadla,2022-10-18,2022-10-28,train,False
+Tadla_Trees_20240224_002,Tadla,2022-10-28,2022-11-07,train,False
+Tadla_Trees_20240224_002,Tadla,2022-11-07,2022-11-17,train,False
+Tadla_Trees_20240224_002,Tadla,2022-11-17,2022-11-27,train,False
+Tadla_Trees_20240224_002,Tadla,2022-11-27,2022-12-07,train,False
+Tadla_Trees_20240224_002,Tadla,2022-12-07,2022-12-17,train,False
+Tadla_Trees_20240224_002,Tadla,2022-12-17,2022-12-27,train,True
+Tadla_Trees_20240224_002,Tadla,2022-12-27,2023-01-01,train,False
+Tadla_Trees_20240224_002,Tadla,2023-01-01,2023-01-11,val,True
+Tadla_Trees_20240224_002,Tadla,2023-01-11,2023-01-21,val,True
+Tadla_Trees_20240224_002,Tadla,2023-01-21,2023-01-31,val,True
+Tadla_Trees_20240224_002,Tadla,2023-01-31,2023-02-10,val,True
+Tadla_Trees_20240224_002,Tadla,2023-02-10,2023-02-20,val,True
+Tadla_Trees_20240224_002,Tadla,2023-02-20,2023-03-02,val,True
+Tadla_Trees_20240224_002,Tadla,2023-03-02,2023-03-12,val,True
+Tadla_Trees_20240224_002,Tadla,2023-03-12,2023-03-22,val,True
+Tadla_Trees_20240224_002,Tadla,2023-03-22,2023-04-01,val,True
+Tadla_Trees_20240224_002,Tadla,2023-04-01,2023-04-11,val,True
+Tadla_Trees_20240224_002,Tadla,2023-04-11,2023-04-21,val,True
+Tadla_Trees_20240224_002,Tadla,2023-04-21,2023-05-01,val,True
+Tadla_Trees_20240224_002,Tadla,2023-05-01,2023-05-11,val,True
+Tadla_Trees_20240224_002,Tadla,2023-05-11,2023-05-21,val,True
+Tadla_Trees_20240224_002,Tadla,2023-05-21,2023-05-31,val,True
+Tadla_Trees_20240224_002,Tadla,2023-05-31,2023-06-10,val,True
+Tadla_Trees_20240224_002,Tadla,2023-06-10,2023-06-20,val,True
+Tadla_Trees_20240224_002,Tadla,2023-06-20,2023-06-30,val,True
+Tadla_Trees_20240224_002,Tadla,2023-06-30,2023-07-10,val,True
+Tadla_Trees_20240224_002,Tadla,2023-07-10,2023-07-20,val,True
+Tadla_Trees_20240224_002,Tadla,2023-07-20,2023-07-30,val,True
+Tadla_Trees_20240224_002,Tadla,2023-07-30,2023-08-09,val,True
+Tadla_Trees_20240224_002,Tadla,2023-08-09,2023-08-19,val,True
+Tadla_Trees_20240224_002,Tadla,2023-08-19,2023-08-29,val,True
+Tadla_Trees_20240224_002,Tadla,2023-08-29,2023-09-08,val,True
+Tadla_Trees_20240224_002,Tadla,2023-09-08,2023-09-18,val,True
+Tadla_Trees_20240224_002,Tadla,2023-09-18,2023-09-28,val,True
+Tadla_Trees_20240224_002,Tadla,2023-09-28,2023-10-08,val,True
+Tadla_Trees_20240224_002,Tadla,2023-10-08,2023-10-18,val,True
+Tadla_Trees_20240224_002,Tadla,2023-10-18,2023-10-28,val,False
+Tadla_Trees_20240224_002,Tadla,2023-10-28,2023-11-07,val,True
+Tadla_Trees_20240224_002,Tadla,2023-11-07,2023-11-17,val,True
+Tadla_Trees_20240224_002,Tadla,2023-11-17,2023-11-27,val,True
+Tadla_Trees_20240224_002,Tadla,2023-11-27,2023-12-07,val,True
+Tadla_Trees_20240224_002,Tadla,2023-12-07,2023-12-17,val,False
+Tadla_Trees_20240224_002,Tadla,2023-12-17,2023-12-27,val,True
+Tadla_Trees_20240224_002,Tadla,2023-12-27,2024-01-01,val,True
+Tadla_Trees_20240224_002,Tadla,2024-01-01,2024-01-11,test,True
+Tadla_Trees_20240224_002,Tadla,2024-01-11,2024-01-21,test,True
+Tadla_Trees_20240224_002,Tadla,2024-01-21,2024-01-31,test,True
+Tadla_Trees_20240224_002,Tadla,2024-01-31,2024-02-10,test,True
+Tadla_Trees_20240224_002,Tadla,2024-02-10,2024-02-20,test,False
+Tadla_Trees_20240224_002,Tadla,2024-02-20,2024-03-01,test,True
+Tadla_Trees_20240224_002,Tadla,2024-03-01,2024-03-11,test,True
+Tadla_Trees_20240224_002,Tadla,2024-03-11,2024-03-21,test,True
+Tadla_Trees_20240224_002,Tadla,2024-03-21,2024-03-31,test,False
+Tadla_Trees_20240224_002,Tadla,2024-03-31,2024-04-10,test,True
+Tadla_Trees_20240224_002,Tadla,2024-04-10,2024-04-20,test,True
+Tadla_Trees_20240224_002,Tadla,2024-04-20,2024-04-30,test,True
+Tadla_Trees_20240224_002,Tadla,2024-04-30,2024-05-10,test,False
+Tadla_Trees_20240224_002,Tadla,2024-05-10,2024-05-20,test,True
+Tadla_Trees_20240224_002,Tadla,2024-05-20,2024-05-30,test,True
+Tadla_Trees_20240224_002,Tadla,2024-05-30,2024-06-09,test,True
+Tadla_Trees_20240224_002,Tadla,2024-06-09,2024-06-19,test,True
+Tadla_Trees_20240224_002,Tadla,2024-06-19,2024-06-29,test,True
+Tadla_Trees_20240224_002,Tadla,2024-06-29,2024-07-09,test,True
+Tadla_Trees_20240224_002,Tadla,2024-07-09,2024-07-19,test,True
+Tadla_Trees_20240224_002,Tadla,2024-07-19,2024-07-29,test,True
+Tadla_Trees_20240224_002,Tadla,2024-07-29,2024-08-08,test,True
+Tadla_Trees_20240224_002,Tadla,2024-08-08,2024-08-18,test,True
+Tadla_Trees_20240224_002,Tadla,2024-08-18,2024-08-28,test,True
+Tadla_Trees_20240224_002,Tadla,2024-08-28,2024-09-07,test,True
+Tadla_Trees_20240224_002,Tadla,2024-09-07,2024-09-17,test,True
+Tadla_Trees_20240224_002,Tadla,2024-09-17,2024-09-27,test,True
+Tadla_Trees_20240224_002,Tadla,2024-09-27,2024-10-07,test,True
+Tadla_Trees_20240224_002,Tadla,2024-10-07,2024-10-17,test,False
+Tadla_Trees_20240224_002,Tadla,2024-10-17,2024-10-27,test,True
+Tadla_Trees_20240224_002,Tadla,2024-10-27,2024-11-06,test,True
+Tadla_Trees_20240224_002,Tadla,2024-11-06,2024-11-16,test,True
+Tadla_Trees_20240224_002,Tadla,2024-11-16,2024-11-26,test,True
+Tadla_Trees_20240224_002,Tadla,2024-11-26,2024-12-06,test,True
+Tadla_Trees_20240224_002,Tadla,2024-12-06,2024-12-16,test,True
+Tadla_Trees_20240224_002,Tadla,2024-12-16,2024-12-26,test,True
+Tadla_Trees_20240224_002,Tadla,2024-12-26,2025-01-01,test,True
+Tadla_Trees_20240224_017,Tadla,2021-01-01,2021-01-11,train,True
+Tadla_Trees_20240224_017,Tadla,2021-01-11,2021-01-21,train,True
+Tadla_Trees_20240224_017,Tadla,2021-01-21,2021-01-31,train,True
+Tadla_Trees_20240224_017,Tadla,2021-01-31,2021-02-10,train,True
+Tadla_Trees_20240224_017,Tadla,2021-02-10,2021-02-20,train,True
+Tadla_Trees_20240224_017,Tadla,2021-02-20,2021-03-02,train,True
+Tadla_Trees_20240224_017,Tadla,2021-03-02,2021-03-12,train,True
+Tadla_Trees_20240224_017,Tadla,2021-03-12,2021-03-22,train,True
+Tadla_Trees_20240224_017,Tadla,2021-03-22,2021-04-01,train,True
+Tadla_Trees_20240224_017,Tadla,2021-04-01,2021-04-11,train,True
+Tadla_Trees_20240224_017,Tadla,2021-04-11,2021-04-21,train,True
+Tadla_Trees_20240224_017,Tadla,2021-04-21,2021-05-01,train,True
+Tadla_Trees_20240224_017,Tadla,2021-05-01,2021-05-11,train,True
+Tadla_Trees_20240224_017,Tadla,2021-05-11,2021-05-21,train,True
+Tadla_Trees_20240224_017,Tadla,2021-05-21,2021-05-31,train,True
+Tadla_Trees_20240224_017,Tadla,2021-05-31,2021-06-10,train,True
+Tadla_Trees_20240224_017,Tadla,2021-06-10,2021-06-20,train,False
+Tadla_Trees_20240224_017,Tadla,2021-06-20,2021-06-30,train,True
+Tadla_Trees_20240224_017,Tadla,2021-06-30,2021-07-10,train,True
+Tadla_Trees_20240224_017,Tadla,2021-07-10,2021-07-20,train,True
+Tadla_Trees_20240224_017,Tadla,2021-07-20,2021-07-30,train,True
+Tadla_Trees_20240224_017,Tadla,2021-07-30,2021-08-09,train,True
+Tadla_Trees_20240224_017,Tadla,2021-08-09,2021-08-19,train,True
+Tadla_Trees_20240224_017,Tadla,2021-08-19,2021-08-29,train,True
+Tadla_Trees_20240224_017,Tadla,2021-08-29,2021-09-08,train,True
+Tadla_Trees_20240224_017,Tadla,2021-09-08,2021-09-18,train,False
+Tadla_Trees_20240224_017,Tadla,2021-09-18,2021-09-28,train,True
+Tadla_Trees_20240224_017,Tadla,2021-09-28,2021-10-08,train,True
+Tadla_Trees_20240224_017,Tadla,2021-10-08,2021-10-18,train,True
+Tadla_Trees_20240224_017,Tadla,2021-10-18,2021-10-28,train,True
+Tadla_Trees_20240224_017,Tadla,2021-10-28,2021-11-07,train,True
+Tadla_Trees_20240224_017,Tadla,2021-11-07,2021-11-17,train,True
+Tadla_Trees_20240224_017,Tadla,2021-11-17,2021-11-27,train,True
+Tadla_Trees_20240224_017,Tadla,2021-11-27,2021-12-07,train,True
+Tadla_Trees_20240224_017,Tadla,2021-12-07,2021-12-17,train,True
+Tadla_Trees_20240224_017,Tadla,2021-12-17,2021-12-27,train,True
+Tadla_Trees_20240224_017,Tadla,2021-12-27,2022-01-01,train,True
+Tadla_Trees_20240224_017,Tadla,2022-01-01,2022-01-11,train,False
+Tadla_Trees_20240224_017,Tadla,2022-01-11,2022-01-21,train,False
+Tadla_Trees_20240224_017,Tadla,2022-01-21,2022-01-31,train,False
+Tadla_Trees_20240224_017,Tadla,2022-01-31,2022-02-10,train,False
+Tadla_Trees_20240224_017,Tadla,2022-02-10,2022-02-20,train,False
+Tadla_Trees_20240224_017,Tadla,2022-02-20,2022-03-02,train,False
+Tadla_Trees_20240224_017,Tadla,2022-03-02,2022-03-12,train,False
+Tadla_Trees_20240224_017,Tadla,2022-03-12,2022-03-22,train,False
+Tadla_Trees_20240224_017,Tadla,2022-03-22,2022-04-01,train,True
+Tadla_Trees_20240224_017,Tadla,2022-04-01,2022-04-11,train,False
+Tadla_Trees_20240224_017,Tadla,2022-04-11,2022-04-21,train,False
+Tadla_Trees_20240224_017,Tadla,2022-04-21,2022-05-01,train,False
+Tadla_Trees_20240224_017,Tadla,2022-05-01,2022-05-11,train,False
+Tadla_Trees_20240224_017,Tadla,2022-05-11,2022-05-21,train,False
+Tadla_Trees_20240224_017,Tadla,2022-05-21,2022-05-31,train,False
+Tadla_Trees_20240224_017,Tadla,2022-05-31,2022-06-10,train,False
+Tadla_Trees_20240224_017,Tadla,2022-06-10,2022-06-20,train,False
+Tadla_Trees_20240224_017,Tadla,2022-06-20,2022-06-30,train,False
+Tadla_Trees_20240224_017,Tadla,2022-06-30,2022-07-10,train,False
+Tadla_Trees_20240224_017,Tadla,2022-07-10,2022-07-20,train,False
+Tadla_Trees_20240224_017,Tadla,2022-07-20,2022-07-30,train,False
+Tadla_Trees_20240224_017,Tadla,2022-07-30,2022-08-09,train,False
+Tadla_Trees_20240224_017,Tadla,2022-08-09,2022-08-19,train,False
+Tadla_Trees_20240224_017,Tadla,2022-08-19,2022-08-29,train,False
+Tadla_Trees_20240224_017,Tadla,2022-08-29,2022-09-08,train,False
+Tadla_Trees_20240224_017,Tadla,2022-09-08,2022-09-18,train,False
+Tadla_Trees_20240224_017,Tadla,2022-09-18,2022-09-28,train,False
+Tadla_Trees_20240224_017,Tadla,2022-09-28,2022-10-08,train,False
+Tadla_Trees_20240224_017,Tadla,2022-10-08,2022-10-18,train,False
+Tadla_Trees_20240224_017,Tadla,2022-10-18,2022-10-28,train,False
+Tadla_Trees_20240224_017,Tadla,2022-10-28,2022-11-07,train,False
+Tadla_Trees_20240224_017,Tadla,2022-11-07,2022-11-17,train,False
+Tadla_Trees_20240224_017,Tadla,2022-11-17,2022-11-27,train,False
+Tadla_Trees_20240224_017,Tadla,2022-11-27,2022-12-07,train,False
+Tadla_Trees_20240224_017,Tadla,2022-12-07,2022-12-17,train,False
+Tadla_Trees_20240224_017,Tadla,2022-12-17,2022-12-27,train,True
+Tadla_Trees_20240224_017,Tadla,2022-12-27,2023-01-01,train,False
+Tadla_Trees_20240224_017,Tadla,2023-01-01,2023-01-11,val,True
+Tadla_Trees_20240224_017,Tadla,2023-01-11,2023-01-21,val,True
+Tadla_Trees_20240224_017,Tadla,2023-01-21,2023-01-31,val,True
+Tadla_Trees_20240224_017,Tadla,2023-01-31,2023-02-10,val,True
+Tadla_Trees_20240224_017,Tadla,2023-02-10,2023-02-20,val,True
+Tadla_Trees_20240224_017,Tadla,2023-02-20,2023-03-02,val,True
+Tadla_Trees_20240224_017,Tadla,2023-03-02,2023-03-12,val,True
+Tadla_Trees_20240224_017,Tadla,2023-03-12,2023-03-22,val,True
+Tadla_Trees_20240224_017,Tadla,2023-03-22,2023-04-01,val,True
+Tadla_Trees_20240224_017,Tadla,2023-04-01,2023-04-11,val,True
+Tadla_Trees_20240224_017,Tadla,2023-04-11,2023-04-21,val,True
+Tadla_Trees_20240224_017,Tadla,2023-04-21,2023-05-01,val,True
+Tadla_Trees_20240224_017,Tadla,2023-05-01,2023-05-11,val,True
+Tadla_Trees_20240224_017,Tadla,2023-05-11,2023-05-21,val,True
+Tadla_Trees_20240224_017,Tadla,2023-05-21,2023-05-31,val,True
+Tadla_Trees_20240224_017,Tadla,2023-05-31,2023-06-10,val,True
+Tadla_Trees_20240224_017,Tadla,2023-06-10,2023-06-20,val,True
+Tadla_Trees_20240224_017,Tadla,2023-06-20,2023-06-30,val,True
+Tadla_Trees_20240224_017,Tadla,2023-06-30,2023-07-10,val,True
+Tadla_Trees_20240224_017,Tadla,2023-07-10,2023-07-20,val,True
+Tadla_Trees_20240224_017,Tadla,2023-07-20,2023-07-30,val,True
+Tadla_Trees_20240224_017,Tadla,2023-07-30,2023-08-09,val,True
+Tadla_Trees_20240224_017,Tadla,2023-08-09,2023-08-19,val,True
+Tadla_Trees_20240224_017,Tadla,2023-08-19,2023-08-29,val,True
+Tadla_Trees_20240224_017,Tadla,2023-08-29,2023-09-08,val,True
+Tadla_Trees_20240224_017,Tadla,2023-09-08,2023-09-18,val,True
+Tadla_Trees_20240224_017,Tadla,2023-09-18,2023-09-28,val,True
+Tadla_Trees_20240224_017,Tadla,2023-09-28,2023-10-08,val,True
+Tadla_Trees_20240224_017,Tadla,2023-10-08,2023-10-18,val,True
+Tadla_Trees_20240224_017,Tadla,2023-10-18,2023-10-28,val,False
+Tadla_Trees_20240224_017,Tadla,2023-10-28,2023-11-07,val,True
+Tadla_Trees_20240224_017,Tadla,2023-11-07,2023-11-17,val,True
+Tadla_Trees_20240224_017,Tadla,2023-11-17,2023-11-27,val,True
+Tadla_Trees_20240224_017,Tadla,2023-11-27,2023-12-07,val,True
+Tadla_Trees_20240224_017,Tadla,2023-12-07,2023-12-17,val,False
+Tadla_Trees_20240224_017,Tadla,2023-12-17,2023-12-27,val,True
+Tadla_Trees_20240224_017,Tadla,2023-12-27,2024-01-01,val,True
+Tadla_Trees_20240224_017,Tadla,2024-01-01,2024-01-11,test,True
+Tadla_Trees_20240224_017,Tadla,2024-01-11,2024-01-21,test,True
+Tadla_Trees_20240224_017,Tadla,2024-01-21,2024-01-31,test,True
+Tadla_Trees_20240224_017,Tadla,2024-01-31,2024-02-10,test,True
+Tadla_Trees_20240224_017,Tadla,2024-02-10,2024-02-20,test,False
+Tadla_Trees_20240224_017,Tadla,2024-02-20,2024-03-01,test,True
+Tadla_Trees_20240224_017,Tadla,2024-03-01,2024-03-11,test,True
+Tadla_Trees_20240224_017,Tadla,2024-03-11,2024-03-21,test,False
+Tadla_Trees_20240224_017,Tadla,2024-03-21,2024-03-31,test,False
+Tadla_Trees_20240224_017,Tadla,2024-03-31,2024-04-10,test,True
+Tadla_Trees_20240224_017,Tadla,2024-04-10,2024-04-20,test,True
+Tadla_Trees_20240224_017,Tadla,2024-04-20,2024-04-30,test,True
+Tadla_Trees_20240224_017,Tadla,2024-04-30,2024-05-10,test,False
+Tadla_Trees_20240224_017,Tadla,2024-05-10,2024-05-20,test,True
+Tadla_Trees_20240224_017,Tadla,2024-05-20,2024-05-30,test,True
+Tadla_Trees_20240224_017,Tadla,2024-05-30,2024-06-09,test,True
+Tadla_Trees_20240224_017,Tadla,2024-06-09,2024-06-19,test,True
+Tadla_Trees_20240224_017,Tadla,2024-06-19,2024-06-29,test,True
+Tadla_Trees_20240224_017,Tadla,2024-06-29,2024-07-09,test,True
+Tadla_Trees_20240224_017,Tadla,2024-07-09,2024-07-19,test,True
+Tadla_Trees_20240224_017,Tadla,2024-07-19,2024-07-29,test,True
+Tadla_Trees_20240224_017,Tadla,2024-07-29,2024-08-08,test,True
+Tadla_Trees_20240224_017,Tadla,2024-08-08,2024-08-18,test,True
+Tadla_Trees_20240224_017,Tadla,2024-08-18,2024-08-28,test,True
+Tadla_Trees_20240224_017,Tadla,2024-08-28,2024-09-07,test,True
+Tadla_Trees_20240224_017,Tadla,2024-09-07,2024-09-17,test,True
+Tadla_Trees_20240224_017,Tadla,2024-09-17,2024-09-27,test,True
+Tadla_Trees_20240224_017,Tadla,2024-09-27,2024-10-07,test,True
+Tadla_Trees_20240224_017,Tadla,2024-10-07,2024-10-17,test,False
+Tadla_Trees_20240224_017,Tadla,2024-10-17,2024-10-27,test,True
+Tadla_Trees_20240224_017,Tadla,2024-10-27,2024-11-06,test,True
+Tadla_Trees_20240224_017,Tadla,2024-11-06,2024-11-16,test,True
+Tadla_Trees_20240224_017,Tadla,2024-11-16,2024-11-26,test,True
+Tadla_Trees_20240224_017,Tadla,2024-11-26,2024-12-06,test,True
+Tadla_Trees_20240224_017,Tadla,2024-12-06,2024-12-16,test,True
+Tadla_Trees_20240224_017,Tadla,2024-12-16,2024-12-26,test,True
+Tadla_Trees_20240224_017,Tadla,2024-12-26,2025-01-01,test,True
+el haouz_Trees_20231221_036,el haouz,2021-01-01,2021-01-11,train,True
+el haouz_Trees_20231221_036,el haouz,2021-01-11,2021-01-21,train,True
+el haouz_Trees_20231221_036,el haouz,2021-01-21,2021-01-31,train,True
+el haouz_Trees_20231221_036,el haouz,2021-01-31,2021-02-10,train,True
+el haouz_Trees_20231221_036,el haouz,2021-02-10,2021-02-20,train,True
+el haouz_Trees_20231221_036,el haouz,2021-02-20,2021-03-02,train,True
+el haouz_Trees_20231221_036,el haouz,2021-03-02,2021-03-12,train,True
+el haouz_Trees_20231221_036,el haouz,2021-03-12,2021-03-22,train,True
+el haouz_Trees_20231221_036,el haouz,2021-03-22,2021-04-01,train,True
+el haouz_Trees_20231221_036,el haouz,2021-04-01,2021-04-11,train,True
+el haouz_Trees_20231221_036,el haouz,2021-04-11,2021-04-21,train,False
+el haouz_Trees_20231221_036,el haouz,2021-04-21,2021-05-01,train,True
+el haouz_Trees_20231221_036,el haouz,2021-05-01,2021-05-11,train,True
+el haouz_Trees_20231221_036,el haouz,2021-05-11,2021-05-21,train,True
+el haouz_Trees_20231221_036,el haouz,2021-05-21,2021-05-31,train,True
+el haouz_Trees_20231221_036,el haouz,2021-05-31,2021-06-10,train,True
+el haouz_Trees_20231221_036,el haouz,2021-06-10,2021-06-20,train,True
+el haouz_Trees_20231221_036,el haouz,2021-06-20,2021-06-30,train,True
+el haouz_Trees_20231221_036,el haouz,2021-06-30,2021-07-10,train,True
+el haouz_Trees_20231221_036,el haouz,2021-07-10,2021-07-20,train,True
+el haouz_Trees_20231221_036,el haouz,2021-07-20,2021-07-30,train,True
+el haouz_Trees_20231221_036,el haouz,2021-07-30,2021-08-09,train,True
+el haouz_Trees_20231221_036,el haouz,2021-08-09,2021-08-19,train,True
+el haouz_Trees_20231221_036,el haouz,2021-08-19,2021-08-29,train,True
+el haouz_Trees_20231221_036,el haouz,2021-08-29,2021-09-08,train,True
+el haouz_Trees_20231221_036,el haouz,2021-09-08,2021-09-18,train,False
+el haouz_Trees_20231221_036,el haouz,2021-09-18,2021-09-28,train,True
+el haouz_Trees_20231221_036,el haouz,2021-09-28,2021-10-08,train,True
+el haouz_Trees_20231221_036,el haouz,2021-10-08,2021-10-18,train,True
+el haouz_Trees_20231221_036,el haouz,2021-10-18,2021-10-28,train,True
+el haouz_Trees_20231221_036,el haouz,2021-10-28,2021-11-07,train,True
+el haouz_Trees_20231221_036,el haouz,2021-11-07,2021-11-17,train,True
+el haouz_Trees_20231221_036,el haouz,2021-11-17,2021-11-27,train,True
+el haouz_Trees_20231221_036,el haouz,2021-11-27,2021-12-07,train,False
+el haouz_Trees_20231221_036,el haouz,2021-12-07,2021-12-17,train,True
+el haouz_Trees_20231221_036,el haouz,2021-12-17,2021-12-27,train,True
+el haouz_Trees_20231221_036,el haouz,2021-12-27,2022-01-01,train,False
+el haouz_Trees_20231221_036,el haouz,2022-01-01,2022-01-11,train,False
+el haouz_Trees_20231221_036,el haouz,2022-01-11,2022-01-21,train,False
+el haouz_Trees_20231221_036,el haouz,2022-01-21,2022-01-31,train,False
+el haouz_Trees_20231221_036,el haouz,2022-01-31,2022-02-10,train,False
+el haouz_Trees_20231221_036,el haouz,2022-02-10,2022-02-20,train,False
+el haouz_Trees_20231221_036,el haouz,2022-02-20,2022-03-02,train,False
+el haouz_Trees_20231221_036,el haouz,2022-03-02,2022-03-12,train,False
+el haouz_Trees_20231221_036,el haouz,2022-03-12,2022-03-22,train,False
+el haouz_Trees_20231221_036,el haouz,2022-03-22,2022-04-01,train,False
+el haouz_Trees_20231221_036,el haouz,2022-04-01,2022-04-11,train,False
+el haouz_Trees_20231221_036,el haouz,2022-04-11,2022-04-21,train,False
+el haouz_Trees_20231221_036,el haouz,2022-04-21,2022-05-01,train,False
+el haouz_Trees_20231221_036,el haouz,2022-05-01,2022-05-11,train,False
+el haouz_Trees_20231221_036,el haouz,2022-05-11,2022-05-21,train,False
+el haouz_Trees_20231221_036,el haouz,2022-05-21,2022-05-31,train,False
+el haouz_Trees_20231221_036,el haouz,2022-05-31,2022-06-10,train,False
+el haouz_Trees_20231221_036,el haouz,2022-06-10,2022-06-20,train,False
+el haouz_Trees_20231221_036,el haouz,2022-06-20,2022-06-30,train,False
+el haouz_Trees_20231221_036,el haouz,2022-06-30,2022-07-10,train,False
+el haouz_Trees_20231221_036,el haouz,2022-07-10,2022-07-20,train,False
+el haouz_Trees_20231221_036,el haouz,2022-07-20,2022-07-30,train,False
+el haouz_Trees_20231221_036,el haouz,2022-07-30,2022-08-09,train,False
+el haouz_Trees_20231221_036,el haouz,2022-08-09,2022-08-19,train,False
+el haouz_Trees_20231221_036,el haouz,2022-08-19,2022-08-29,train,False
+el haouz_Trees_20231221_036,el haouz,2022-08-29,2022-09-08,train,False
+el haouz_Trees_20231221_036,el haouz,2022-09-08,2022-09-18,train,False
+el haouz_Trees_20231221_036,el haouz,2022-09-18,2022-09-28,train,False
+el haouz_Trees_20231221_036,el haouz,2022-09-28,2022-10-08,train,False
+el haouz_Trees_20231221_036,el haouz,2022-10-08,2022-10-18,train,False
+el haouz_Trees_20231221_036,el haouz,2022-10-18,2022-10-28,train,False
+el haouz_Trees_20231221_036,el haouz,2022-10-28,2022-11-07,train,False
+el haouz_Trees_20231221_036,el haouz,2022-11-07,2022-11-17,train,False
+el haouz_Trees_20231221_036,el haouz,2022-11-17,2022-11-27,train,False
+el haouz_Trees_20231221_036,el haouz,2022-11-27,2022-12-07,train,False
+el haouz_Trees_20231221_036,el haouz,2022-12-07,2022-12-17,train,False
+el haouz_Trees_20231221_036,el haouz,2022-12-17,2022-12-27,train,True
+el haouz_Trees_20231221_036,el haouz,2022-12-27,2023-01-01,train,True
+el haouz_Trees_20231221_036,el haouz,2023-01-01,2023-01-11,val,True
+el haouz_Trees_20231221_036,el haouz,2023-01-11,2023-01-21,val,True
+el haouz_Trees_20231221_036,el haouz,2023-01-21,2023-01-31,val,True
+el haouz_Trees_20231221_036,el haouz,2023-01-31,2023-02-10,val,True
+el haouz_Trees_20231221_036,el haouz,2023-02-10,2023-02-20,val,False
+el haouz_Trees_20231221_036,el haouz,2023-02-20,2023-03-02,val,True
+el haouz_Trees_20231221_036,el haouz,2023-03-02,2023-03-12,val,True
+el haouz_Trees_20231221_036,el haouz,2023-03-12,2023-03-22,val,True
+el haouz_Trees_20231221_036,el haouz,2023-03-22,2023-04-01,val,True
+el haouz_Trees_20231221_036,el haouz,2023-04-01,2023-04-11,val,True
+el haouz_Trees_20231221_036,el haouz,2023-04-11,2023-04-21,val,True
+el haouz_Trees_20231221_036,el haouz,2023-04-21,2023-05-01,val,True
+el haouz_Trees_20231221_036,el haouz,2023-05-01,2023-05-11,val,True
+el haouz_Trees_20231221_036,el haouz,2023-05-11,2023-05-21,val,True
+el haouz_Trees_20231221_036,el haouz,2023-05-21,2023-05-31,val,False
+el haouz_Trees_20231221_036,el haouz,2023-05-31,2023-06-10,val,True
+el haouz_Trees_20231221_036,el haouz,2023-06-10,2023-06-20,val,True
+el haouz_Trees_20231221_036,el haouz,2023-06-20,2023-06-30,val,True
+el haouz_Trees_20231221_036,el haouz,2023-06-30,2023-07-10,val,True
+el haouz_Trees_20231221_036,el haouz,2023-07-10,2023-07-20,val,True
+el haouz_Trees_20231221_036,el haouz,2023-07-20,2023-07-30,val,True
+el haouz_Trees_20231221_036,el haouz,2023-07-30,2023-08-09,val,True
+el haouz_Trees_20231221_036,el haouz,2023-08-09,2023-08-19,val,True
+el haouz_Trees_20231221_036,el haouz,2023-08-19,2023-08-29,val,True
+el haouz_Trees_20231221_036,el haouz,2023-08-29,2023-09-08,val,True
+el haouz_Trees_20231221_036,el haouz,2023-09-08,2023-09-18,val,True
+el haouz_Trees_20231221_036,el haouz,2023-09-18,2023-09-28,val,True
+el haouz_Trees_20231221_036,el haouz,2023-09-28,2023-10-08,val,True
+el haouz_Trees_20231221_036,el haouz,2023-10-08,2023-10-18,val,True
+el haouz_Trees_20231221_036,el haouz,2023-10-18,2023-10-28,val,True
+el haouz_Trees_20231221_036,el haouz,2023-10-28,2023-11-07,val,True
+el haouz_Trees_20231221_036,el haouz,2023-11-07,2023-11-17,val,True
+el haouz_Trees_20231221_036,el haouz,2023-11-17,2023-11-27,val,True
+el haouz_Trees_20231221_036,el haouz,2023-11-27,2023-12-07,val,True
+el haouz_Trees_20231221_036,el haouz,2023-12-07,2023-12-17,val,False
+el haouz_Trees_20231221_036,el haouz,2023-12-17,2023-12-27,val,True
+el haouz_Trees_20231221_036,el haouz,2023-12-27,2024-01-01,val,True
+el haouz_Trees_20231221_036,el haouz,2024-01-01,2024-01-11,test,False
+el haouz_Trees_20231221_036,el haouz,2024-01-11,2024-01-21,test,True
+el haouz_Trees_20231221_036,el haouz,2024-01-21,2024-01-31,test,True
+el haouz_Trees_20231221_036,el haouz,2024-01-31,2024-02-10,test,False
+el haouz_Trees_20231221_036,el haouz,2024-02-10,2024-02-20,test,True
+el haouz_Trees_20231221_036,el haouz,2024-02-20,2024-03-01,test,True
+el haouz_Trees_20231221_036,el haouz,2024-03-01,2024-03-11,test,True
+el haouz_Trees_20231221_036,el haouz,2024-03-11,2024-03-21,test,True
+el haouz_Trees_20231221_036,el haouz,2024-03-21,2024-03-31,test,False
+el haouz_Trees_20231221_036,el haouz,2024-03-31,2024-04-10,test,True
+el haouz_Trees_20231221_036,el haouz,2024-04-10,2024-04-20,test,True
+el haouz_Trees_20231221_036,el haouz,2024-04-20,2024-04-30,test,True
+el haouz_Trees_20231221_036,el haouz,2024-04-30,2024-05-10,test,True
+el haouz_Trees_20231221_036,el haouz,2024-05-10,2024-05-20,test,True
+el haouz_Trees_20231221_036,el haouz,2024-05-20,2024-05-30,test,True
+el haouz_Trees_20231221_036,el haouz,2024-05-30,2024-06-09,test,True
+el haouz_Trees_20231221_036,el haouz,2024-06-09,2024-06-19,test,True
+el haouz_Trees_20231221_036,el haouz,2024-06-19,2024-06-29,test,True
+el haouz_Trees_20231221_036,el haouz,2024-06-29,2024-07-09,test,True
+el haouz_Trees_20231221_036,el haouz,2024-07-09,2024-07-19,test,True
+el haouz_Trees_20231221_036,el haouz,2024-07-19,2024-07-29,test,True
+el haouz_Trees_20231221_036,el haouz,2024-07-29,2024-08-08,test,True
+el haouz_Trees_20231221_036,el haouz,2024-08-08,2024-08-18,test,True
+el haouz_Trees_20231221_036,el haouz,2024-08-18,2024-08-28,test,True
+el haouz_Trees_20231221_036,el haouz,2024-08-28,2024-09-07,test,True
+el haouz_Trees_20231221_036,el haouz,2024-09-07,2024-09-17,test,True
+el haouz_Trees_20231221_036,el haouz,2024-09-17,2024-09-27,test,True
+el haouz_Trees_20231221_036,el haouz,2024-09-27,2024-10-07,test,True
+el haouz_Trees_20231221_036,el haouz,2024-10-07,2024-10-17,test,False
+el haouz_Trees_20231221_036,el haouz,2024-10-17,2024-10-27,test,True
+el haouz_Trees_20231221_036,el haouz,2024-10-27,2024-11-06,test,True
+el haouz_Trees_20231221_036,el haouz,2024-11-06,2024-11-16,test,True
+el haouz_Trees_20231221_036,el haouz,2024-11-16,2024-11-26,test,True
+el haouz_Trees_20231221_036,el haouz,2024-11-26,2024-12-06,test,False
+el haouz_Trees_20231221_036,el haouz,2024-12-06,2024-12-16,test,True
+el haouz_Trees_20231221_036,el haouz,2024-12-16,2024-12-26,test,True
+el haouz_Trees_20231221_036,el haouz,2024-12-26,2025-01-01,test,True
+el haouz_Trees_20231221_038,el haouz,2021-01-01,2021-01-11,train,True
+el haouz_Trees_20231221_038,el haouz,2021-01-11,2021-01-21,train,True
+el haouz_Trees_20231221_038,el haouz,2021-01-21,2021-01-31,train,True
+el haouz_Trees_20231221_038,el haouz,2021-01-31,2021-02-10,train,True
+el haouz_Trees_20231221_038,el haouz,2021-02-10,2021-02-20,train,True
+el haouz_Trees_20231221_038,el haouz,2021-02-20,2021-03-02,train,True
+el haouz_Trees_20231221_038,el haouz,2021-03-02,2021-03-12,train,True
+el haouz_Trees_20231221_038,el haouz,2021-03-12,2021-03-22,train,True
+el haouz_Trees_20231221_038,el haouz,2021-03-22,2021-04-01,train,True
+el haouz_Trees_20231221_038,el haouz,2021-04-01,2021-04-11,train,True
+el haouz_Trees_20231221_038,el haouz,2021-04-11,2021-04-21,train,False
+el haouz_Trees_20231221_038,el haouz,2021-04-21,2021-05-01,train,True
+el haouz_Trees_20231221_038,el haouz,2021-05-01,2021-05-11,train,True
+el haouz_Trees_20231221_038,el haouz,2021-05-11,2021-05-21,train,True
+el haouz_Trees_20231221_038,el haouz,2021-05-21,2021-05-31,train,True
+el haouz_Trees_20231221_038,el haouz,2021-05-31,2021-06-10,train,True
+el haouz_Trees_20231221_038,el haouz,2021-06-10,2021-06-20,train,True
+el haouz_Trees_20231221_038,el haouz,2021-06-20,2021-06-30,train,True
+el haouz_Trees_20231221_038,el haouz,2021-06-30,2021-07-10,train,True
+el haouz_Trees_20231221_038,el haouz,2021-07-10,2021-07-20,train,True
+el haouz_Trees_20231221_038,el haouz,2021-07-20,2021-07-30,train,True
+el haouz_Trees_20231221_038,el haouz,2021-07-30,2021-08-09,train,True
+el haouz_Trees_20231221_038,el haouz,2021-08-09,2021-08-19,train,True
+el haouz_Trees_20231221_038,el haouz,2021-08-19,2021-08-29,train,True
+el haouz_Trees_20231221_038,el haouz,2021-08-29,2021-09-08,train,True
+el haouz_Trees_20231221_038,el haouz,2021-09-08,2021-09-18,train,True
+el haouz_Trees_20231221_038,el haouz,2021-09-18,2021-09-28,train,True
+el haouz_Trees_20231221_038,el haouz,2021-09-28,2021-10-08,train,True
+el haouz_Trees_20231221_038,el haouz,2021-10-08,2021-10-18,train,True
+el haouz_Trees_20231221_038,el haouz,2021-10-18,2021-10-28,train,True
+el haouz_Trees_20231221_038,el haouz,2021-10-28,2021-11-07,train,True
+el haouz_Trees_20231221_038,el haouz,2021-11-07,2021-11-17,train,True
+el haouz_Trees_20231221_038,el haouz,2021-11-17,2021-11-27,train,True
+el haouz_Trees_20231221_038,el haouz,2021-11-27,2021-12-07,train,False
+el haouz_Trees_20231221_038,el haouz,2021-12-07,2021-12-17,train,True
+el haouz_Trees_20231221_038,el haouz,2021-12-17,2021-12-27,train,True
+el haouz_Trees_20231221_038,el haouz,2021-12-27,2022-01-01,train,False
+el haouz_Trees_20231221_038,el haouz,2022-01-01,2022-01-11,train,False
+el haouz_Trees_20231221_038,el haouz,2022-01-11,2022-01-21,train,False
+el haouz_Trees_20231221_038,el haouz,2022-01-21,2022-01-31,train,False
+el haouz_Trees_20231221_038,el haouz,2022-01-31,2022-02-10,train,False
+el haouz_Trees_20231221_038,el haouz,2022-02-10,2022-02-20,train,False
+el haouz_Trees_20231221_038,el haouz,2022-02-20,2022-03-02,train,False
+el haouz_Trees_20231221_038,el haouz,2022-03-02,2022-03-12,train,False
+el haouz_Trees_20231221_038,el haouz,2022-03-12,2022-03-22,train,False
+el haouz_Trees_20231221_038,el haouz,2022-03-22,2022-04-01,train,False
+el haouz_Trees_20231221_038,el haouz,2022-04-01,2022-04-11,train,False
+el haouz_Trees_20231221_038,el haouz,2022-04-11,2022-04-21,train,False
+el haouz_Trees_20231221_038,el haouz,2022-04-21,2022-05-01,train,False
+el haouz_Trees_20231221_038,el haouz,2022-05-01,2022-05-11,train,False
+el haouz_Trees_20231221_038,el haouz,2022-05-11,2022-05-21,train,False
+el haouz_Trees_20231221_038,el haouz,2022-05-21,2022-05-31,train,False
+el haouz_Trees_20231221_038,el haouz,2022-05-31,2022-06-10,train,False
+el haouz_Trees_20231221_038,el haouz,2022-06-10,2022-06-20,train,False
+el haouz_Trees_20231221_038,el haouz,2022-06-20,2022-06-30,train,False
+el haouz_Trees_20231221_038,el haouz,2022-06-30,2022-07-10,train,False
+el haouz_Trees_20231221_038,el haouz,2022-07-10,2022-07-20,train,False
+el haouz_Trees_20231221_038,el haouz,2022-07-20,2022-07-30,train,False
+el haouz_Trees_20231221_038,el haouz,2022-07-30,2022-08-09,train,False
+el haouz_Trees_20231221_038,el haouz,2022-08-09,2022-08-19,train,False
+el haouz_Trees_20231221_038,el haouz,2022-08-19,2022-08-29,train,False
+el haouz_Trees_20231221_038,el haouz,2022-08-29,2022-09-08,train,False
+el haouz_Trees_20231221_038,el haouz,2022-09-08,2022-09-18,train,False
+el haouz_Trees_20231221_038,el haouz,2022-09-18,2022-09-28,train,False
+el haouz_Trees_20231221_038,el haouz,2022-09-28,2022-10-08,train,False
+el haouz_Trees_20231221_038,el haouz,2022-10-08,2022-10-18,train,False
+el haouz_Trees_20231221_038,el haouz,2022-10-18,2022-10-28,train,False
+el haouz_Trees_20231221_038,el haouz,2022-10-28,2022-11-07,train,False
+el haouz_Trees_20231221_038,el haouz,2022-11-07,2022-11-17,train,False
+el haouz_Trees_20231221_038,el haouz,2022-11-17,2022-11-27,train,False
+el haouz_Trees_20231221_038,el haouz,2022-11-27,2022-12-07,train,False
+el haouz_Trees_20231221_038,el haouz,2022-12-07,2022-12-17,train,False
+el haouz_Trees_20231221_038,el haouz,2022-12-17,2022-12-27,train,True
+el haouz_Trees_20231221_038,el haouz,2022-12-27,2023-01-01,train,True
+el haouz_Trees_20231221_038,el haouz,2023-01-01,2023-01-11,val,True
+el haouz_Trees_20231221_038,el haouz,2023-01-11,2023-01-21,val,True
+el haouz_Trees_20231221_038,el haouz,2023-01-21,2023-01-31,val,True
+el haouz_Trees_20231221_038,el haouz,2023-01-31,2023-02-10,val,True
+el haouz_Trees_20231221_038,el haouz,2023-02-10,2023-02-20,val,False
+el haouz_Trees_20231221_038,el haouz,2023-02-20,2023-03-02,val,True
+el haouz_Trees_20231221_038,el haouz,2023-03-02,2023-03-12,val,True
+el haouz_Trees_20231221_038,el haouz,2023-03-12,2023-03-22,val,True
+el haouz_Trees_20231221_038,el haouz,2023-03-22,2023-04-01,val,True
+el haouz_Trees_20231221_038,el haouz,2023-04-01,2023-04-11,val,True
+el haouz_Trees_20231221_038,el haouz,2023-04-11,2023-04-21,val,True
+el haouz_Trees_20231221_038,el haouz,2023-04-21,2023-05-01,val,True
+el haouz_Trees_20231221_038,el haouz,2023-05-01,2023-05-11,val,True
+el haouz_Trees_20231221_038,el haouz,2023-05-11,2023-05-21,val,True
+el haouz_Trees_20231221_038,el haouz,2023-05-21,2023-05-31,val,False
+el haouz_Trees_20231221_038,el haouz,2023-05-31,2023-06-10,val,True
+el haouz_Trees_20231221_038,el haouz,2023-06-10,2023-06-20,val,True
+el haouz_Trees_20231221_038,el haouz,2023-06-20,2023-06-30,val,True
+el haouz_Trees_20231221_038,el haouz,2023-06-30,2023-07-10,val,True
+el haouz_Trees_20231221_038,el haouz,2023-07-10,2023-07-20,val,True
+el haouz_Trees_20231221_038,el haouz,2023-07-20,2023-07-30,val,True
+el haouz_Trees_20231221_038,el haouz,2023-07-30,2023-08-09,val,True
+el haouz_Trees_20231221_038,el haouz,2023-08-09,2023-08-19,val,True
+el haouz_Trees_20231221_038,el haouz,2023-08-19,2023-08-29,val,True
+el haouz_Trees_20231221_038,el haouz,2023-08-29,2023-09-08,val,True
+el haouz_Trees_20231221_038,el haouz,2023-09-08,2023-09-18,val,True
+el haouz_Trees_20231221_038,el haouz,2023-09-18,2023-09-28,val,True
+el haouz_Trees_20231221_038,el haouz,2023-09-28,2023-10-08,val,True
+el haouz_Trees_20231221_038,el haouz,2023-10-08,2023-10-18,val,True
+el haouz_Trees_20231221_038,el haouz,2023-10-18,2023-10-28,val,True
+el haouz_Trees_20231221_038,el haouz,2023-10-28,2023-11-07,val,True
+el haouz_Trees_20231221_038,el haouz,2023-11-07,2023-11-17,val,True
+el haouz_Trees_20231221_038,el haouz,2023-11-17,2023-11-27,val,True
+el haouz_Trees_20231221_038,el haouz,2023-11-27,2023-12-07,val,True
+el haouz_Trees_20231221_038,el haouz,2023-12-07,2023-12-17,val,False
+el haouz_Trees_20231221_038,el haouz,2023-12-17,2023-12-27,val,True
+el haouz_Trees_20231221_038,el haouz,2023-12-27,2024-01-01,val,True
+el haouz_Trees_20231221_038,el haouz,2024-01-01,2024-01-11,test,False
+el haouz_Trees_20231221_038,el haouz,2024-01-11,2024-01-21,test,True
+el haouz_Trees_20231221_038,el haouz,2024-01-21,2024-01-31,test,True
+el haouz_Trees_20231221_038,el haouz,2024-01-31,2024-02-10,test,False
+el haouz_Trees_20231221_038,el haouz,2024-02-10,2024-02-20,test,True
+el haouz_Trees_20231221_038,el haouz,2024-02-20,2024-03-01,test,True
+el haouz_Trees_20231221_038,el haouz,2024-03-01,2024-03-11,test,True
+el haouz_Trees_20231221_038,el haouz,2024-03-11,2024-03-21,test,True
+el haouz_Trees_20231221_038,el haouz,2024-03-21,2024-03-31,test,False
+el haouz_Trees_20231221_038,el haouz,2024-03-31,2024-04-10,test,True
+el haouz_Trees_20231221_038,el haouz,2024-04-10,2024-04-20,test,True
+el haouz_Trees_20231221_038,el haouz,2024-04-20,2024-04-30,test,True
+el haouz_Trees_20231221_038,el haouz,2024-04-30,2024-05-10,test,True
+el haouz_Trees_20231221_038,el haouz,2024-05-10,2024-05-20,test,True
+el haouz_Trees_20231221_038,el haouz,2024-05-20,2024-05-30,test,True
+el haouz_Trees_20231221_038,el haouz,2024-05-30,2024-06-09,test,True
+el haouz_Trees_20231221_038,el haouz,2024-06-09,2024-06-19,test,True
+el haouz_Trees_20231221_038,el haouz,2024-06-19,2024-06-29,test,True
+el haouz_Trees_20231221_038,el haouz,2024-06-29,2024-07-09,test,True
+el haouz_Trees_20231221_038,el haouz,2024-07-09,2024-07-19,test,True
+el haouz_Trees_20231221_038,el haouz,2024-07-19,2024-07-29,test,True
+el haouz_Trees_20231221_038,el haouz,2024-07-29,2024-08-08,test,True
+el haouz_Trees_20231221_038,el haouz,2024-08-08,2024-08-18,test,True
+el haouz_Trees_20231221_038,el haouz,2024-08-18,2024-08-28,test,True
+el haouz_Trees_20231221_038,el haouz,2024-08-28,2024-09-07,test,True
+el haouz_Trees_20231221_038,el haouz,2024-09-07,2024-09-17,test,True
+el haouz_Trees_20231221_038,el haouz,2024-09-17,2024-09-27,test,True
+el haouz_Trees_20231221_038,el haouz,2024-09-27,2024-10-07,test,True
+el haouz_Trees_20231221_038,el haouz,2024-10-07,2024-10-17,test,False
+el haouz_Trees_20231221_038,el haouz,2024-10-17,2024-10-27,test,True
+el haouz_Trees_20231221_038,el haouz,2024-10-27,2024-11-06,test,True
+el haouz_Trees_20231221_038,el haouz,2024-11-06,2024-11-16,test,True
+el haouz_Trees_20231221_038,el haouz,2024-11-16,2024-11-26,test,True
+el haouz_Trees_20231221_038,el haouz,2024-11-26,2024-12-06,test,False
+el haouz_Trees_20231221_038,el haouz,2024-12-06,2024-12-16,test,True
+el haouz_Trees_20231221_038,el haouz,2024-12-16,2024-12-26,test,False
+el haouz_Trees_20231221_038,el haouz,2024-12-26,2025-01-01,test,True
+el haouz_Trees_20231221_083,el haouz,2021-01-01,2021-01-11,train,True
+el haouz_Trees_20231221_083,el haouz,2021-01-11,2021-01-21,train,True
+el haouz_Trees_20231221_083,el haouz,2021-01-21,2021-01-31,train,True
+el haouz_Trees_20231221_083,el haouz,2021-01-31,2021-02-10,train,True
+el haouz_Trees_20231221_083,el haouz,2021-02-10,2021-02-20,train,True
+el haouz_Trees_20231221_083,el haouz,2021-02-20,2021-03-02,train,True
+el haouz_Trees_20231221_083,el haouz,2021-03-02,2021-03-12,train,True
+el haouz_Trees_20231221_083,el haouz,2021-03-12,2021-03-22,train,True
+el haouz_Trees_20231221_083,el haouz,2021-03-22,2021-04-01,train,True
+el haouz_Trees_20231221_083,el haouz,2021-04-01,2021-04-11,train,True
+el haouz_Trees_20231221_083,el haouz,2021-04-11,2021-04-21,train,False
+el haouz_Trees_20231221_083,el haouz,2021-04-21,2021-05-01,train,True
+el haouz_Trees_20231221_083,el haouz,2021-05-01,2021-05-11,train,True
+el haouz_Trees_20231221_083,el haouz,2021-05-11,2021-05-21,train,True
+el haouz_Trees_20231221_083,el haouz,2021-05-21,2021-05-31,train,True
+el haouz_Trees_20231221_083,el haouz,2021-05-31,2021-06-10,train,True
+el haouz_Trees_20231221_083,el haouz,2021-06-10,2021-06-20,train,True
+el haouz_Trees_20231221_083,el haouz,2021-06-20,2021-06-30,train,True
+el haouz_Trees_20231221_083,el haouz,2021-06-30,2021-07-10,train,True
+el haouz_Trees_20231221_083,el haouz,2021-07-10,2021-07-20,train,True
+el haouz_Trees_20231221_083,el haouz,2021-07-20,2021-07-30,train,True
+el haouz_Trees_20231221_083,el haouz,2021-07-30,2021-08-09,train,True
+el haouz_Trees_20231221_083,el haouz,2021-08-09,2021-08-19,train,True
+el haouz_Trees_20231221_083,el haouz,2021-08-19,2021-08-29,train,True
+el haouz_Trees_20231221_083,el haouz,2021-08-29,2021-09-08,train,True
+el haouz_Trees_20231221_083,el haouz,2021-09-08,2021-09-18,train,True
+el haouz_Trees_20231221_083,el haouz,2021-09-18,2021-09-28,train,True
+el haouz_Trees_20231221_083,el haouz,2021-09-28,2021-10-08,train,True
+el haouz_Trees_20231221_083,el haouz,2021-10-08,2021-10-18,train,True
+el haouz_Trees_20231221_083,el haouz,2021-10-18,2021-10-28,train,True
+el haouz_Trees_20231221_083,el haouz,2021-10-28,2021-11-07,train,True
+el haouz_Trees_20231221_083,el haouz,2021-11-07,2021-11-17,train,True
+el haouz_Trees_20231221_083,el haouz,2021-11-17,2021-11-27,train,True
+el haouz_Trees_20231221_083,el haouz,2021-11-27,2021-12-07,train,False
+el haouz_Trees_20231221_083,el haouz,2021-12-07,2021-12-17,train,True
+el haouz_Trees_20231221_083,el haouz,2021-12-17,2021-12-27,train,True
+el haouz_Trees_20231221_083,el haouz,2021-12-27,2022-01-01,train,False
+el haouz_Trees_20231221_083,el haouz,2022-01-01,2022-01-11,train,False
+el haouz_Trees_20231221_083,el haouz,2022-01-11,2022-01-21,train,False
+el haouz_Trees_20231221_083,el haouz,2022-01-21,2022-01-31,train,False
+el haouz_Trees_20231221_083,el haouz,2022-01-31,2022-02-10,train,False
+el haouz_Trees_20231221_083,el haouz,2022-02-10,2022-02-20,train,False
+el haouz_Trees_20231221_083,el haouz,2022-02-20,2022-03-02,train,False
+el haouz_Trees_20231221_083,el haouz,2022-03-02,2022-03-12,train,False
+el haouz_Trees_20231221_083,el haouz,2022-03-12,2022-03-22,train,False
+el haouz_Trees_20231221_083,el haouz,2022-03-22,2022-04-01,train,False
+el haouz_Trees_20231221_083,el haouz,2022-04-01,2022-04-11,train,False
+el haouz_Trees_20231221_083,el haouz,2022-04-11,2022-04-21,train,False
+el haouz_Trees_20231221_083,el haouz,2022-04-21,2022-05-01,train,False
+el haouz_Trees_20231221_083,el haouz,2022-05-01,2022-05-11,train,False
+el haouz_Trees_20231221_083,el haouz,2022-05-11,2022-05-21,train,False
+el haouz_Trees_20231221_083,el haouz,2022-05-21,2022-05-31,train,False
+el haouz_Trees_20231221_083,el haouz,2022-05-31,2022-06-10,train,False
+el haouz_Trees_20231221_083,el haouz,2022-06-10,2022-06-20,train,False
+el haouz_Trees_20231221_083,el haouz,2022-06-20,2022-06-30,train,False
+el haouz_Trees_20231221_083,el haouz,2022-06-30,2022-07-10,train,False
+el haouz_Trees_20231221_083,el haouz,2022-07-10,2022-07-20,train,False
+el haouz_Trees_20231221_083,el haouz,2022-07-20,2022-07-30,train,False
+el haouz_Trees_20231221_083,el haouz,2022-07-30,2022-08-09,train,False
+el haouz_Trees_20231221_083,el haouz,2022-08-09,2022-08-19,train,False
+el haouz_Trees_20231221_083,el haouz,2022-08-19,2022-08-29,train,False
+el haouz_Trees_20231221_083,el haouz,2022-08-29,2022-09-08,train,False
+el haouz_Trees_20231221_083,el haouz,2022-09-08,2022-09-18,train,False
+el haouz_Trees_20231221_083,el haouz,2022-09-18,2022-09-28,train,False
+el haouz_Trees_20231221_083,el haouz,2022-09-28,2022-10-08,train,False
+el haouz_Trees_20231221_083,el haouz,2022-10-08,2022-10-18,train,False
+el haouz_Trees_20231221_083,el haouz,2022-10-18,2022-10-28,train,False
+el haouz_Trees_20231221_083,el haouz,2022-10-28,2022-11-07,train,False
+el haouz_Trees_20231221_083,el haouz,2022-11-07,2022-11-17,train,False
+el haouz_Trees_20231221_083,el haouz,2022-11-17,2022-11-27,train,False
+el haouz_Trees_20231221_083,el haouz,2022-11-27,2022-12-07,train,False
+el haouz_Trees_20231221_083,el haouz,2022-12-07,2022-12-17,train,False
+el haouz_Trees_20231221_083,el haouz,2022-12-17,2022-12-27,train,True
+el haouz_Trees_20231221_083,el haouz,2022-12-27,2023-01-01,train,True
+el haouz_Trees_20231221_083,el haouz,2023-01-01,2023-01-11,val,True
+el haouz_Trees_20231221_083,el haouz,2023-01-11,2023-01-21,val,True
+el haouz_Trees_20231221_083,el haouz,2023-01-21,2023-01-31,val,True
+el haouz_Trees_20231221_083,el haouz,2023-01-31,2023-02-10,val,True
+el haouz_Trees_20231221_083,el haouz,2023-02-10,2023-02-20,val,False
+el haouz_Trees_20231221_083,el haouz,2023-02-20,2023-03-02,val,True
+el haouz_Trees_20231221_083,el haouz,2023-03-02,2023-03-12,val,True
+el haouz_Trees_20231221_083,el haouz,2023-03-12,2023-03-22,val,True
+el haouz_Trees_20231221_083,el haouz,2023-03-22,2023-04-01,val,True
+el haouz_Trees_20231221_083,el haouz,2023-04-01,2023-04-11,val,True
+el haouz_Trees_20231221_083,el haouz,2023-04-11,2023-04-21,val,True
+el haouz_Trees_20231221_083,el haouz,2023-04-21,2023-05-01,val,True
+el haouz_Trees_20231221_083,el haouz,2023-05-01,2023-05-11,val,True
+el haouz_Trees_20231221_083,el haouz,2023-05-11,2023-05-21,val,True
+el haouz_Trees_20231221_083,el haouz,2023-05-21,2023-05-31,val,False
+el haouz_Trees_20231221_083,el haouz,2023-05-31,2023-06-10,val,True
+el haouz_Trees_20231221_083,el haouz,2023-06-10,2023-06-20,val,True
+el haouz_Trees_20231221_083,el haouz,2023-06-20,2023-06-30,val,True
+el haouz_Trees_20231221_083,el haouz,2023-06-30,2023-07-10,val,True
+el haouz_Trees_20231221_083,el haouz,2023-07-10,2023-07-20,val,True
+el haouz_Trees_20231221_083,el haouz,2023-07-20,2023-07-30,val,True
+el haouz_Trees_20231221_083,el haouz,2023-07-30,2023-08-09,val,True
+el haouz_Trees_20231221_083,el haouz,2023-08-09,2023-08-19,val,True
+el haouz_Trees_20231221_083,el haouz,2023-08-19,2023-08-29,val,True
+el haouz_Trees_20231221_083,el haouz,2023-08-29,2023-09-08,val,True
+el haouz_Trees_20231221_083,el haouz,2023-09-08,2023-09-18,val,True
+el haouz_Trees_20231221_083,el haouz,2023-09-18,2023-09-28,val,True
+el haouz_Trees_20231221_083,el haouz,2023-09-28,2023-10-08,val,True
+el haouz_Trees_20231221_083,el haouz,2023-10-08,2023-10-18,val,True
+el haouz_Trees_20231221_083,el haouz,2023-10-18,2023-10-28,val,True
+el haouz_Trees_20231221_083,el haouz,2023-10-28,2023-11-07,val,True
+el haouz_Trees_20231221_083,el haouz,2023-11-07,2023-11-17,val,True
+el haouz_Trees_20231221_083,el haouz,2023-11-17,2023-11-27,val,True
+el haouz_Trees_20231221_083,el haouz,2023-11-27,2023-12-07,val,True
+el haouz_Trees_20231221_083,el haouz,2023-12-07,2023-12-17,val,False
+el haouz_Trees_20231221_083,el haouz,2023-12-17,2023-12-27,val,True
+el haouz_Trees_20231221_083,el haouz,2023-12-27,2024-01-01,val,True
+el haouz_Trees_20231221_083,el haouz,2024-01-01,2024-01-11,test,False
+el haouz_Trees_20231221_083,el haouz,2024-01-11,2024-01-21,test,True
+el haouz_Trees_20231221_083,el haouz,2024-01-21,2024-01-31,test,True
+el haouz_Trees_20231221_083,el haouz,2024-01-31,2024-02-10,test,False
+el haouz_Trees_20231221_083,el haouz,2024-02-10,2024-02-20,test,True
+el haouz_Trees_20231221_083,el haouz,2024-02-20,2024-03-01,test,True
+el haouz_Trees_20231221_083,el haouz,2024-03-01,2024-03-11,test,True
+el haouz_Trees_20231221_083,el haouz,2024-03-11,2024-03-21,test,True
+el haouz_Trees_20231221_083,el haouz,2024-03-21,2024-03-31,test,False
+el haouz_Trees_20231221_083,el haouz,2024-03-31,2024-04-10,test,True
+el haouz_Trees_20231221_083,el haouz,2024-04-10,2024-04-20,test,True
+el haouz_Trees_20231221_083,el haouz,2024-04-20,2024-04-30,test,True
+el haouz_Trees_20231221_083,el haouz,2024-04-30,2024-05-10,test,True
+el haouz_Trees_20231221_083,el haouz,2024-05-10,2024-05-20,test,True
+el haouz_Trees_20231221_083,el haouz,2024-05-20,2024-05-30,test,True
+el haouz_Trees_20231221_083,el haouz,2024-05-30,2024-06-09,test,True
+el haouz_Trees_20231221_083,el haouz,2024-06-09,2024-06-19,test,True
+el haouz_Trees_20231221_083,el haouz,2024-06-19,2024-06-29,test,True
+el haouz_Trees_20231221_083,el haouz,2024-06-29,2024-07-09,test,True
+el haouz_Trees_20231221_083,el haouz,2024-07-09,2024-07-19,test,True
+el haouz_Trees_20231221_083,el haouz,2024-07-19,2024-07-29,test,True
+el haouz_Trees_20231221_083,el haouz,2024-07-29,2024-08-08,test,True
+el haouz_Trees_20231221_083,el haouz,2024-08-08,2024-08-18,test,True
+el haouz_Trees_20231221_083,el haouz,2024-08-18,2024-08-28,test,True
+el haouz_Trees_20231221_083,el haouz,2024-08-28,2024-09-07,test,True
+el haouz_Trees_20231221_083,el haouz,2024-09-07,2024-09-17,test,True
+el haouz_Trees_20231221_083,el haouz,2024-09-17,2024-09-27,test,True
+el haouz_Trees_20231221_083,el haouz,2024-09-27,2024-10-07,test,True
+el haouz_Trees_20231221_083,el haouz,2024-10-07,2024-10-17,test,False
+el haouz_Trees_20231221_083,el haouz,2024-10-17,2024-10-27,test,True
+el haouz_Trees_20231221_083,el haouz,2024-10-27,2024-11-06,test,True
+el haouz_Trees_20231221_083,el haouz,2024-11-06,2024-11-16,test,True
+el haouz_Trees_20231221_083,el haouz,2024-11-16,2024-11-26,test,True
+el haouz_Trees_20231221_083,el haouz,2024-11-26,2024-12-06,test,False
+el haouz_Trees_20231221_083,el haouz,2024-12-06,2024-12-16,test,False
+el haouz_Trees_20231221_083,el haouz,2024-12-16,2024-12-26,test,True
+el haouz_Trees_20231221_083,el haouz,2024-12-26,2025-01-01,test,True

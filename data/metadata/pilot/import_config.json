@@ -1,0 +1,15 @@
+{
+  "processing_version": 2,
+  "sentinel_start": "2021-01-01",
+  "landsat_start": "2015-01-01",
+  "end": "2024-12-31",
+  "step_days": 10,
+  "max_scene_cloud": 40,
+  "min_valid_fraction": 0.6,
+  "selection": "minimum eo:cloud_cover parmi les sc\u00e8nes couvrant le groupe, par fen\u00eatre, sans acc\u00e8s aux r\u00e9sultats",
+  "qa_sentinel_classes": [
+    4,
+    5
+  ],
+  "note": "eau exclue du pilote ol\u00e9icole ; \u00e9chantillonnage temporel, pas composite de toutes les sc\u00e8nes"
+}

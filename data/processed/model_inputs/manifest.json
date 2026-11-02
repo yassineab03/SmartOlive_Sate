@@ -1,0 +1,58 @@
+{
+  "format_version": 1,
+  "config": {
+    "start": "2021-01-01",
+    "train_end": "2023-01-01",
+    "val_end": "2024-01-01",
+    "end": "2025-01-01",
+    "heldout_region": null,
+    "min_valid_fraction": 0.6,
+    "max_gap_days": 15,
+    "step_days": 10,
+    "trials": 12,
+    "target_alert_rate": 0.05,
+    "event_tolerance_days": 10
+  },
+  "feature_sets": {
+    "ndvi": [
+      "ndvi"
+    ],
+    "indices": [
+      "ndvi",
+      "ndre",
+      "ndwi",
+      "savi"
+    ],
+    "meteo": [
+      "ndvi",
+      "ndre",
+      "ndwi",
+      "savi",
+      "temperature_c",
+      "soil_moisture_m3m3"
+    ]
+  },
+  "seed": 42,
+  "source_sha256": "1bef483933c3ed9afd9c34b71d0a579c8d76b2c138efdce8ff371e3bf5a7fb3d",
+  "files_sha256": {
+    "observations.csv": "a5eff1ceed5cf0784995a0f5fd1fd672b08bc9c4ecfcdbd7501f6082653052ca",
+    "splits.csv": "e2ed999a55f6864d5adc2f32519749ef2404c907d631465921be7ff991d10722",
+    "residuals.npz": "498fe6a50fa7f71c835508e2c9542fe04eb2901097b87b5c6154f4453282bcb1",
+    "transformations.joblib": "8bbbac84bb3ececa451e2844f3e8d214d33c3f1d70f92da55f4d670598a805ea"
+  },
+  "rows": 888,
+  "usable_rows": 613,
+  "known_labels": 0,
+  "libraries": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0"
+  },
+  "limitations": [
+    "Six parcelles pilotes ; culture confirmée aux visites seulement.",
+    "Gros trous en 2022 ; pas de labels de stress.",
+    "Identifiants ferme/bassin absents ; séparation régionale optionnelle seulement.",
+    "Météo régionale ERA5-Land via Open-Meteo, sans pluie importée."
+  ]
+}

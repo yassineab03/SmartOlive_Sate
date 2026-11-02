@@ -16,6 +16,11 @@ causales. Les anomalies ne constituent pas un diagnostic de maladie.
 Ce notebook contient tous les traitements. Les cellules exécutées sans données réelles
 documentent les blocages ; elles ne produisent ni entraînement ni scores fictifs.
 Les fichiers de l'ancien sujet OLV-6 sont conservés séparément.
+
+**Mise à jour :** les données d'oliveraies documentées et le code complet d'import
+figurent dans la section dédiée ci-dessous. L'ancien test de culture non confirmée
+est conservé séparément. Les modèles ne sont pas entraînés automatiquement sur le
+nouveau pilote : le protocole initial exige des groupes et des annotations encore manquants.
 ''')
 code('''from pathlib import Path
 import os, json, hashlib, sys, platform, importlib.metadata, random, copy, time
@@ -308,6 +313,19 @@ if zone_path.exists():
 else: print('Zone de test GeoJSON absente : traitement local non lancé.')
 ''')
 
+import_path=root/'archives/notebooks/import_donnees_oliveraies.ipynb'
+if import_path.exists():
+    md('''## Données importées sur des oliveraies documentées
+Le bloc suivant expose l'intégralité du nouvel import public et de son audit.
+Les traitements ne sont pas délégués à des scripts cachés. Le notebook d'import
+autonome contient le même bloc pour faciliter le travail sur les données seules.
+Les variables de chemins du protocole initial sont restaurées ensuite pour éviter
+de mélanger les données du pilote avec celles de l'ancien essai.
+''')
+    code("_initial_paths = {key: globals()[key] for key in ['ROOT','RAW','META','PROCESSED','OUT','morocco']}")
+    cells.extend(n.read(import_path,as_version=4).cells)
+    code("globals().update(_initial_paths)\nprint('Chemins du protocole initial restaurés ; données pilote conservées dans data/processed/pilot.')")
+
 md('''## Protocole expérimental
 Deux évaluations : (1) campagnes futures sur les parcelles connues ; (2) bassin tenu
 à l'écart, évalué uniquement après la validation temporelle sur les autres bassins.
@@ -367,7 +385,7 @@ if READY:
     data.to_csv(PROCESSED/'series.csv',index=False)
     data[['parcel_id','farm_id','basin','date','split']].to_csv(OUT/'splits.csv',index=False)
 else:
-    print('BLOCAGE : aucune série Sentinel-2 extraite. Modèles et métriques non évaluables.')
+    print('Entraînement du protocole initial non lancé : entrée avec groupes exploitation/bassin absente. Les séries importées sur les oliveraies documentées sont décrites dans le bloc précédent et dans data/processed/pilot.')
 display(pd.DataFrame({'source':['Sentinel-2','ERA5','Landsat'],'rows':[len(data),len(weather),len(landsat)]}))
 ''')
 md('''## Préparation : saisonnalité et fenêtres causales
@@ -670,5 +688,7 @@ cycles annuels. Préenregistrer un protocole distinct pour tester agrégation 5/
 persistance et lissage causal. Conserver ce test intact pour toute comparaison ultérieure.
 ''')
 nb=n.v4.new_notebook(cells=cells,metadata={'kernelspec':{'display_name':'Python (OliveSmart)','language':'python','name':'python3'}})
-n.write(nb,root/'analyse_comparative.ipynb')
-print(root/'analyse_comparative.ipynb')
+legacy_path=root/'archives/notebooks/analyse_comparative.ipynb'
+legacy_path.parent.mkdir(parents=True,exist_ok=True)
+n.write(nb,legacy_path)
+print(legacy_path)

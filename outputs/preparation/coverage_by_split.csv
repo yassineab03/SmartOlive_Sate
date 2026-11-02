@@ -1,0 +1,7 @@
+split,region,calendar_rows,usable_rows,first,last
+test,Tadla,111,97,2024-01-01,2025-01-01
+test,el haouz,111,94,2024-01-01,2025-01-01
+train,Tadla,222,109,2021-01-01,2023-01-01
+train,el haouz,222,107,2021-01-01,2023-01-01
+val,Tadla,111,104,2023-01-01,2024-01-01
+val,el haouz,111,102,2023-01-01,2024-01-01

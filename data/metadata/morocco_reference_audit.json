@@ -1,0 +1,53 @@
+{
+  "source_doi": "10.6084/m9.figshare.28486022.v2",
+  "license": "CC BY 4.0",
+  "all_parcels": 10383,
+  "olive_labelled_parcels": 868,
+  "pure_olive_parcels": 564,
+  "invalid_olive_geometries": 1,
+  "parcels_with_published_series": 855,
+  "series_rows": 29886,
+  "first_date": "2024-01-01 00:00:00",
+  "last_date": "2024-12-26 00:00:00",
+  "missing_series": [
+    "Tadla_Trees_20240222_019",
+    "Tadla_mixte_20240223_003",
+    "Tadla_mixte_20240223_004",
+    "Tadla_mixte_20240223_005",
+    "Tadla_mixte_20240223_006",
+    "Tadla_mixte_20240223_007",
+    "Tadla_Trees_20240223_003",
+    "Tadla_mixte_20240223_008",
+    "Tadla_mixte_20240223_009",
+    "Tadla_mixte_20240223_010",
+    "Tadla_mixte_20240223_011",
+    "Tadla_mixte_20240223_012",
+    "Tadla_mixte_20240223_013"
+  ],
+  "regions": {
+    "el haouz": 647,
+    "Tadla": 185,
+    "Doukkala": 15,
+    "Gharb": 9,
+    "Souss": 7,
+    "Statte": 5
+  },
+  "exact_duplicate_rows_removed": 1,
+  "ambiguous_rows_excluded": 16609,
+  "pilot_parcels": [
+    "el haouz_Trees_20231221_083",
+    "el haouz_Trees_20231221_038",
+    "el haouz_Trees_20231221_036",
+    "Tadla_Trees_20240224_002",
+    "Tadla_Trees_20240224_017",
+    "Tadla_Trees_20240224_001"
+  ],
+  "caveats": [
+    "Culture observée au jour de visite, pas confirmation rétroactive sur toutes les années.",
+    "Aucun label de stress ; aucun identifiant exploitation ou bassin hydrologique fourni.",
+    "Bandes des CSV publiés conservées brutes : facteur/offset et taux de pixels QA non fournis dans les fichiers.",
+    "NDVI fourni par les auteurs conservé sans recalcul ; indices physiques à extraire des rasters audités.",
+    "Les régions source ne sont pas des bassins hydrologiques.",
+    "La géométrie invalide reste dans inventaire et est exclue du pilote sans correction silencieuse."
+  ]
+}

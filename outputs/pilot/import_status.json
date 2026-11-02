@@ -1,0 +1,19 @@
+{
+  "confirmed_crop_source": "Terrain publié : DOI 10.6084/m9.figshare.28486022.v2 ; culture au jour de visite",
+  "pilot_parcels": 6,
+  "source_counts": {
+    "landsat": 708,
+    "sentinel2": 651
+  },
+  "calendar_rows": 888,
+  "accepted_sentinel_rows": 613,
+  "weather_days": 2922,
+  "trained_models": 0,
+  "pending": [
+    "Événements de stress et surveillance exhaustive non disponibles publiquement dans cette référence.",
+    "Identifiants exploitation et bassin hydrologique absents ; régions distinctes ne prouvent pas l’indépendance par exploitation.",
+    "Stabilité de la culture sur les années antérieures aux visites non confirmée.",
+    "Découpes sélectionnées par fenêtre ; pas un composite de toutes les acquisitions.",
+    "Météo via accès Open-Meteo, pas un export du catalogue Earth Engine demandé. Pluie ERA5-Land non importée."
+  ]
+}

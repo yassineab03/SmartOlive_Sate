@@ -14,15 +14,17 @@ from sklearn.svm import OneClassSVM
 from sklearn.metrics import average_precision_score, roc_auc_score, confusion_matrix
 
 root=Path(__file__).resolve().parents[1]
-nb=nbformat.read(root/'analyse_comparative.ipynb',as_version=4)
+preparation=nbformat.read(root/'01_nettoyage_pretraitement.ipynb',as_version=4)
+training=nbformat.read(root/'02_entrainement_resultats.ipynb',as_version=4)
 scope=globals()
 SEED=42
 CFG={'max_gap_days':15,'target_alert_rate':.05,'event_tolerance_days':10}
-for prefix in ['def harmonic(', 'class Autoencoder(', 'def event_metrics(']:
-    source=next(c.source for c in nb.cells if c.cell_type=='code' and c.source.startswith(prefix))
+for prefix in ['def harmonic(', 'def windows(', 'class Autoencoder(', 'def event_metrics(']:
+    notebook=preparation if prefix=='def harmonic(' else training
+    source=next(c.source for c in notebook.cells if c.cell_type=='code' and c.source.startswith(prefix))
     # La cellule de comparaison inclut aussi l'exécution conditionnelle ; on ne charge que la fonction.
     if prefix=='def event_metrics(': source=source.split('\nresults=[]')[0]
-    exec(compile(source,str(root/'analyse_comparative.ipynb'),'exec'),scope)
+    exec(compile(source,str(root/'02_entrainement_resultats.ipynb'),'exec'),scope)
 
 rng=np.random.default_rng(SEED)
 dates=pd.date_range('2019-01-01',periods=150,freq='10D')

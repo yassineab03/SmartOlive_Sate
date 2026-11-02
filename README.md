@@ -1,58 +1,64 @@
-# OliveSmart — OLV-4
+# OliveSmart - analyse satellitaire multi-temporelle (OLV-4)
 
-Analyse satellitaire multi-temporelle **par parcelle**. Ce dossier contient le sujet satellitaire OLV-4. Le precedent travail OLV-6 reste dans le projet voisin SmartOlive.
+Le travail est maintenant organisé en **deux notebooks**, à exécuter dans cet ordre :
 
-## PyCharm
+| Notebook | Contenu | Sorties |
+|---|---|---|
+| [01_nettoyage_pretraitement.ipynb](01_nettoyage_pretraitement.ipynb) | Import facultatif, audit, qualité, nettoyage, splits temporels, saisonnalité et normalisation sur train uniquement | `data/processed/model_inputs/` et `outputs/preparation/` |
+| [02_entrainement_resultats.ipynb](02_entrainement_resultats.ipynb) | Chargement des fichiers préparés, z-score NDVI, Isolation Forest, One-Class SVM, autoencoder, optimisation et comparaison | `outputs/experiments/<RUN_NAME>/` |
 
-Creer un environnement Python dans ce dossier : py -m venv .venv
+Chaque notebook contient son code scientifique et démarre dans un kernel neuf. Le second ne dépend d'aucune variable laissée en mémoire par le premier.
 
-1. Choisir l'interpréteur du projet : `SmartOlive_Sate/.venv/Scripts/python.exe` (Python 3.11 ou ultérieur, selon disponibilité des dépendances).
-2. Dans le terminal à la racine du projet :
+## Lancer dans PyCharm
+
+1. Ouvrir le dossier `SmartOlive_Sate` et choisir `.venv/Scripts/python.exe` comme interpréteur et kernel Jupyter.
+2. Si l'environnement n'existe pas : `py -m venv .venv`.
+3. Installer les dépendances dans le terminal PowerShell :
 
 ```powershell
 .venv/Scripts/python.exe -m pip install -r requirements.txt
 ```
 
-3. Ouvrir `analyse_comparative.ipynb`, sélectionner cet interpréteur comme kernel et utiliser **Run All**. Si l'édition de PyCharm ne propose pas les notebooks, installer JupyterLab dans cet environnement et ouvrir le même fichier avec JupyterLab.
-4. Le notebook s'exécute sans données : il affiche les blocages et teste les fonctions, sans fabriquer de résultats de modèles.
+4. Ouvrir **01**, puis **Run All**. `RUN_DOWNLOAD=False` conserve l'import réseau désactivé et utilise les données présentes. Les paramètres de split sont fixés dans ce notebook avant la normalisation.
+5. Ouvrir **02** dans un kernel neuf, puis **Run All**. Par défaut, **`RUN_TRAINING=False`** : les entrées sont vérifiées et les méthodes chargées, mais aucun modèle n'est entraîné.
+6. Quand le protocole sera validé, passer `RUN_TRAINING=True` dans **02** pour lancer l'entraînement et les résultats. Un fichier `locked_protocol.json` empêche la réutilisation silencieuse d'une expérience ; choisir un nouveau `RUN_NAME` pour une nouvelle expérience.
 
-## Importer les données demandées
-
-### Premier test local sans Earth Engine
-
-Une extraction locale réelle a été effectuée sur le ZIP Sentinel-2A du **1er novembre 2024** et sur `data/raw/maroc/zone_test.geojson`. Cette zone est fournie par l'utilisateur ; ses limites parcellaires et sa culture restent non confirmées. Elle est distincte de la première localisation explorée.
-
-La section **Premier traitement local** du notebook lit directement les ZIP, applique les offsets XML et le masque SCL, aligne B08 de 10 m sur la grille 20 m par moyenne, puis calcule les quatre indices. Elle fonctionne sans Earth Engine. Installer aussi `rasterio` (inclus dans requirements.txt).
-
-Résultats : `data/processed/local_zone_indices.csv`, GeoTIFF à quatre bandes dans `data/processed/`, cartes dans `outputs/`. Ces résultats restent distincts des données d'entraînement : une acquisition ne constitue pas une série temporelle. Ajouter des acquisitions L2A couvrant la même zone permet de compléter ce tableau en relançant le notebook. Il ne faut pas encore entraîner les modèles avec ce seul test. Les modèles nécessitent des parcelles et groupes confirmés, plusieurs campagnes et des splits valides.
-
-L'environnement propre à ce dossier n'est pas encore créé : le premier traitement a été vérifié avec l'interpréteur déjà installé du projet voisin. Le code scientifique et les données n'importent aucun fichier de ce projet voisin ; suivre les étapes PyCharm ci-dessus pour disposer d'un environnement autonome.
-
-Les URL officielles, usages, unités et limites figurent dans le notebook. Les pages de catalogue sont conservées dans `data/metadata`, distinctes des données scientifiques. Aucun dataset OLV-6 n'est utilisé.
-
-Pour l'extraction réelle : fournir `data/raw/maroc/parcelles.geojson` (FeatureCollection WGS84, polygones réels, propriétés `parcel_id`, `farm_id`, `basin`), activer un projet Earth Engine, puis :
+Pour vérifier les deux notebooks sans interface PyCharm :
 
 ```powershell
-.venv/Scripts/earthengine.exe authenticate
-$env:EE_PROJECT='identifiant-de-votre-projet'
+.venv/Scripts/python.exe tools/execute_pipeline_notebooks.py
+.venv/Scripts/python.exe tools/test_notebook_handoff.py
 ```
 
-Fixer dates, bassin exclu et qualité dans la première cellule. Passer `RUN_EXTRACTION=True`. Le notebook télécharge par lots annuels les tables Sentinel-2, Landsat 8/9 Collection 2 et ERA5-Land dans `data/raw/<source>`. Les requêtes terminées sont réutilisées si leur SHA-256 est inchangé. Un manifeste conserve source, version, configuration, taille, URL officielle, hash local et contrôle. Le volume réel dépend des parcelles. Copernicus Data Space est l'accès alternatif aux mêmes scènes Sentinel ; il n'est pas additionné comme un autre dataset. Ce notebook utilise la voie Earth Engine prescrite par le protocole, pas un second import redondant via Copernicus.
+Le vérificateur respecte la valeur de `RUN_TRAINING` sauvegardée dans le notebook. Il ne la change pas automatiquement.
 
-La collecte Maroc n'a pas d'URL publique dans le sujet. Les CSV vides fournis sont des schémas à compléter, pas des observations. Ne pas inventer des polygones ou des labels. Facultativement, ajouter aux CSV Sentinel `label` (0/1 confirmé, sinon vide) et `label_available_at` ; fournir `events.csv` et des périodes de surveillance exhaustive pour les indicateurs événementiels. Dates ISO, dates de fin inclusives dans surveillance et événements. `confirmed` vaut 1 pour un événement terrain confirmé. Les visites restent une source d'audit : elles ne sont pas automatiquement converties en labels négatifs.
+## Données et protocole actuel
 
-## Expérience
+Le pilote comprend six parcelles avec oliviers documentés aux dates de visite, dans les régions El Haouz et Tadla. Les sources sont Sentinel-2 C1 L2A (2021-2024), Landsat Collection 2 L2 (2015-2024) et ERA5-Land via Open-Meteo (température et humidité du sol, 2021-2024).
 
-Budget TPE : 12 essais par combinaison méthode/ablation, fenêtres 1/3/6, autoencoder AdamW. Validation temporelle, saisonnalité train uniquement, test futur commun à tous les modèles ; test spatial supplémentaire si un bassin est réservé. Sans ce bassin, la robustesse spatiale reste non évaluée. Sans terrain, précision/rappel/F1 et délai restent indisponibles. Les courbes et modèles ne sont écrits qu'après un entraînement réel.
+Le notebook 01 propose train 2021-2022, validation 2023, test 2024. Les fenêtres ne chevauchent pas les séparations, les trous sont conservés et les transformations sont ajustées sur train uniquement. La séparation régionale est facultative et ne représente pas un bassin hydrologique certifié.
 
-Le fichier `outputs/locked_protocol.json` interdit de réutiliser silencieusement un test pour ajuster les choix. Pour une nouvelle expérience, changer `OUT` vers un dossier neuf et conserver les résultats précédents. Les scores non supervisés ne démontrent pas une fiabilité agronomique.
+**Limites :** gros trous Sentinel-2 en 2022, culture documentée aux visites seulement, identifiants exploitation/bassin absents, aucun label de stress ni surveillance exhaustive. La comparaison restera exploratoire : sans terrain, précision, rappel, F1 et délai agronomique sont non évaluables. Un taux d'alerte cible n'est pas un score de fiabilité.
 
-## Reproduction
+Le détail des sources, contrôles et licences est dans [IMPORT_DONNEES.md](IMPORT_DONNEES.md).
 
-`requirements.txt` définit les dépendances ; `requirements-lock.txt` photographie l'environnement utilisé pour la vérification, et `data/metadata/environment.json` en conserve les versions. L'API Earth Engine est nécessaire seulement pour l'extraction.
+## Fichiers échangés entre 01 et 02
 
-```powershell
-.venv/Scripts/python.exe tools/execute_notebook.py
+```text
+data/processed/model_inputs/
+  observations.csv         # calendrier, mesures, labels inconnus et split
+  splits.csv               # identifiants et frontières temporelles
+  residuals.npz            # résidus standardisés, ordre identique au CSV
+  transformations.joblib   # modèles saisonniers et scalers ajustés sur train
+  manifest.json            # configuration, colonnes, versions et SHA-256
 ```
 
-Tous les traitements scientifiques sont visibles dans le notebook. `tools/build_notebook.py` le reconstruit (écrase les sorties du notebook) ; `execute_notebook.py` l'exécute et sauvegarde les sorties. Les tests intégrés vérifient les métriques, les frontières des fenêtres et les trous temporels. Les assertions sur les données réelles vérifient doublons, groupes, plages et dates.
+Le second notebook vérifie toutes les empreintes avant chargement. Après modification des données, de la période ou des caractéristiques, réexécuter le notebook 01 avant le 02.
+
+## Archives et outils
+
+Les anciens notebooks sont conservés dans `archives/notebooks/`, avec leurs sorties historiques. Les cinq ZIP de l'ancienne zone ont été supprimés à la demande de l'utilisateur ; les données du pilote documenté sont conservées.
+
+`tools/build_pipeline_notebooks.py` reconstruit les deux notebooks actuels à partir des versions de référence archivées. Il remplace leurs cellules et leurs sorties : exécuter ensuite le vérificateur. Les traitements sont visibles dans les notebooks, pas cachés derrière des imports de scripts locaux.
+
+`requirements-lock.txt` photographie l'environnement de vérification. Les données brutes, `.venv`, les secrets et les gros modèles ne doivent pas être poussés dans GitHub.

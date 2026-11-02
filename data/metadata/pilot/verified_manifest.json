@@ -1,0 +1,3688 @@
+[
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210101T111450_L2A",
+    "date": "2021-01-01T11:22:43.990000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210101T111450_L2A.npz",
+    "sha256": "0f817fe350e1b43c2cc18214e6c17dd806608195775538d1ac9b406e10c701a1",
+    "retrieved_utc": "2026-11-02T20:43:10.781930+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210220T111447_L2A",
+    "date": "2021-02-20T11:22:43.253000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210220T111447_L2A.npz",
+    "sha256": "8a9cfdfd4a9faccf187c0af73dcba6b64a2e0f10d46e20e8619bca788aa0b945",
+    "retrieved_utc": "2026-11-02T20:43:20.978358+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210302T111445_L2A",
+    "date": "2021-03-02T11:22:43.675000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210302T111445_L2A.npz",
+    "sha256": "96bab5d7fde2a5fa2e625a5319568f133aef34e2584960562b868573b7b89629",
+    "retrieved_utc": "2026-11-02T20:43:19.370979+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210401T111446_L2A",
+    "date": "2021-04-01T11:22:40.895000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210401T111446_L2A.npz",
+    "sha256": "ae4e5a1d0594bd5289fbf57601c1ba8a74555099b5e497bfaf1b80ea779019b7",
+    "retrieved_utc": "2026-11-02T20:43:17.019439+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210411T111429_L2A",
+    "date": "2021-04-11T11:22:38.669000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210411T111429_L2A.npz",
+    "sha256": "c0354cf03c74303abb25a20be8e65a101935910a8b4d6801d033dec22ab07a56",
+    "retrieved_utc": "2026-11-02T20:43:17.048362+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210421T111715_L2A",
+    "date": "2021-04-21T11:22:39.223000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210421T111715_L2A.npz",
+    "sha256": "f6bc5ee9e538801de3a6536fc4cba9052ee62e36d0c03af361ab239d59b1c1e5",
+    "retrieved_utc": "2026-11-02T20:43:17.789486+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210511T111448_L2A",
+    "date": "2021-05-11T11:22:43.192000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210511T111448_L2A.npz",
+    "sha256": "b3f1786c2dd78f3c774ade07914a8edcabe07d8d8f5bdfd8efaaedac67026840",
+    "retrieved_utc": "2026-11-02T20:43:22.804018+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210829T111450_L2A",
+    "date": "2021-08-29T11:22:45.352000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210829T111450_L2A.npz",
+    "sha256": "abb887e3851c822ec6f1cac54591f34cb8051f70dc86db334709a01bd28b44c6",
+    "retrieved_utc": "2026-11-02T20:43:31.067153+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20210918T111448_L2A",
+    "date": "2021-09-18T11:22:45.952000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20210918T111448_L2A.npz",
+    "sha256": "8abf32218c9bee7137f1748865d552270f646ae7a7b2d5b9c1f5abd10599b5b4",
+    "retrieved_utc": "2026-11-02T20:43:34.040308+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20211227T111456_L2A",
+    "date": "2021-12-27T11:22:45.344000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20211227T111456_L2A.npz",
+    "sha256": "e47c867a9c94dc9027fe21eb2c488363822e78c945ec0b2d1730314e8e6747e3",
+    "retrieved_utc": "2026-11-02T20:43:43.838098+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20230121T112057_L2A",
+    "date": "2023-01-21T11:22:39.214000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20230121T112057_L2A.npz",
+    "sha256": "997cf00b9afaf64635e7bdb1efbf6f5d45e4b88acc760318a3e06bfaf9f9e730",
+    "retrieved_utc": "2026-11-02T20:43:48.153433+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20230220T111809_L2A",
+    "date": "2023-02-20T11:22:41.049000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20230220T111809_L2A.npz",
+    "sha256": "183c133a2292ce0d92ef77fad27e9bcf785e2ebe2426944611a7eadd8efbd939",
+    "retrieved_utc": "2026-11-02T20:43:50.359533+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20230312T111405_L2A",
+    "date": "2023-03-12T11:22:39.840000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20230312T111405_L2A.npz",
+    "sha256": "eb9b7026920352b734ceb92acc0322c4e21054f9bdbbbae39d3abd9d9d222e51",
+    "retrieved_utc": "2026-11-02T20:43:49.698099+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20231008T111641_L2A",
+    "date": "2023-10-08T11:22:43.731000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20231008T111641_L2A.npz",
+    "sha256": "293043782d1e2c8779da8c57f4e03523a90fcff3e441dda209f7dd06aa6835d9",
+    "retrieved_utc": "2026-11-02T20:44:11.624580+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20231018T111753_L2A",
+    "date": "2023-10-18T11:22:43.277000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20231018T111753_L2A.npz",
+    "sha256": "3eebcda5f08d4f8a8db2ed2e619596fbef4de4440adbe5cbfb9545d1f280d54b",
+    "retrieved_utc": "2026-11-02T20:44:13.083640+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20231127T112108_L2A",
+    "date": "2023-11-27T11:22:36.875000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20231127T112108_L2A.npz",
+    "sha256": "8544660765a91264267b02fe81b75f99d230237d7fc23b8f2f3179858e90cd42",
+    "retrieved_utc": "2026-11-02T20:44:13.648159+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20231217T111452_L2A",
+    "date": "2023-12-17T11:22:39.880000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20231217T111452_L2A.npz",
+    "sha256": "90db9bfc3029018b98414ae3257f8e271f17b0aab441e2303988118723d51127",
+    "retrieved_utc": "2026-11-02T20:44:18.851462+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240106T111439_L2A",
+    "date": "2024-01-06T11:22:39.924000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240106T111439_L2A.npz",
+    "sha256": "13160ee528142fe44d2fbc0708e71a4fc9958f53338ad58ae3bf5ac73a599f31",
+    "retrieved_utc": "2026-11-02T20:44:18.601460+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240215T111444_L2A",
+    "date": "2024-02-15T11:22:41.559000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240215T111444_L2A.npz",
+    "sha256": "24ea8f2eb78591760d4327c196bc720dddbdc85495c1fa55eedaf37c7d26e208",
+    "retrieved_utc": "2026-11-02T20:44:20.540957+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240225T111445_L2A",
+    "date": "2024-02-25T11:22:42.600000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240225T111445_L2A.npz",
+    "sha256": "a7d5bcdcf9221e32c7b07111c38ea0203b1be3cd8b5529a360e31acfe748b799",
+    "retrieved_utc": "2026-11-02T20:44:22.696315+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240306T111448_L2A",
+    "date": "2024-03-06T11:22:44.365000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240306T111448_L2A.npz",
+    "sha256": "15ad2c2775a8bbda7bcfa55525d7cf01562e0b1a1223b0f7ef3dc39c4c858975",
+    "retrieved_utc": "2026-11-02T20:44:23.617554+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240405T112157_L2A",
+    "date": "2024-04-05T11:22:41.286000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240405T112157_L2A.npz",
+    "sha256": "d9bb490909a48c7d407e5406be156d59002c8bea1e57869a7b154598dd0afc16",
+    "retrieved_utc": "2026-11-02T20:44:28.202891+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240515T112228_L2A",
+    "date": "2024-05-15T11:22:46.568000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240515T112228_L2A.npz",
+    "sha256": "624bc2c37e65269e8973401d9ebac8480edce1d80100d7e78cb655a84b8468b3",
+    "retrieved_utc": "2026-11-02T20:44:36.781522+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240624T111001_L2A",
+    "date": "2024-06-24T11:22:40.749000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240624T111001_L2A.npz",
+    "sha256": "0ffeb19dedc0b7352c0cd85efe2b6d0151ff84c2a8a7b349b7dccdfb00eb4721",
+    "retrieved_utc": "2026-11-02T20:44:36.573334+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20240724T111800_L2A",
+    "date": "2024-07-24T11:22:46.002000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20240724T111800_L2A.npz",
+    "sha256": "6f713c8310f7929544f85d133c54d09e8c41620a376d849a78398225181f86eb",
+    "retrieved_utc": "2026-11-02T20:44:42.890693+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20241101T111445_L2A",
+    "date": "2024-11-01T11:22:43.534000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20241101T111445_L2A.npz",
+    "sha256": "1e1519cd2b153f8b9d06c32ccaa1bd3ff8c8541c631cbb6fc9b6d4949930a90d",
+    "retrieved_utc": "2026-11-02T20:44:48.743178+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29RNQ_20241211T112206_L2A",
+    "date": "2024-12-11T11:22:44.710000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29RNQ_20241211T112206_L2A.npz",
+    "sha256": "b46a0c57edb4425a5982ae1214280b91b0d208fdc3edbdc1ef0ddc9a3a1bc982",
+    "retrieved_utc": "2026-11-02T20:44:51.563262+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210131T111447_L2A",
+    "date": "2021-01-31T11:22:29.170000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210131T111447_L2A.npz",
+    "sha256": "9b1ae1be1ee89f0e49b62e5e6d9b9fc2aa96be7963393e980b803128cb8227a1",
+    "retrieved_utc": "2026-11-02T20:43:12.248958+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210312T111445_L2A",
+    "date": "2021-03-12T11:22:28.710000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210312T111445_L2A.npz",
+    "sha256": "58fa956ba43037cb2e542ce782b0ac23a7903eb39e9671e13c2088d1aef4e41f",
+    "retrieved_utc": "2026-11-02T20:43:15.282156+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210322T111445_L2A",
+    "date": "2021-03-22T11:22:27.777000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210322T111445_L2A.npz",
+    "sha256": "d90e286c769d08524dab56f07e7d5c4368b478576d7b46c83b3a725d207b2e4b",
+    "retrieved_utc": "2026-11-02T20:43:16.164303+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210521T111449_L2A",
+    "date": "2021-05-21T11:22:29.519000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210521T111449_L2A.npz",
+    "sha256": "b3087af51a548e4c507c3a7e88c713687281db2c0ebd01dc2bcb2f9197c7ccc7",
+    "retrieved_utc": "2026-11-02T20:43:23.852115+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210620T111025_L2A",
+    "date": "2021-06-20T11:22:29.705000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210620T111025_L2A.npz",
+    "sha256": "70c03b5ff8d822e7eb6bd702f64e42880ddce7eb1d8ca3d95f6b5553ee72089d",
+    "retrieved_utc": "2026-11-02T20:43:23.210015+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210630T111118_L2A",
+    "date": "2021-06-30T11:22:31.018000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210630T111118_L2A.npz",
+    "sha256": "653cdd689678ca2e46f261ce38f397206062f8fa25decfaff47b57ec627d120b",
+    "retrieved_utc": "2026-11-02T20:43:29.422786+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210809T112225_L2A",
+    "date": "2021-08-09T11:22:34.676000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210809T112225_L2A.npz",
+    "sha256": "84d6df427a87b7d2d12c46271aeeb008a280733cb06336c83fd61a1b20109a40",
+    "retrieved_utc": "2026-11-02T20:43:30.851808+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210819T111451_L2A",
+    "date": "2021-08-19T11:22:31.420000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210819T111451_L2A.npz",
+    "sha256": "47059b8b51fc8b2041c6e615ea6b5e1eb80eecb869c594d9256d7194b61a1377",
+    "retrieved_utc": "2026-11-02T20:43:31.334809+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20210908T111449_L2A",
+    "date": "2021-09-08T11:22:29.286000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20210908T111449_L2A.npz",
+    "sha256": "23b53c48375d0255ad92abbd1a21050a592688159512171fd4832b145ec6232f",
+    "retrieved_utc": "2026-11-02T20:43:30.072101+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20211008T111452_L2A",
+    "date": "2021-10-08T11:22:34.264000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20211008T111452_L2A.npz",
+    "sha256": "e51a5bf50c893f2bfb790b321d9d20556c69bee6247550a107c223dc781afc7b",
+    "retrieved_utc": "2026-11-02T20:43:36.381287+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20211117T111447_L2A",
+    "date": "2021-11-17T11:22:29.522000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20211117T111447_L2A.npz",
+    "sha256": "2d36110246e3f9902410cd27ebe397553d8f7b0c20d6c27354073a4e2d3a6c69",
+    "retrieved_utc": "2026-11-02T20:43:37.922354+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20211217T111454_L2A",
+    "date": "2021-12-17T11:22:29.416000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20211217T111454_L2A.npz",
+    "sha256": "08f825062f060cb7e36148332b3c278e999f874e8f8e45989a496c56f6c65513",
+    "retrieved_utc": "2026-11-02T20:43:42.491958+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230401T112205_L2A",
+    "date": "2023-04-01T11:22:27.848000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230401T112205_L2A.npz",
+    "sha256": "cb68bbb1a1286052f26525cada416ab94601db8bac0615a52bb73efce109586b",
+    "retrieved_utc": "2026-11-02T20:43:52.787997+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230511T112151_L2A",
+    "date": "2023-05-11T11:22:28.181000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230511T112151_L2A.npz",
+    "sha256": "9eef7026304f476e8de649354ec077851e133ad793eb352d4584a9bc337f9e98",
+    "retrieved_utc": "2026-11-02T20:43:57.271051+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230630T111632_L2A",
+    "date": "2023-06-30T11:22:33.502000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230630T111632_L2A.npz",
+    "sha256": "b4f43cfda1e7822e77858a2a17f5c33452c3f44917b6714e4341898ee56c0f33",
+    "retrieved_utc": "2026-11-02T20:44:00.637789+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230809T112156_L2A",
+    "date": "2023-08-09T11:22:33.203000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230809T112156_L2A.npz",
+    "sha256": "ca23ca438910572b3e6b88bf67f7ca11dd987667adfc56dd10cff613b641996e",
+    "retrieved_utc": "2026-11-02T20:44:03.283102+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230829T111659_L2A",
+    "date": "2023-08-29T11:22:34.636000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230829T111659_L2A.npz",
+    "sha256": "2ea13e87ab70f2661cd592ddcb0c0bc6702666256b6f9477650917357fcbbea9",
+    "retrieved_utc": "2026-11-02T20:44:06.311730+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20230908T111517_L2A",
+    "date": "2023-09-08T11:22:34.318000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20230908T111517_L2A.npz",
+    "sha256": "839bfc68dd329ef44082b45780dacdbd8d3724587b28316583fd3c2264610124",
+    "retrieved_utc": "2026-11-02T20:44:06.822702+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20231107T111948_L2A",
+    "date": "2023-11-07T11:22:28.579000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20231107T111948_L2A.npz",
+    "sha256": "601a1bdda32e7b168df081bea424f1b0d67201aba1ea2eda2c933f0b49d111c3",
+    "retrieved_utc": "2026-11-02T20:44:12.950185+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20231227T111453_L2A",
+    "date": "2023-12-27T11:22:26.135000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20231227T111453_L2A.npz",
+    "sha256": "18027414e2b936e4ca57bd16d5bc8e744db1e8950217d3558cd16e486f9ee6a1",
+    "retrieved_utc": "2026-11-02T20:44:17.887652+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240316T111244_L2A",
+    "date": "2024-03-16T11:22:29.245000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240316T111244_L2A.npz",
+    "sha256": "c21bc77b02f464e9df0d9ede3a7a0272b2792ffc4171ad33a956b0cb04e7321c",
+    "retrieved_utc": "2026-11-02T20:44:30.405227+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240425T112227_L2A",
+    "date": "2024-04-25T11:22:35.260000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240425T112227_L2A.npz",
+    "sha256": "290c03746c31b76f308bd4183358768e41e49545a450ed1a6cb2e50310437cf9",
+    "retrieved_utc": "2026-11-02T20:44:26.943821+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240505T112159_L2A",
+    "date": "2024-05-05T11:22:31.824000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240505T112159_L2A.npz",
+    "sha256": "01b2ae7c251adf33245b37132ff5bbfd70b5ba5d570098cfb02b8e085894f847",
+    "retrieved_utc": "2026-11-02T20:44:28.574342+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240714T111818_L2A",
+    "date": "2024-07-14T11:22:31.163000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240714T111818_L2A.npz",
+    "sha256": "7743db6ebb1621e49e37669ceb415f52cafe299daa4ee41bfb3e4fa0752d7f89",
+    "retrieved_utc": "2026-11-02T20:44:36.449384+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240803T112017_L2A",
+    "date": "2024-08-03T11:22:31.568000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240803T112017_L2A.npz",
+    "sha256": "35075f59d2198d2d269c3d52f99b3c6a2218b4960fde2af57261f13223c181e9",
+    "retrieved_utc": "2026-11-02T20:44:38.342986+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240823T111458_L2A",
+    "date": "2024-08-23T11:22:26.461000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240823T111458_L2A.npz",
+    "sha256": "8aaa2a2faaaa2860bcdbb0d07e4177b112de2c5c7edd88036fca8b15e7e5b8f3",
+    "retrieved_utc": "2026-11-02T20:44:40.667126+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240902T111316_L2A",
+    "date": "2024-09-02T11:22:28.866000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240902T111316_L2A.npz",
+    "sha256": "f56c0e8d04fe615edcf417ea3a736969fe790b3dce572a59fdd7579c907c5abd",
+    "retrieved_utc": "2026-11-02T20:44:45.006330+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240912T111935_L2A",
+    "date": "2024-09-12T11:22:26.758000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240912T111935_L2A.npz",
+    "sha256": "f18d2dd5112ce29a1a8c61cce94de429618801ba01625bc6459e132e0623a44a",
+    "retrieved_utc": "2026-11-02T20:44:43.666200+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20240922T111212_L2A",
+    "date": "2024-09-22T11:22:30.574000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20240922T111212_L2A.npz",
+    "sha256": "aa88d538a5f0fbefde2fe4532d85b6923009e304372ae738aa1da0a12317abd0",
+    "retrieved_utc": "2026-11-02T20:44:46.077312+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20241002T111430_L2A",
+    "date": "2024-10-02T11:22:30.815000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20241002T111430_L2A.npz",
+    "sha256": "790b271dadb814c984c177bae7ffac28fbd9d786745619358982693443263b02",
+    "retrieved_utc": "2026-11-02T20:44:42.793123+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20241022T111445_L2A",
+    "date": "2024-10-22T11:22:28.895000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20241022T111445_L2A.npz",
+    "sha256": "0fa2bafc01b3dfb8f5f9d0ccf6243ebff61aae90ed7fa82fdf2e3c222882a233",
+    "retrieved_utc": "2026-11-02T20:44:45.325302+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SNR_20241231T111453_L2A",
+    "date": "2024-12-31T11:22:29.654000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2A_T29SNR_20241231T111453_L2A.npz",
+    "sha256": "6f97b7895b5b644b13b22d0c50b0becf03763d498885b190f1d2db51a027d9be",
+    "retrieved_utc": "2026-11-02T20:44:50.882628+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20210615T111721_L2A",
+    "date": "2021-06-15T11:22:44.778000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20210615T111721_L2A.npz",
+    "sha256": "a91542184c974f6fb0f21b530049780129230d943939df33e86677469d389069",
+    "retrieved_utc": "2026-11-02T20:43:24.285139+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211003T111449_L2A",
+    "date": "2021-10-03T11:22:43.704000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211003T111449_L2A.npz",
+    "sha256": "7bfdb1ab368dda20effb211dfcfad9d0bb3ef6ca7c5fe3866a9d399f199152e2",
+    "retrieved_utc": "2026-11-02T20:43:34.098209+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211023T111155_L2A",
+    "date": "2021-10-23T11:22:45.365000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211023T111155_L2A.npz",
+    "sha256": "ce9b45dcdb25b1f62762d3ce8b4eeb1ec78ac03605734de5c355a01436a7b8ca",
+    "retrieved_utc": "2026-11-02T20:43:40.080285+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211102T111142_L2A",
+    "date": "2021-11-02T11:22:44.835000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211102T111142_L2A.npz",
+    "sha256": "69448c3507c22dbe3558a231bc5bb0b8151c632dbf7c9e2693b2a7498ad7f9e7",
+    "retrieved_utc": "2026-11-02T20:43:36.261907+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211112T111445_L2A",
+    "date": "2021-11-12T11:22:43.079000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211112T111445_L2A.npz",
+    "sha256": "d0af40179dcee786e141d63e7909ad2088bc123e3ceaa215f3eb236a43ac9d43",
+    "retrieved_utc": "2026-11-02T20:43:37.235376+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211202T111329_L2A",
+    "date": "2021-12-02T11:22:39.186000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211202T111329_L2A.npz",
+    "sha256": "c83d713547dec60513f90bd49d0b8606f59b07ec50313a235e7422d25b074f03",
+    "retrieved_utc": "2026-11-02T20:43:39.428027+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20211212T111443_L2A",
+    "date": "2021-12-12T11:22:38.067000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20211212T111443_L2A.npz",
+    "sha256": "d4b65420cba53adb6842fe914b07f88512e9250d3575ace0950636d92b733256",
+    "retrieved_utc": "2026-11-02T20:43:40.294807+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20221217T111438_L2A",
+    "date": "2022-12-17T11:22:42.337000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20221217T111438_L2A.npz",
+    "sha256": "07d204ee707f1867b6c778895709b7bec8f03d1343e6c855862ea6d90f303715",
+    "retrieved_utc": "2026-11-02T20:43:43.781188+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20221227T111439_L2A",
+    "date": "2022-12-27T11:22:43.032000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20221227T111439_L2A.npz",
+    "sha256": "b08e0ae5ac4db3e7b890a6fdd1e7b7c031c3cb41f94503eacad0a4ea5025e0cf",
+    "retrieved_utc": "2026-11-02T20:43:46.788585+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230116T111315_L2A",
+    "date": "2023-01-16T11:22:40.523000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230116T111315_L2A.npz",
+    "sha256": "bf0e7fda63473d9016f668b549ea80a632e343eba453cc84920f679f1ca4ce5f",
+    "retrieved_utc": "2026-11-02T20:43:46.204924+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230205T112213_L2A",
+    "date": "2023-02-05T11:22:41.359000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230205T112213_L2A.npz",
+    "sha256": "eb2eabac7b72b242895b983223a2ca7d7f6e48dc0820a4ba613861086950eb4e",
+    "retrieved_utc": "2026-11-02T20:43:46.241566+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230307T111648_L2A",
+    "date": "2023-03-07T11:22:47.202000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230307T111648_L2A.npz",
+    "sha256": "fc7bff4b701c1c0612df432345aafa389616bc374dcb92e2e12b2c2dd5ea0a56",
+    "retrieved_utc": "2026-11-02T20:43:55.883750+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230416T112217_L2A",
+    "date": "2023-04-16T11:22:45.070000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230416T112217_L2A.npz",
+    "sha256": "65d5cd94e4a97ac6b7baf570655eda4973914bf7beb37f93c192daafdbd183c8",
+    "retrieved_utc": "2026-11-02T20:43:54.671261+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230605T111628_L2A",
+    "date": "2023-06-05T11:22:48.262000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230605T111628_L2A.npz",
+    "sha256": "86f4d6b919d04ffb012f01f7224e8bdc59e833724ed9344368255e23ffc8b5e2",
+    "retrieved_utc": "2026-11-02T20:43:58.299921+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230725T112119_L2A",
+    "date": "2023-07-25T11:22:49.761000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230725T112119_L2A.npz",
+    "sha256": "f4b04bb017334ecff8e828e289a03948c4dc2ecbb3c4d1e193223faa31dc451d",
+    "retrieved_utc": "2026-11-02T20:44:04.871308+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20230804T112117_L2A",
+    "date": "2023-08-04T11:22:48.482000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20230804T112117_L2A.npz",
+    "sha256": "4106566ae5c23a506a19c4ffb40eb7d6be19eab5fc74d4d4942bb9fdc2bf0675",
+    "retrieved_utc": "2026-11-02T20:44:06.941046+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20231102T112132_L2A",
+    "date": "2023-11-02T11:22:46.435000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20231102T112132_L2A.npz",
+    "sha256": "f17ff55e6d8c94bb0bab7eda0fdff21a9d064dc25e6cca55da2bd8d03cdbfbc2",
+    "retrieved_utc": "2026-11-02T20:44:14.436059+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20231122T111256_L2A",
+    "date": "2023-11-22T11:22:39.394000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20231122T111256_L2A.npz",
+    "sha256": "7fad6679bb628ff6fe6d0cdc9ce2ee11f08536655b91f82f987b4eb3eb994cb1",
+    "retrieved_utc": "2026-11-02T20:44:12.628379+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20231212T111356_L2A",
+    "date": "2023-12-12T11:22:41.236000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20231212T111356_L2A.npz",
+    "sha256": "65923d49203c3757c6c6ab660962d0bcf3519c4796a9334ec5c23e75b653d4d7",
+    "retrieved_utc": "2026-11-02T20:44:16.178229+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240121T111503_L2A",
+    "date": "2024-01-21T11:22:43.094000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240121T111503_L2A.npz",
+    "sha256": "00762277e528b6d1fab3f94901433119119c71568e83206fad0e7aee671d1780",
+    "retrieved_utc": "2026-11-02T20:44:20.989821+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240321T112134_L2A",
+    "date": "2024-03-21T11:22:43.901000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240321T112134_L2A.npz",
+    "sha256": "b5564e860e2954f99e5be2b7136bb8308c03f047773d544029a57cc880c77ac2",
+    "retrieved_utc": "2026-11-02T20:44:25.905290+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240410T112113_L2A",
+    "date": "2024-04-10T11:22:43.691000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240410T112113_L2A.npz",
+    "sha256": "7a6aa8cb421a551ac9279dc58200af952cdeb757019da7764f0d07a4d0f4965a",
+    "retrieved_utc": "2026-11-02T20:44:27.051200+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240520T111145_L2A",
+    "date": "2024-05-20T11:22:42.924000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240520T111145_L2A.npz",
+    "sha256": "8c0addce47ac336168db7650d5738c36dfa718c41885efae1b621192c39b58b6",
+    "retrieved_utc": "2026-11-02T20:44:30.699641+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240530T111411_L2A",
+    "date": "2024-05-30T11:22:43.884000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240530T111411_L2A.npz",
+    "sha256": "5bf62ae575bfe6f66afd6d56e963894fe85c616fcac59311c310f3ac95bcd19e",
+    "retrieved_utc": "2026-11-02T20:44:33.531054+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240609T111627_L2A",
+    "date": "2024-06-09T11:22:46.911000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240609T111627_L2A.npz",
+    "sha256": "4e42c37de7fdee656b424b2c4866db207f614487f0e5d968e87b2dd3cbc1b4a6",
+    "retrieved_utc": "2026-11-02T20:44:37.402440+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20240629T112117_L2A",
+    "date": "2024-06-29T11:22:47.661000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20240629T112117_L2A.npz",
+    "sha256": "e05aed09075250963311ea295517eaae0aef3f4aec26d98c6c0f70ef146597b9",
+    "retrieved_utc": "2026-11-02T20:44:35.425220+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29RNQ_20241007T111812_L2A",
+    "date": "2024-10-07T11:22:43.651000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29RNQ_20241007T111812_L2A.npz",
+    "sha256": "8c931ebc68a61a46974e36529b463bcdd36ed57c7c3b970eff81a1f59535955b",
+    "retrieved_utc": "2026-11-02T20:44:46.285878+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210116T111445_L2A",
+    "date": "2021-01-16T11:22:28.830000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210116T111445_L2A.npz",
+    "sha256": "a6b47fd5a7407737c9ffffa1f08999687bae1477519ceaa59a9d9c33a92aa892",
+    "retrieved_utc": "2026-11-02T20:43:11.051396+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210126T111448_L2A",
+    "date": "2021-01-26T11:22:28.946000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210126T111448_L2A.npz",
+    "sha256": "41242511e9119962e4e72c3594749d2e518d2f2257ddc0641478e229b05cd6ae",
+    "retrieved_utc": "2026-11-02T20:43:10.830057+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210215T111210_L2A",
+    "date": "2021-02-15T11:22:27.189000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210215T111210_L2A.npz",
+    "sha256": "5986438ade236f24ac4e9f366eaf0d41facb9e37c6184b8415f7dd104a1746e2",
+    "retrieved_utc": "2026-11-02T20:43:14.640674+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210506T112054_L2A",
+    "date": "2021-05-06T11:22:26.473000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210506T112054_L2A.npz",
+    "sha256": "637bd33750f58da5064c20df31dfed387a2f8b890568ce2543fdfcaa3489a9df",
+    "retrieved_utc": "2026-11-02T20:43:23.223315+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210605T111526_L2A",
+    "date": "2021-06-05T11:22:30.086000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210605T111526_L2A.npz",
+    "sha256": "6648526c4c5f89260140e7733a9560517cb49ede850acce834b63498e47f892d",
+    "retrieved_utc": "2026-11-02T20:43:22.439352+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210715T112214_L2A",
+    "date": "2021-07-15T11:22:31.118000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210715T112214_L2A.npz",
+    "sha256": "73d476c4421f1a5d7387b2f2a97bc3cf8847dd0877e3c293adc21db5364b2b06",
+    "retrieved_utc": "2026-11-02T20:43:27.580683+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210725T112214_L2A",
+    "date": "2021-07-25T11:22:31.072000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210725T112214_L2A.npz",
+    "sha256": "b5b24d37df998f3e8b018e1540eb5142fdee1684e98953c42a1bc84e08cb6af5",
+    "retrieved_utc": "2026-11-02T20:43:27.950906+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20210804T111529_L2A",
+    "date": "2021-08-04T11:22:30.410000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20210804T111529_L2A.npz",
+    "sha256": "f8710be0d88c590eb3915df3978e09197c657b755ec493222f7dbbc2f2e21766",
+    "retrieved_utc": "2026-11-02T20:43:29.375752+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230106T111343_L2A",
+    "date": "2023-01-06T11:22:26.719000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230106T111343_L2A.npz",
+    "sha256": "6e1cdc5cf8b3ca96249dc99b936c57bf3c0ca3769e76d43adc30942c47362153",
+    "retrieved_utc": "2026-11-02T20:43:46.714891+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230327T112010_L2A",
+    "date": "2023-03-27T11:22:32.124000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230327T112010_L2A.npz",
+    "sha256": "9d177e2286ac79716ca8b367c70b2c025ede79659e642e7563ca653bfcc9ee7a",
+    "retrieved_utc": "2026-11-02T20:43:53.716697+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230426T112217_L2A",
+    "date": "2023-04-26T11:22:30.803000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230426T112217_L2A.npz",
+    "sha256": "d9a22fac07602021b1fdb21f2a9e995c80885b48c89a72c85fb7be8b5570f659",
+    "retrieved_utc": "2026-11-02T20:43:53.619501+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230506T112131_L2A",
+    "date": "2023-05-06T11:22:31.718000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230506T112131_L2A.npz",
+    "sha256": "58e9054d012eac692404cbb951413d2f0f6c2199416fb39fec07af4f9e0a2575",
+    "retrieved_utc": "2026-11-02T20:43:54.723929+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230615T111915_L2A",
+    "date": "2023-06-15T11:22:34.043000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230615T111915_L2A.npz",
+    "sha256": "b984a31b382dd7f84daf5d1a67166d43384479860b08907e8885592d085f7a81",
+    "retrieved_utc": "2026-11-02T20:43:59.964789+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230625T112117_L2A",
+    "date": "2023-06-25T11:22:33.526000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230625T112117_L2A.npz",
+    "sha256": "f9b587acb5e269220b58c52994bc5c7271122aa9375b535826fc51fa4075faa6",
+    "retrieved_utc": "2026-11-02T20:44:02.299441+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230715T112121_L2A",
+    "date": "2023-07-15T11:22:34.145000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230715T112121_L2A.npz",
+    "sha256": "d1a9312ba053cb65611230417dabd1217ddd7b7a7c2e68c1dc738e734fd46c12",
+    "retrieved_utc": "2026-11-02T20:44:00.676498+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230824T111733_L2A",
+    "date": "2023-08-24T11:22:33.112000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230824T111733_L2A.npz",
+    "sha256": "e9fe5c67712dcb0c9e5c9b4981c7456d526830a2281ec79165791ce03f9ce512",
+    "retrieved_utc": "2026-11-02T20:44:05.876098+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20230923T111823_L2A",
+    "date": "2023-09-23T11:22:32.635000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20230923T111823_L2A.npz",
+    "sha256": "1ec4fd442d2ed78cd169675891de098b68ad87802446b799d64160b281c40a7b",
+    "retrieved_utc": "2026-11-02T20:44:06.696758+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20231003T111708_L2A",
+    "date": "2023-10-03T11:22:29.935000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20231003T111708_L2A.npz",
+    "sha256": "6245ea8c86c076684f589248fbd4eeedc531718802af5c53ebe078862e318fa8",
+    "retrieved_utc": "2026-11-02T20:44:09.811620+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20240111T111332_L2A",
+    "date": "2024-01-11T11:22:26.814000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20240111T111332_L2A.npz",
+    "sha256": "dade61e9a8c05981f321b4b460b7bbdec80e25948624f5d19ba7ff4199cba220",
+    "retrieved_utc": "2026-11-02T20:44:18.626746+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20240808T111048_L2A",
+    "date": "2024-08-08T11:22:32.725000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20240808T111048_L2A.npz",
+    "sha256": "7ecdc3baa376df1ce883cbd1b3fab1aec522392e353ad8c61e54bf28a670d568",
+    "retrieved_utc": "2026-11-02T20:44:39.358306+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SNR_20241216T111805_L2A",
+    "date": "2024-12-16T11:22:30.192000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2B_T29SNR_20241216T111805_L2A.npz",
+    "sha256": "bf8695d98d2e1e04d02cfc0656fe6f9f06ddf8d010452ebe00c9f8097a191e70",
+    "retrieved_utc": "2026-11-02T20:44:57.233797+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2C_T29RNQ_20241111T112233_L2A",
+    "date": "2024-11-11T11:23:09.563000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2C_T29RNQ_20241111T112233_L2A.npz",
+    "sha256": "e237932378526c636c760376d6edbef8c0256f732dc674e0c91886213a2ee216",
+    "retrieved_utc": "2026-11-02T20:44:48.584528+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2C_T29SNR_20241121T112234_L2A",
+    "date": "2024-11-21T11:22:55.991000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\el_haouz\\S2C_T29SNR_20241121T112234_L2A.npz",
+    "sha256": "e4d53a8504d8c8365f889b9a45322ea8757e1a016cce88dbc522af5c841eacf3",
+    "retrieved_utc": "2026-11-02T20:44:50.431894+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210101T111450_L2A",
+    "date": "2021-01-01T11:22:07.956000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210101T111450_L2A.npz",
+    "sha256": "1efe8b3681ed2ebac9e5b009fa07583e6a77bb88fd030de9e15477223c5cd3ef",
+    "retrieved_utc": "2026-11-02T20:36:26.153694+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210131T111447_L2A",
+    "date": "2021-01-31T11:22:07.849000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210131T111447_L2A.npz",
+    "sha256": "22ed35e749df629f3d073df0c10d49ab43a83ab0c3df19bf7b19603bc561a87b",
+    "retrieved_utc": "2026-11-02T20:36:28.032326+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210302T111445_L2A",
+    "date": "2021-03-02T11:22:07.641000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210302T111445_L2A.npz",
+    "sha256": "e2d5dd7c530ef9ccaf48fd6e3b5ec81f525b334b8e344c4086030da79c6eb251",
+    "retrieved_utc": "2026-11-02T20:36:34.409682+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210312T111445_L2A",
+    "date": "2021-03-12T11:22:07.374000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210312T111445_L2A.npz",
+    "sha256": "1885103a517c6f9fa240fffe841b8c00cbb7a2cbfc40f2a7f43af92db33bf7c0",
+    "retrieved_utc": "2026-11-02T20:36:36.723018+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210322T111445_L2A",
+    "date": "2021-03-22T11:22:06.454000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210322T111445_L2A.npz",
+    "sha256": "796eb339176213ef118a5cb4a06ad8c1d1ddc34da6d0185bd46f1dc8e5fcfeee",
+    "retrieved_utc": "2026-11-02T20:36:39.682255+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210401T111446_L2A",
+    "date": "2021-04-01T11:22:04.868000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210401T111446_L2A.npz",
+    "sha256": "8666f1c37e00b25e8683b9f48810be2fb1c2b1321e6b4593b6edf91f96b38f56",
+    "retrieved_utc": "2026-11-02T20:36:43.008005+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210411T111429_L2A",
+    "date": "2021-04-11T11:22:02.644000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210411T111429_L2A.npz",
+    "sha256": "7a51fe48e782b1fc2af80c4589a81d8af71ed8da55aaa10b64efc830772cd4ae",
+    "retrieved_utc": "2026-11-02T20:36:42.998322+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210521T111449_L2A",
+    "date": "2021-05-21T11:22:08.190000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210521T111449_L2A.npz",
+    "sha256": "125603df4733819318de755aa3535a894e339e668df657b499d5b50867b992cf",
+    "retrieved_utc": "2026-11-02T20:36:51.165502+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210610T111434_L2A",
+    "date": "2021-06-10T11:22:08.397000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210610T111434_L2A.npz",
+    "sha256": "d2f178da93cdbc311b8b0bdc1995787ea4ab72b35b3b48de3a726d369bfaf9b5",
+    "retrieved_utc": "2026-11-02T20:36:55.858026+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210630T111118_L2A",
+    "date": "2021-06-30T11:22:09.684000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210630T111118_L2A.npz",
+    "sha256": "1fc2fe05cf62df453e14a5e2c274649e10fbd2a860e0c9aeae575e251c74010d",
+    "retrieved_utc": "2026-11-02T20:36:59.297320+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210809T110944_L2A",
+    "date": "2021-08-09T11:22:10.349000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210809T110944_L2A.npz",
+    "sha256": "259da4e3c4fc2ffee38377d3d4a124cc4f4a30dc8778d779c0a626c772de00be",
+    "retrieved_utc": "2026-11-02T20:37:08.220447+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210829T111450_L2A",
+    "date": "2021-08-29T11:22:09.323000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210829T111450_L2A.npz",
+    "sha256": "7c3cf587b3d83d82943385785b0a27deefdc6073b8ca57a834a5cbbd3e9629a7",
+    "retrieved_utc": "2026-11-02T20:37:15.630470+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210908T111449_L2A",
+    "date": "2021-09-08T11:22:07.951000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210908T111449_L2A.npz",
+    "sha256": "cda8095be9e720c355ee0745a770bdf3c1fb9ed51b2fda1340c83922892300e1",
+    "retrieved_utc": "2026-11-02T20:37:17.014773+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210918T111448_L2A",
+    "date": "2021-09-18T11:22:09.922000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210918T111448_L2A.npz",
+    "sha256": "3dad0949ac05574a7bbac54bdbe63b6142b6a5a4d152b57e4d7687b838baf0a4",
+    "retrieved_utc": "2026-11-02T20:37:18.185934+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20210928T111450_L2A",
+    "date": "2021-09-28T11:22:11.808000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20210928T111450_L2A.npz",
+    "sha256": "7d772a029f737aadb2a3170e81f300e282aec7701c83d971bc38a85d40829993",
+    "retrieved_utc": "2026-11-02T20:37:19.678687+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211008T111452_L2A",
+    "date": "2021-10-08T11:22:12.930000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211008T111452_L2A.npz",
+    "sha256": "201f6e0acf6a7ad31afb642d6cdbd2f6c0762ddfe3c64e3a8db18297c7e75b9e",
+    "retrieved_utc": "2026-11-02T20:37:24.663766+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211028T111452_L2A",
+    "date": "2021-10-28T11:22:12.584000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211028T111452_L2A.npz",
+    "sha256": "f04b2fb37fcd6d296a3d826d973929f322487ee5884e33d5ed5c1585515229ac",
+    "retrieved_utc": "2026-11-02T20:37:27.699180+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211117T111447_L2A",
+    "date": "2021-11-17T11:22:08.195000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211117T111447_L2A.npz",
+    "sha256": "f271f1f4c6cf61d5f2ced62dbbdac702d8b8cecfa248b348592914000afef55a",
+    "retrieved_utc": "2026-11-02T20:37:33.422098+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211127T111446_L2A",
+    "date": "2021-11-27T11:22:07.675000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211127T111446_L2A.npz",
+    "sha256": "1d881ed5927916bfdf496a59e85f06138b176f066fd4372deb89907d3bee29cb",
+    "retrieved_utc": "2026-11-02T20:37:33.227948+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211217T111454_L2A",
+    "date": "2021-12-17T11:22:08.078000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211217T111454_L2A.npz",
+    "sha256": "74096db76a62feb88c48bbc218e993ee44682498257664f0472baf4f54991d7d",
+    "retrieved_utc": "2026-11-02T20:37:36.600353+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20211227T111456_L2A",
+    "date": "2021-12-27T11:22:09.308000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20211227T111456_L2A.npz",
+    "sha256": "092c68bf10a3bb8fc62dea3638c74192865bcaf0118c35cd5b22d82f1ab06410",
+    "retrieved_utc": "2026-11-02T20:37:47.702938+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20221222T111454_L2A",
+    "date": "2022-12-22T11:22:05.447000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20221222T111454_L2A.npz",
+    "sha256": "379c8c62374bcd212ea214e667f979ff8d402f70adbc7f7ec3e5f688909fe247",
+    "retrieved_utc": "2026-11-02T20:37:46.788113+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230131T112016_L2A",
+    "date": "2023-01-31T11:22:06.132000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230131T112016_L2A.npz",
+    "sha256": "6963222094c7312e819c7cf2fa062df5be496ae0a2fa73c17a4791dc1bdeccd9",
+    "retrieved_utc": "2026-11-02T20:37:55.910908+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230220T111809_L2A",
+    "date": "2023-02-20T11:22:05.018000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230220T111809_L2A.npz",
+    "sha256": "6550bd848c7273d2e4050d706030455e92af913aad6949d590e6a01b51d6a922",
+    "retrieved_utc": "2026-11-02T20:38:05.052195+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230312T111405_L2A",
+    "date": "2023-03-12T11:22:03.810000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230312T111405_L2A.npz",
+    "sha256": "158571e8ec834adcdbe65855a9cb80fd6d6754a00393150211e5686a8262b3fc",
+    "retrieved_utc": "2026-11-02T20:38:02.859892+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230322T111013_L2A",
+    "date": "2023-03-22T11:22:06.318000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230322T111013_L2A.npz",
+    "sha256": "9f4059179292da209bcd2df6413af38d829992598b81e6460428e05b54a4379f",
+    "retrieved_utc": "2026-11-02T20:38:05.373882+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230411T112205_L2A",
+    "date": "2023-04-11T11:22:12.954000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230411T112205_L2A.npz",
+    "sha256": "85fbc8de0a167f6262278ce1d0ee20ec43173778c98a0c770c4ef5fac9a7366d",
+    "retrieved_utc": "2026-11-02T20:38:14.067211+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230511T112151_L2A",
+    "date": "2023-05-11T11:22:06.848000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230511T112151_L2A.npz",
+    "sha256": "4d961f2edb40d911ebb7ccd8f73bbc27746f3344feec06f66bc29e239d84470d",
+    "retrieved_utc": "2026-11-02T20:38:16.482465+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230531T111708_L2A",
+    "date": "2023-05-31T11:22:11.642000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230531T111708_L2A.npz",
+    "sha256": "88b70226867ee993b0e11a59de514bdd623b31bea269fe9276e223a75e8eb259",
+    "retrieved_utc": "2026-11-02T20:38:21.393214+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230809T112156_L2A",
+    "date": "2023-08-09T11:22:11.872000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230809T112156_L2A.npz",
+    "sha256": "dd7ec6bd18dd3f13312c39d6536b258c4c265627126ff9c62bec8e9fd2714f26",
+    "retrieved_utc": "2026-11-02T20:38:39.131348+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230829T111659_L2A",
+    "date": "2023-08-29T11:22:13.309000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230829T111659_L2A.npz",
+    "sha256": "6757d1e4b4cc875f2d334ddb6dfef94662b3160d796c15023a62fc07bb5171d2",
+    "retrieved_utc": "2026-11-02T20:38:40.787826+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230908T111517_L2A",
+    "date": "2023-09-08T11:22:12.985000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230908T111517_L2A.npz",
+    "sha256": "b835785ea6a30a4df731a10dd0a47a0ea1576ed119d58843dc175765bae2444f",
+    "retrieved_utc": "2026-11-02T20:38:43.964445+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20230928T111532_L2A",
+    "date": "2023-09-28T11:22:10.057000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20230928T111532_L2A.npz",
+    "sha256": "6604a7a0b9466e4cdf83421c995ed4c129f49cca273e8d9b3da7379c56c7e00d",
+    "retrieved_utc": "2026-11-02T20:38:47.146795+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20231107T111948_L2A",
+    "date": "2023-11-07T11:22:07.242000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20231107T111948_L2A.npz",
+    "sha256": "0472078e979d1c8f6a8b413a6fc43a54024819b01b4f75bd9b4b19a23beb4376",
+    "retrieved_utc": "2026-11-02T20:38:53.656889+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20231117T112034_L2A",
+    "date": "2023-11-17T11:22:05.731000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20231117T112034_L2A.npz",
+    "sha256": "0136b287aad7607ef10d99b4e2ce5334af9857c91b8bd20a42b5aec88e612d9a",
+    "retrieved_utc": "2026-11-02T20:39:02.847275+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20231127T112108_L2A",
+    "date": "2023-11-27T11:22:00.841000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20231127T112108_L2A.npz",
+    "sha256": "a35a1523f26d8bca055bd64feb25cd591a961036ffc614e05e1bbd6b1ce66bec",
+    "retrieved_utc": "2026-11-02T20:39:03.886346+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20231217T111452_L2A",
+    "date": "2023-12-17T11:22:03.848000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20231217T111452_L2A.npz",
+    "sha256": "3038f66d18a2dfea22bd285c297ec125c06ccb9a5bd23c44b97ecf20469a18c5",
+    "retrieved_utc": "2026-11-02T20:39:03.700841+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20231227T111453_L2A",
+    "date": "2023-12-27T11:22:04.801000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20231227T111453_L2A.npz",
+    "sha256": "657635bcf87636c6d48d9b07afaa12c7678a6a9e96e2c9d37ff2f8e1f58449c8",
+    "retrieved_utc": "2026-11-02T20:39:03.857254+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240126T111440_L2A",
+    "date": "2024-01-26T11:22:02.108000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240126T111440_L2A.npz",
+    "sha256": "cf90b1ad2298167fa12f483f2ca3a527d355e486606e47ae88d6878b0def8f1d",
+    "retrieved_utc": "2026-11-02T20:39:11.314091+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240225T111445_L2A",
+    "date": "2024-02-25T11:22:06.569000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240225T111445_L2A.npz",
+    "sha256": "eeb923a0d25c490e1497df9ff4f88b29c9e86c6691f7ade058c2decf367d67d5",
+    "retrieved_utc": "2026-11-02T20:39:18.615558+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240306T111448_L2A",
+    "date": "2024-03-06T11:22:08.336000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240306T111448_L2A.npz",
+    "sha256": "9b2eda4e6c979e34d8a54cce956678afcedcd6bd2b79aaf371aea6e67d9477e2",
+    "retrieved_utc": "2026-11-02T20:39:20.792735+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240405T112157_L2A",
+    "date": "2024-04-05T11:22:07.192000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240405T112157_L2A.npz",
+    "sha256": "7567b672794d7f26c016d1689b964f6f1744cc1dc30bcf10231a514af8ba363a",
+    "retrieved_utc": "2026-11-02T20:39:24.293811+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240425T110956_L2A",
+    "date": "2024-04-25T11:22:09.840000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240425T110956_L2A.npz",
+    "sha256": "afbb1e423905e4ad6396fa9b318b44e91fbf8489d6043b287bc33379af026b9f",
+    "retrieved_utc": "2026-11-02T20:39:29.233913+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240505T112159_L2A",
+    "date": "2024-05-05T11:22:10.997000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240505T112159_L2A.npz",
+    "sha256": "4125cbe62edd06af5946fd208637914e19c582286f9a6116561fcea893158d05",
+    "retrieved_utc": "2026-11-02T20:42:11.111619+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240515T111001_L2A",
+    "date": "2024-05-15T11:22:10.536000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240515T111001_L2A.npz",
+    "sha256": "e522261313e28c01bd2fc6a3262dbd28260d976df8ae96c60f595cac39e221a9",
+    "retrieved_utc": "2026-11-02T20:42:10.843794+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240604T111730_L2A",
+    "date": "2024-06-04T11:22:12.592000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240604T111730_L2A.npz",
+    "sha256": "37b6f306649b0b1fe30e6aba69ab9793898b0ce2aeacf6ee2a85eed1191116b4",
+    "retrieved_utc": "2026-11-02T20:34:56.233747+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240614T112209_L2A",
+    "date": "2024-06-14T11:22:17.855000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240614T112209_L2A.npz",
+    "sha256": "a3c313c5f7612d4dbf08a342e59a7a3e682dc9071a007f61765ae103892a8d27",
+    "retrieved_utc": "2026-11-02T20:42:10.260941+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240624T111001_L2A",
+    "date": "2024-06-24T11:22:11.680000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240624T111001_L2A.npz",
+    "sha256": "aebd9e1ef1e19d06c60a70a55a64682c1c0485008eb097b285d6645a9dc89991",
+    "retrieved_utc": "2026-11-02T20:42:16.280393+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240724T111800_L2A",
+    "date": "2024-07-24T11:22:09.971000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240724T111800_L2A.npz",
+    "sha256": "3b0068f9884922d711c4c8e9bd275dce5da776355d0ba24319ed16f43ab15e0f",
+    "retrieved_utc": "2026-11-02T20:42:14.757119+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20240912T111935_L2A",
+    "date": "2024-09-12T11:22:05.424000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20240912T111935_L2A.npz",
+    "sha256": "1fce466f4f6ed526e289bb71e2090af1c736f46ba37a9c40b1338ddbe03eeaaf",
+    "retrieved_utc": "2026-11-02T20:42:28.496055+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20241002T111430_L2A",
+    "date": "2024-10-02T11:22:09.488000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20241002T111430_L2A.npz",
+    "sha256": "78a8f0a480d955256ac1e711ae7e6b218b3c3a2619accdcadb1494226c0a5e0e",
+    "retrieved_utc": "2026-11-02T20:42:33.619393+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2A_T29SQS_20241022T111445_L2A",
+    "date": "2024-10-22T11:22:07.560000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2A_T29SQS_20241022T111445_L2A.npz",
+    "sha256": "c53aa740bd1a79c417f6f93e06aa0f6336c91209e578c2608c77c085594f5426",
+    "retrieved_utc": "2026-11-02T20:42:32.329159+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210116T111445_L2A",
+    "date": "2021-01-16T11:22:07.502000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210116T111445_L2A.npz",
+    "sha256": "8e44d9bd91dd9cc27931229756bcf7ad07eab69b40a2d8d6b35c45c51ccf729b",
+    "retrieved_utc": "2026-11-02T20:36:26.788387+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210126T111448_L2A",
+    "date": "2021-01-26T11:22:07.624000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210126T111448_L2A.npz",
+    "sha256": "4eedae556916fbb11e6d55466728791188d6bffa0ed48d825cc2c528513bd2c1",
+    "retrieved_utc": "2026-11-02T20:36:27.327687+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210215T111210_L2A",
+    "date": "2021-02-15T11:22:05.862000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210215T111210_L2A.npz",
+    "sha256": "1ba02cecdfdd3e4450671eb6a50280fd25f2ce798c4a74fe33be40cf84460029",
+    "retrieved_utc": "2026-11-02T20:36:32.724342+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210225T111057_L2A",
+    "date": "2021-02-25T11:22:06.251000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210225T111057_L2A.npz",
+    "sha256": "4512448fa27431ee1bdb471666cc09b9f6fcd760c3ef1877acf509a150d4c250",
+    "retrieved_utc": "2026-11-02T20:36:34.782399+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210426T110929_L2A",
+    "date": "2021-04-26T11:22:02.739000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210426T110929_L2A.npz",
+    "sha256": "4c45f1af70fff1e5225dd2d8d2423c5d8cb181ffbcda53631ccfa5f915939741",
+    "retrieved_utc": "2026-11-02T20:36:45.913842+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210506T112054_L2A",
+    "date": "2021-05-06T11:22:05.150000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210506T112054_L2A.npz",
+    "sha256": "89eb98474b4ccc01ff1777f4c39af87728ee2ce0acd60528d349a2f226a8989d",
+    "retrieved_utc": "2026-11-02T20:36:48.242623+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210516T110934_L2A",
+    "date": "2021-05-16T11:22:07.018000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210516T110934_L2A.npz",
+    "sha256": "c90288f251a1421df2939ca2b8d47020a9aaed9740cf6120b45a648d5d54fc11",
+    "retrieved_utc": "2026-11-02T20:36:51.321265+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210605T111526_L2A",
+    "date": "2021-06-05T11:22:08.760000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210605T111526_L2A.npz",
+    "sha256": "abe60860af2cc6131a97644e6a6624914fb036c4d68349eb502779b069a28f46",
+    "retrieved_utc": "2026-11-02T20:36:54.273720+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210625T110935_L2A",
+    "date": "2021-06-25T11:22:08.299000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210625T110935_L2A.npz",
+    "sha256": "d5ef6ac2da113930790327d0942cf4db61c40d069ef7decdc84922a2934b982d",
+    "retrieved_utc": "2026-11-02T20:36:59.088027+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210715T110933_L2A",
+    "date": "2021-07-15T11:22:09.800000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210715T110933_L2A.npz",
+    "sha256": "8d284aecfb017d77ae36cce41dc74fcb5c9a9540d3f97807f18a17640c2063b6",
+    "retrieved_utc": "2026-11-02T20:37:02.477263+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210725T110933_L2A",
+    "date": "2021-07-25T11:22:09.754000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210725T110933_L2A.npz",
+    "sha256": "b522439f127dffa3aa05348759e6c585297610f821280aec165ce116b86d98e9",
+    "retrieved_utc": "2026-11-02T20:37:04.686485+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210804T111529_L2A",
+    "date": "2021-08-04T11:22:09.091000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210804T111529_L2A.npz",
+    "sha256": "01f61c3c819c882eeaa0a60b9d8dba72c425b72e2b96d524a6d75c398546d479",
+    "retrieved_utc": "2026-11-02T20:37:08.115108+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20210824T110933_L2A",
+    "date": "2021-08-24T11:22:06.282000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20210824T110933_L2A.npz",
+    "sha256": "479e6e03e5a5b777de10f6485abec77836c47f93a55100968894207492e8cac6",
+    "retrieved_utc": "2026-11-02T20:37:12.100304+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20211023T111155_L2A",
+    "date": "2021-10-23T11:22:09.343000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20211023T111155_L2A.npz",
+    "sha256": "7b7a4084ebfcdb619c155ad204c79462ebe916138508746bda9802e9f9ab2e96",
+    "retrieved_utc": "2026-11-02T20:37:23.888179+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20211112T111445_L2A",
+    "date": "2021-11-12T11:22:07.063000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20211112T111445_L2A.npz",
+    "sha256": "f32bd82af786c0a5072d1e4f360dba74af45b6001876efab39295d8bc340d9f7",
+    "retrieved_utc": "2026-11-02T20:37:27.090409+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20211212T111443_L2A",
+    "date": "2021-12-12T11:22:02.052000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20211212T111443_L2A.npz",
+    "sha256": "537813e00aedb7db6bcbd9fa3466f854380d5500f0521ebdc0480ad681745e08",
+    "retrieved_utc": "2026-11-02T20:37:34.567511+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20220322T111954_L2A",
+    "date": "2022-03-22T11:22:05.290000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20220322T111954_L2A.npz",
+    "sha256": "5868d9222594e2fecffd058e77d2713ed4d3a15a6b7277c50660c3fdae57b290",
+    "retrieved_utc": "2026-11-02T20:37:47.085909+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230106T111343_L2A",
+    "date": "2023-01-06T11:22:05.383000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230106T111343_L2A.npz",
+    "sha256": "92d6b0a88b8b7cbd5a82b4b4afbdc2cb63ecfac8db8910d118ab26202d94127b",
+    "retrieved_utc": "2026-11-02T20:37:46.353379+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230116T111315_L2A",
+    "date": "2023-01-16T11:22:04.493000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230116T111315_L2A.npz",
+    "sha256": "09d674cc444906bfa945865748e27e024ae92a53fa18377957b09d531a4a3b1a",
+    "retrieved_utc": "2026-11-02T20:37:54.706850+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230126T111234_L2A",
+    "date": "2023-01-26T11:22:05.646000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230126T111234_L2A.npz",
+    "sha256": "dbb0198b104fd9246a58c426e68fc8d1b1a9f9e002a1ffb3e3a7c62f104bee76",
+    "retrieved_utc": "2026-11-02T20:37:55.799968+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230215T112006_L2A",
+    "date": "2023-02-15T11:22:05.959000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230215T112006_L2A.npz",
+    "sha256": "91e77a424f6ca356808ecf42a5bd2697ca72247bfad1aa4550f220c82330e9ed",
+    "retrieved_utc": "2026-11-02T20:37:56.811388+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230307T111648_L2A",
+    "date": "2023-03-07T11:22:11.174000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230307T111648_L2A.npz",
+    "sha256": "20f4804ac06cc9a613b02a85301d0931c6290b81334188c1ac32f7b99e78a625",
+    "retrieved_utc": "2026-11-02T20:38:04.042294+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230406T111932_L2A",
+    "date": "2023-04-06T11:22:10.620000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230406T111932_L2A.npz",
+    "sha256": "66ff849758087911ed96984c0129bf4846cd2e86811142b36ae507bc96eb6b5b",
+    "retrieved_utc": "2026-11-02T20:38:09.742720+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230426T110936_L2A",
+    "date": "2023-04-26T11:22:09.476000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230426T110936_L2A.npz",
+    "sha256": "05bb5a0a53fd51357a04fd313c1052473e67fbb3ea94d8a3a20118081aca2ed1",
+    "retrieved_utc": "2026-11-02T20:38:11.996354+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230506T112131_L2A",
+    "date": "2023-05-06T11:22:10.393000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230506T112131_L2A.npz",
+    "sha256": "4f96008d3c326f7453ced1e6c89c33766a81f799d05658bf1b5c527c7bec8a5d",
+    "retrieved_utc": "2026-11-02T20:38:13.212082+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230526T112118_L2A",
+    "date": "2023-05-26T11:22:12.461000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230526T112118_L2A.npz",
+    "sha256": "29c8affbf0e31e3de13f7228f1489c31d3dd878e11934dd205333f4fa8f2d4bd",
+    "retrieved_utc": "2026-11-02T20:38:21.150157+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230615T111915_L2A",
+    "date": "2023-06-15T11:22:12.721000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230615T111915_L2A.npz",
+    "sha256": "d67e56aea1287280114501b68448e544f0cb176108655472bf14c7802b3e24b9",
+    "retrieved_utc": "2026-11-02T20:38:22.046111+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230625T112117_L2A",
+    "date": "2023-06-25T11:22:12.205000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230625T112117_L2A.npz",
+    "sha256": "1e601d5f35f01c0b53999410c188679dbd674975ddd01c1f6825acc6fb596042",
+    "retrieved_utc": "2026-11-02T20:38:24.201599+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230705T112118_L2A",
+    "date": "2023-07-05T11:22:13.162000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230705T112118_L2A.npz",
+    "sha256": "c5d97edb938d29abe8d8961bab9e8cebee4c80c4867efd6adc44df2c47d3224a",
+    "retrieved_utc": "2026-11-02T20:38:30.225752+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230715T112121_L2A",
+    "date": "2023-07-15T11:22:12.823000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230715T112121_L2A.npz",
+    "sha256": "f5d31cb211a772609e6bba43bb9488b8c7c65115ef7d39fddddde9f93503cc6e",
+    "retrieved_utc": "2026-11-02T20:38:31.387671+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230725T112119_L2A",
+    "date": "2023-07-25T11:22:13.737000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230725T112119_L2A.npz",
+    "sha256": "f31e245b41747d4c807579ca40eb77d9244eb85251926a60c305b2f42f536b2b",
+    "retrieved_utc": "2026-11-02T20:38:32.173116+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230804T112117_L2A",
+    "date": "2023-08-04T11:22:12.456000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230804T112117_L2A.npz",
+    "sha256": "6cdaed4cdedb557d524eac7af5b76194799453aecddec4dbdfbd36b4f72b79ec",
+    "retrieved_utc": "2026-11-02T20:38:36.157503+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230824T111733_L2A",
+    "date": "2023-08-24T11:22:11.793000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230824T111733_L2A.npz",
+    "sha256": "32ac4cdd84fa2bc056bb59a28b4e0a303a276c54ced9b817c5e6f9eb99037f8e",
+    "retrieved_utc": "2026-11-02T20:38:40.023854+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20230923T111823_L2A",
+    "date": "2023-09-23T11:22:11.309000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20230923T111823_L2A.npz",
+    "sha256": "7fc1ae323c9936ca08ba91b8e8b78d834736a11f0a10c294c69f35011db8ae39",
+    "retrieved_utc": "2026-11-02T20:38:50.062466+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20231013T111741_L2A",
+    "date": "2023-10-13T11:22:09.938000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20231013T111741_L2A.npz",
+    "sha256": "17742691eedad35c7142d820143b5f9480e03c590bfcc39f25547ebf2435d161",
+    "retrieved_utc": "2026-11-02T20:38:50.328787+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20231102T112132_L2A",
+    "date": "2023-11-02T11:22:10.411000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20231102T112132_L2A.npz",
+    "sha256": "4ed0a8d05b883706375af97453f1d881c132209f5bf0ef7776ba358cd1d0f220",
+    "retrieved_utc": "2026-11-02T20:38:51.761280+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240101T111410_L2A",
+    "date": "2024-01-01T11:22:08.607000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240101T111410_L2A.npz",
+    "sha256": "7b98223f517159650405c1e139c7a3d354287d43db1f940fb667104a852c2242",
+    "retrieved_utc": "2026-11-02T20:39:12.449615+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240111T111332_L2A",
+    "date": "2024-01-11T11:22:05.489000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240111T111332_L2A.npz",
+    "sha256": "1988140ff5ef50a36c2cbafe3b4a968aa13d209561effd6e0d968545be9233f2",
+    "retrieved_utc": "2026-11-02T20:39:12.170559+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240131T111211_L2A",
+    "date": "2024-01-31T11:22:04.909000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240131T111211_L2A.npz",
+    "sha256": "b25e465b610c12b117772a5c818e1789fc08daf007abf54f76c339963b9fb2c8",
+    "retrieved_utc": "2026-11-02T20:39:16.942752+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240311T111746_L2A",
+    "date": "2024-03-11T11:22:04.014000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240311T111746_L2A.npz",
+    "sha256": "927d85d699740f57c16a4908d5cdd4edc6b61a506e6acd0886539d25e801d618",
+    "retrieved_utc": "2026-11-02T20:39:24.082610+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240410T112113_L2A",
+    "date": "2024-04-10T11:22:07.664000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240410T112113_L2A.npz",
+    "sha256": "c16be5a3928ad3e469595ae4985257befb2a240ea02c674a8629ccee799454a3",
+    "retrieved_utc": "2026-11-02T20:39:27.170408+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240520T111145_L2A",
+    "date": "2024-05-20T11:22:06.899000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240520T111145_L2A.npz",
+    "sha256": "9a7791df20afece4849caf7e73db86934bfaeaac90a46e9a30c46832ebab064d",
+    "retrieved_utc": "2026-11-02T20:42:15.222055+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240629T112117_L2A",
+    "date": "2024-06-29T11:22:11.633000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240629T112117_L2A.npz",
+    "sha256": "994f3741452a96dc6fb83a07c82911ff4a266277ab24693f3940e7767973aa7a",
+    "retrieved_utc": "2026-11-02T20:42:13.246654+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240709T112115_L2A",
+    "date": "2024-07-09T11:22:10.255000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240709T112115_L2A.npz",
+    "sha256": "434600b97463f57188ed689e70249341df1ada672a6002fa81a1fd7af1a83b50",
+    "retrieved_utc": "2026-11-02T20:42:11.056974+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240729T112114_L2A",
+    "date": "2024-07-29T11:22:09.358000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240729T112114_L2A.npz",
+    "sha256": "68d2b7b4f0b191df573628af50e9706cac893350129968d05939d25f22064ee4",
+    "retrieved_utc": "2026-11-02T20:42:23.352937+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240808T111048_L2A",
+    "date": "2024-08-08T11:22:11.408000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240808T111048_L2A.npz",
+    "sha256": "5a9cba09abd321ee1f281d7ced3e91c9dab33e8e31d9f0e4a4eb655ee5cda68e",
+    "retrieved_utc": "2026-11-02T20:42:19.746230+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240818T111054_L2A",
+    "date": "2024-08-18T11:22:09.904000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240818T111054_L2A.npz",
+    "sha256": "119cdf1c00130c6d72d70577c3deacb329688d06385bfc917f5416b749788b49",
+    "retrieved_utc": "2026-11-02T20:42:20.053519+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240828T111047_L2A",
+    "date": "2024-08-28T11:22:09.748000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240828T111047_L2A.npz",
+    "sha256": "a98d80bd539b651d370d0387866a71cf616134eb624db7d9b8becfead9ddb4ec",
+    "retrieved_utc": "2026-11-02T20:42:23.186927+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20240917T111928_L2A",
+    "date": "2024-09-17T11:22:04.885000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20240917T111928_L2A.npz",
+    "sha256": "23210e089045ee4c207550592a47b3c084473e6a458e0cf7132c723a5956d03a",
+    "retrieved_utc": "2026-11-02T20:42:25.502968+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20241126T111320_L2A",
+    "date": "2024-11-26T11:22:09.292000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20241126T111320_L2A.npz",
+    "sha256": "87d0ff3d071f2e742f63153234f0377c072a14d229bf58f63eb58d28b3c3b11f",
+    "retrieved_utc": "2026-11-02T20:42:33.949883+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20241206T111736_L2A",
+    "date": "2024-12-06T11:22:07.892000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20241206T111736_L2A.npz",
+    "sha256": "15c69adb45458fc2b2ab569e6a5e8b10a973f3a5fda8abb8800cd3e7422f0c16",
+    "retrieved_utc": "2026-11-02T20:42:34.390859+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20241216T111805_L2A",
+    "date": "2024-12-16T11:22:08.870000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20241216T111805_L2A.npz",
+    "sha256": "b34c67febf37fcfcd3e97c6a35f6cde34d518b43d0f77e417c4ec51f5edbf66c",
+    "retrieved_utc": "2026-11-02T20:42:37.421151+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2B_T29SQS_20241226T111806_L2A",
+    "date": "2024-12-26T11:22:09.488000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2B_T29SQS_20241226T111806_L2A.npz",
+    "sha256": "1606fb795b119f34078b34dd666d2ce203b628ba827d93121aa8edb452645e3a",
+    "retrieved_utc": "2026-11-02T20:42:44.573879+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2C_T29SQS_20241101T111627_L2A",
+    "date": "2024-11-01T11:22:34.274000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2C_T29SQS_20241101T111627_L2A.npz",
+    "sha256": "6ba0c458d79277338bb112d07f759ae3ffdbfeaa3e109b0aab67e22ba8049f14",
+    "retrieved_utc": "2026-11-02T20:42:28.459174+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2C_T29SQS_20241111T112233_L2A",
+    "date": "2024-11-11T11:22:39.701000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2C_T29SQS_20241111T112233_L2A.npz",
+    "sha256": "d627825f229181c7f0eea1e595dce07f5028f4f2f68a46d41b4c2520ce29e6bd",
+    "retrieved_utc": "2026-11-02T20:42:29.452788+00:00"
+  },
+  {
+    "source": "sentinel2",
+    "item_id": "S2C_T29SQS_20241121T112234_L2A",
+    "date": "2024-11-21T11:22:40.760000Z",
+    "file": "data\\raw\\pilot\\sentinel2\\Tadla\\S2C_T29SQS_20241121T112234_L2A.npz",
+    "sha256": "d5e0f49722ba767068d5429eb0be3e0cdccfb8f2ba58fa6d9bef656139c89374",
+    "retrieved_utc": "2026-11-02T20:42:34.609206+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150103_02_T1",
+    "date": "2015-01-03T11:04:11.200611Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150103_02_T1.npz",
+    "sha256": "2e8ad86387617c18c336cfd054da51b0d6fc0efc604f9b4d648b630ff9b2b07f",
+    "retrieved_utc": "2026-11-02T20:44:48.607159+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150220_02_T1",
+    "date": "2015-02-20T11:03:57.744196Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150220_02_T1.npz",
+    "sha256": "cc0db708a335334fef11e1a1cecf712f6db08187021eac35112c30be9960d99f",
+    "retrieved_utc": "2026-11-02T20:44:47.770664+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150308_02_T1",
+    "date": "2015-03-08T11:03:49.765578Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150308_02_T1.npz",
+    "sha256": "aa67c34b6b5822fefb0004032584d0f477728314fc58dfaa03f6256c77035635",
+    "retrieved_utc": "2026-11-02T20:44:49.589891+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150425_02_T1",
+    "date": "2015-04-25T11:03:28.126059Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150425_02_T1.npz",
+    "sha256": "a224fb19a4272214a438781ac18791dc4d278ca63a0b26a92965482028e4a8a2",
+    "retrieved_utc": "2026-11-02T20:44:50.153993+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150511_02_T1",
+    "date": "2015-05-11T11:03:12.182770Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150511_02_T1.npz",
+    "sha256": "fd439d674bbe728214106a692a96e4ec3a5b9b0a1e7676cf46e9f88e42b698de",
+    "retrieved_utc": "2026-11-02T20:44:50.332366+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150628_02_T1",
+    "date": "2015-06-28T11:03:30.755986Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150628_02_T1.npz",
+    "sha256": "9d0566fbd49087939da9484159628a661727ada2578a0dbc93fa07b536815f62",
+    "retrieved_utc": "2026-11-02T20:44:49.856120+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150714_02_T1",
+    "date": "2015-07-14T11:03:41.437349Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150714_02_T1.npz",
+    "sha256": "32e4dc86d3d1d2ee51e7d2b47e16f74841cdbfdfac9495834c68144245146966",
+    "retrieved_utc": "2026-11-02T20:44:51.259209+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150831_02_T1",
+    "date": "2015-08-31T11:03:57.404209Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150831_02_T1.npz",
+    "sha256": "7df31c9201c1e74bfcc645119a7c303b6bf1853abc2c680705cdc31139ed688c",
+    "retrieved_utc": "2026-11-02T20:44:51.923628+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20150916_02_T1",
+    "date": "2015-09-16T11:04:05.428774Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20150916_02_T1.npz",
+    "sha256": "c405ad5adaeaef326d8ade21df512cefcde054ddbde6ed938bcdcbbff453a413",
+    "retrieved_utc": "2026-11-02T20:44:52.784654+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20151002_02_T1",
+    "date": "2015-10-02T11:04:09.994751Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20151002_02_T1.npz",
+    "sha256": "5ea4594d62e066de85ed3cc5bc30a36bb6e6d81d064edd9c0f0bdbf0c3bd42cf",
+    "retrieved_utc": "2026-11-02T20:44:52.280195+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20151119_02_T1",
+    "date": "2015-11-19T11:04:17.263600Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20151119_02_T1.npz",
+    "sha256": "f47c64294c32ce47f1ee8970608cbb7722c6cf2ff2ab664556bcf8ed852360c9",
+    "retrieved_utc": "2026-11-02T20:44:51.675920+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20151205_02_T1",
+    "date": "2015-12-05T11:04:17.094060Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20151205_02_T1.npz",
+    "sha256": "101f1d9a22e81636fd435207a0cce16ee069e2813c799ba209777f09b593ad67",
+    "retrieved_utc": "2026-11-02T20:44:52.188398+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160122_02_T1",
+    "date": "2016-01-22T11:04:14.060309Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160122_02_T1.npz",
+    "sha256": "9bfd5164db3355ba024c2d84ab5cb7770f2e01dcd12d7c6ec591d1efef09633f",
+    "retrieved_utc": "2026-11-02T20:44:53.047729+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160207_02_T1",
+    "date": "2016-02-07T11:04:09.709564Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160207_02_T1.npz",
+    "sha256": "1589b1e13054a70d88f3274f14372c1047b84805c2caae6a3a7ab248f2c4d6eb",
+    "retrieved_utc": "2026-11-02T20:44:53.176935+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160326_02_T1",
+    "date": "2016-03-26T11:03:52.061798Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160326_02_T1.npz",
+    "sha256": "5139cb89c3c80ac9ec2ce80ef3cb0884888744d2a1791e36d8416528481d5585",
+    "retrieved_utc": "2026-11-02T20:44:53.456975+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160427_02_T1",
+    "date": "2016-04-27T11:03:41.862606Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160427_02_T1.npz",
+    "sha256": "ef272ca46e1a75e6d3165147a6c0f573675380d2e970b2c54c8ce2b116ea975d",
+    "retrieved_utc": "2026-11-02T20:44:53.742979+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160529_02_T1",
+    "date": "2016-05-29T11:03:47.929052Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160529_02_T1.npz",
+    "sha256": "d3caaa873337c204bfd0a757fd54f36a2ba04440f09c7f4e85d01884ec0fa708",
+    "retrieved_utc": "2026-11-02T20:44:53.788938+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160614_02_T1",
+    "date": "2016-06-14T11:03:50.667263Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160614_02_T1.npz",
+    "sha256": "e626c4e8929747155e8a3723655c2c978e0987a799d42aaf347727401de7f6f7",
+    "retrieved_utc": "2026-11-02T20:44:54.382033+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160716_02_T1",
+    "date": "2016-07-16T11:04:06.497352Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160716_02_T1.npz",
+    "sha256": "c151d5c147650a07d997fca7d9dabc01b3f6f7c602efe52ef2c711de30fe72df",
+    "retrieved_utc": "2026-11-02T20:44:54.374544+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20160801_02_T1",
+    "date": "2016-08-01T11:04:10.074833Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20160801_02_T1.npz",
+    "sha256": "76e31ded4529c8a4360aeba44dfb1511b6115652c2c749f17fba8bc0a6755636",
+    "retrieved_utc": "2026-11-02T20:44:55.214020+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20161004_02_T1",
+    "date": "2016-10-04T11:04:24.897036Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20161004_02_T1.npz",
+    "sha256": "583b29d3fe8f8874a37f574132d0462bba23c9cbf0abddb0fe0b835447b2fd5e",
+    "retrieved_utc": "2026-11-02T20:44:56.111222+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20161121_02_T1",
+    "date": "2016-11-21T11:04:29.465666Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20161121_02_T1.npz",
+    "sha256": "6f0b82554b28424127d0ffa0d595c3bb94ea315d3ef7ff00d1e84e9ff139fff3",
+    "retrieved_utc": "2026-11-02T20:44:55.438379+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20161223_02_T1",
+    "date": "2016-12-23T11:04:23.141660Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20161223_02_T1.npz",
+    "sha256": "07f01d5aa9f0e4779cdf26630d6aaa8ee8cf3daa4ec64096a258c4b88070f082",
+    "retrieved_utc": "2026-11-02T20:44:55.698482+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170124_02_T1",
+    "date": "2017-01-24T11:04:15.168619Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170124_02_T1.npz",
+    "sha256": "093c9406c905975a02334ccdd19240121622715bd94b06b5141c3cc97e91226c",
+    "retrieved_utc": "2026-11-02T20:44:55.896805+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170209_02_T1",
+    "date": "2017-02-09T11:04:06.690691Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170209_02_T1.npz",
+    "sha256": "d85c273ff11e22b674b1ad3d42ee396e9cd3db6bb1ed624387dbb596b1825c42",
+    "retrieved_utc": "2026-11-02T20:44:56.741770+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170329_02_T1",
+    "date": "2017-03-29T11:03:44.611500Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170329_02_T1.npz",
+    "sha256": "01ea05fc6d7a51ca8769a7ba6d239a411e441e5ae05de8b4a8b39f770a90ba40",
+    "retrieved_utc": "2026-11-02T20:44:56.029311+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170414_02_T1",
+    "date": "2017-04-14T11:03:36.816342Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170414_02_T1.npz",
+    "sha256": "26ccbe34e9a7c20b2a1dcfd1b475b7705479391dde8ad2b8b8241478d90bd41e",
+    "retrieved_utc": "2026-11-02T20:44:56.854260+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170516_02_T1",
+    "date": "2017-05-16T11:03:35.688655Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170516_02_T1.npz",
+    "sha256": "67aedc2a7c0e7dc50ae63a88c1d6c50b37dcea5618a1e2431c15396cdc9e6216",
+    "retrieved_utc": "2026-11-02T20:44:57.197194+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170601_02_T1",
+    "date": "2017-06-01T11:03:45.360852Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170601_02_T1.npz",
+    "sha256": "9b300fd8d830865a446ca1ab0b0cd34811ba93f54d74e835bcf1fcf248af74d0",
+    "retrieved_utc": "2026-11-02T20:44:57.592572+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170703_02_T1",
+    "date": "2017-07-03T11:03:56.067705Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170703_02_T1.npz",
+    "sha256": "e47c73ea1ae6dc548a2c896a911124a7cc3f865907fde66e1a6a23b00df38048",
+    "retrieved_utc": "2026-11-02T20:44:57.959093+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170820_02_T1",
+    "date": "2017-08-20T11:04:13.220607Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170820_02_T1.npz",
+    "sha256": "0ceaff76b8b5858b7fc9d8d8f427a4067dbb4eb799ec1a935124f4fb09b2b013",
+    "retrieved_utc": "2026-11-02T20:44:58.722690+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20170905_02_T1",
+    "date": "2017-09-05T11:04:15.572446Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20170905_02_T1.npz",
+    "sha256": "0e8d09f8e0e52dcb9439292bebcd34909ead6b0e3e620e1bbdeddbdcb1ce5c42",
+    "retrieved_utc": "2026-11-02T20:44:58.507168+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20171023_02_T1",
+    "date": "2017-10-23T11:04:27.200768Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20171023_02_T1.npz",
+    "sha256": "07a75ef03ad9509c641deea2c4645f3f6c1989753fb562d0a93e400b35504632",
+    "retrieved_utc": "2026-11-02T20:44:58.407709+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20171108_02_T1",
+    "date": "2017-11-08T11:04:25.656473Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20171108_02_T1.npz",
+    "sha256": "4218615bada3badd9c75f9d4abe399840122bc5c287481696fbd6e835c9cfbd9",
+    "retrieved_utc": "2026-11-02T20:44:58.777685+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20171210_02_T1",
+    "date": "2017-12-10T11:04:17.715024Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20171210_02_T1.npz",
+    "sha256": "fb934d463c0ce34ad75a93d2449ca895601b8dd2ca27964a5a0a032b5aa54b50",
+    "retrieved_utc": "2026-11-02T20:44:58.735374+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180127_02_T1",
+    "date": "2018-01-27T11:04:04.947058Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180127_02_T1.npz",
+    "sha256": "41134752ac6a5485b846970c5db4e6abbb4cd458478570c34081dcc798a7aa3e",
+    "retrieved_utc": "2026-11-02T20:44:58.859708+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180212_02_T1",
+    "date": "2018-02-12T11:03:58.383301Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180212_02_T1.npz",
+    "sha256": "b3f020e422eab505324b7fadc6f05e5ee854035a33cc283e8120af0210de1be2",
+    "retrieved_utc": "2026-11-02T20:44:59.698909+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180401_02_T1",
+    "date": "2018-04-01T11:03:35.727141Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180401_02_T1.npz",
+    "sha256": "30e465e230e7fc40f276f6c8dbccaed08fb67594fb3122d1f72ed4f8031afa8f",
+    "retrieved_utc": "2026-11-02T20:44:59.618984+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180503_02_T1",
+    "date": "2018-05-03T11:03:17.682354Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180503_02_T1.npz",
+    "sha256": "6dd4c7022cd110d3aac56c8b37a9699d306482066fcb2611c0200293648dbe51",
+    "retrieved_utc": "2026-11-02T20:45:00.362617+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180604_02_T1",
+    "date": "2018-06-04T11:02:55.574924Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180604_02_T1.npz",
+    "sha256": "18924b232c1cf41dc1fd38f2a00be53f6c188e29dd8e021911ef0958a5de52e3",
+    "retrieved_utc": "2026-11-02T20:45:00.814321+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180722_02_T1",
+    "date": "2018-07-22T11:03:21.822441Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180722_02_T1.npz",
+    "sha256": "c15edead9527273a85b7a53a412d221ecce9083a230808256bb4fdffa855f739",
+    "retrieved_utc": "2026-11-02T20:45:00.467200+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180823_02_T1",
+    "date": "2018-08-23T11:03:38.768538Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180823_02_T1.npz",
+    "sha256": "292047deed3928591ddaa7319bf02db264a1c17fae4d4b428c197372f4bc8ff8",
+    "retrieved_utc": "2026-11-02T20:45:00.939697+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20180924_02_T1",
+    "date": "2018-09-24T11:03:49.609609Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20180924_02_T1.npz",
+    "sha256": "a7f8fa1454466685ce4c111904c5a919fd17cd4d754f40816123747153985370",
+    "retrieved_utc": "2026-11-02T20:45:01.091741+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20181010_02_T1",
+    "date": "2018-10-10T11:03:57.484105Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20181010_02_T1.npz",
+    "sha256": "bebd1a7207c7e9af87de7ef637128d4780f6e5c764d22acd0550cc637218af67",
+    "retrieved_utc": "2026-11-02T20:45:00.764963+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20181111_02_T1",
+    "date": "2018-11-11T11:04:05.059456Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20181111_02_T1.npz",
+    "sha256": "d41ba28a0cc63cc1bf004393a0294aff6e0251d4e0df81ec462e2126f6327ae8",
+    "retrieved_utc": "2026-11-02T20:45:01.427690+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20181213_02_T1",
+    "date": "2018-12-13T11:04:00.944479Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20181213_02_T1.npz",
+    "sha256": "57cda319acc271cd359702862035e5c002a56b39d645c4ae7c9cd30931b46020",
+    "retrieved_utc": "2026-11-02T20:45:01.927964+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190114_02_T1",
+    "date": "2019-01-14T11:03:59.323020Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190114_02_T1.npz",
+    "sha256": "d4875a032529e52edbdb11f37eba94c69ee8b4a2710c5f897f2562947d49ec2e",
+    "retrieved_utc": "2026-11-02T20:45:02.907204+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190319_02_T1",
+    "date": "2019-03-19T11:03:44.126967Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190319_02_T1.npz",
+    "sha256": "746993d0972389da7d6baba1ee5c413a19b26eb863fbd9002eb4b40f17ced43b",
+    "retrieved_utc": "2026-11-02T20:45:02.935293+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190506_02_T1",
+    "date": "2019-05-06T11:03:37.293187Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190506_02_T1.npz",
+    "sha256": "d01829791dd47c565a82b785d8eee0d05ede4ae1a94e40744a02286a95464e75",
+    "retrieved_utc": "2026-11-02T20:45:02.731350+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190623_02_T1",
+    "date": "2019-06-23T11:04:01.136066Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190623_02_T1.npz",
+    "sha256": "0dfac91327b8f721fbb1ad34cd0df2113e503151c2ad7f0a910c77cc3f8057c6",
+    "retrieved_utc": "2026-11-02T20:45:02.755064+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190709_02_T1",
+    "date": "2019-07-09T11:04:04.822356Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190709_02_T1.npz",
+    "sha256": "5d830dcd0828f31c4b98181a5cc1990fdded25262c14499c94cf0abe6759a630",
+    "retrieved_utc": "2026-11-02T20:45:03.433814+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190810_02_T1",
+    "date": "2019-08-10T11:04:15.515443Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190810_02_T1.npz",
+    "sha256": "560e3b798d3bc3da8e3c8998470707c0670d2ab4d3021dab614d20a8a8dde3a6",
+    "retrieved_utc": "2026-11-02T20:45:03.382715+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20190911_02_T1",
+    "date": "2019-09-11T11:04:24.002082Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20190911_02_T1.npz",
+    "sha256": "a339b5a676918187dd6d220e0e47db07a565ce9c74ee88734e434319a873565d",
+    "retrieved_utc": "2026-11-02T20:45:04.283273+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20191029_02_T1",
+    "date": "2019-10-29T11:04:32.619610Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20191029_02_T1.npz",
+    "sha256": "cdf4fb634e26dfeb5820e08a7ad374f1556ed7e2980641ba614ef32e8dae9cfa",
+    "retrieved_utc": "2026-11-02T20:45:03.516475+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20191130_02_T1",
+    "date": "2019-11-30T11:04:28.179826Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20191130_02_T1.npz",
+    "sha256": "ce1c19dfb0cdb67fb83f1fdd54ef0b4e75eb9de9d709d941a0840df9413623c6",
+    "retrieved_utc": "2026-11-02T20:45:04.883240+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20191216_02_T1",
+    "date": "2019-12-16T11:04:26.467090Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20191216_02_T1.npz",
+    "sha256": "ba0b6f32cd2a7da88ebf1527a798a31191a77a0a314b93aca5b26b1a0af969cc",
+    "retrieved_utc": "2026-11-02T20:45:05.335079+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200117_02_T1",
+    "date": "2020-01-17T11:04:18.923414Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200117_02_T1.npz",
+    "sha256": "37786c711914b6a6b8466bc36bbcd25bc0e60cb351536e838c34c381daa2b076",
+    "retrieved_utc": "2026-11-02T20:45:05.227733+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200218_02_T1",
+    "date": "2020-02-18T11:04:10.231861Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200218_02_T1.npz",
+    "sha256": "743e4525b82899a4999ac3c9bfe1ac7e76ae39b2d39fd5c8403a4f032dc69e1a",
+    "retrieved_utc": "2026-11-02T20:45:05.643142+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200305_02_T1",
+    "date": "2020-03-05T11:04:04.966547Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200305_02_T1.npz",
+    "sha256": "5adb2d26c78f0a6fe3e55b6c16689c42885b44098debbaf6e2fc4dba2cbd1f82",
+    "retrieved_utc": "2026-11-02T20:45:04.872672+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200406_02_T1",
+    "date": "2020-04-06T11:03:48.343915Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200406_02_T1.npz",
+    "sha256": "db6eb64b55d110d07319d4de6535a8b7e2a56e0aba9f01b3a74eb57dbbbb9f13",
+    "retrieved_utc": "2026-11-02T20:45:05.314914+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200524_02_T1",
+    "date": "2020-05-24T11:03:35.878608Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200524_02_T1.npz",
+    "sha256": "89b538bd672d88139d7120b1f0ca5288e643a075355fed97c6fa234c16b72b49",
+    "retrieved_utc": "2026-11-02T20:45:06.191891+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200609_02_T1",
+    "date": "2020-06-09T11:03:44.320964Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200609_02_T1.npz",
+    "sha256": "f82072f2e8a101382a8076482a3ecd9579fd7eb59bd517c7f57a33334aea4a79",
+    "retrieved_utc": "2026-11-02T20:45:06.957401+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200711_02_T1",
+    "date": "2020-07-11T11:03:59.944595Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200711_02_T1.npz",
+    "sha256": "387a69ae68854d54dbcb4416d4cda5b419b2350ec691d84a896c7e6118d64cb2",
+    "retrieved_utc": "2026-11-02T20:45:07.251680+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200828_02_T1",
+    "date": "2020-08-28T11:04:16.559060Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200828_02_T1.npz",
+    "sha256": "d96a6b54eb78b5ae327aa24bdcacb2abc074aac6283ce187ffdd2d2e2ba83f82",
+    "retrieved_utc": "2026-11-02T20:45:07.491142+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20200929_02_T1",
+    "date": "2020-09-29T11:04:27.429531Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20200929_02_T1.npz",
+    "sha256": "1bfefcbb451b2a304e084aa16d3b7111940cbef70fcc95fbda06e8647c94702a",
+    "retrieved_utc": "2026-11-02T20:45:06.782772+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20201031_02_T1",
+    "date": "2020-10-31T11:04:28.116951Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20201031_02_T1.npz",
+    "sha256": "169bdcac3a3c7926b688e621a9aeb90a7d301302765ca549aa3e3fa0343ab6d1",
+    "retrieved_utc": "2026-11-02T20:45:07.412690+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20201116_02_T1",
+    "date": "2020-11-16T11:04:26.485378Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20201116_02_T1.npz",
+    "sha256": "3fc72145868c8897e05b67c8e6611bb48d3ce7020de863d6aafdaba4e60ba419",
+    "retrieved_utc": "2026-11-02T20:45:07.940624+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20201202_02_T1",
+    "date": "2020-12-02T11:04:30.047109Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20201202_02_T1.npz",
+    "sha256": "e2026585b4a9ee7652d445276219a833cfa6afda5060ca556d0d2126af98628b",
+    "retrieved_utc": "2026-11-02T20:45:07.448644+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210119_02_T1",
+    "date": "2021-01-19T11:04:17.510867Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210119_02_T1.npz",
+    "sha256": "ddea331b39501e02753cbff4bbf98e4f3725715f9ccd9d51c7262b6e62f68c18",
+    "retrieved_utc": "2026-11-02T20:45:08.305007+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210220_02_T1",
+    "date": "2021-02-20T11:04:11.852474Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210220_02_T1.npz",
+    "sha256": "61efde795de097e65efd34b6342e808bf6328acb2f1e2cf3d7ed74ed4b3a3827",
+    "retrieved_utc": "2026-11-02T20:45:08.803035+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210324_02_T1",
+    "date": "2021-03-24T11:03:57.315956Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210324_02_T1.npz",
+    "sha256": "1ac777c2a37b22cdeea20d888c81768b8ec57dfac02fe9c362e35cc93ac9f0d9",
+    "retrieved_utc": "2026-11-02T20:45:09.012118+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210409_02_T1",
+    "date": "2021-04-09T11:03:52.747708Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210409_02_T1.npz",
+    "sha256": "6ee294e98b96e86cb2eab69634f5db188616ff74c1652423f1e8024a21f7cb7b",
+    "retrieved_utc": "2026-11-02T20:45:08.945920+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210511_02_T1",
+    "date": "2021-05-11T11:03:41.413126Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210511_02_T1.npz",
+    "sha256": "be75385a456a5fc410ec502b2db1d804a34a458d519195df18c328933e9b278f",
+    "retrieved_utc": "2026-11-02T20:45:09.131358+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210628_02_T1",
+    "date": "2021-06-28T11:04:02.294776Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210628_02_T1.npz",
+    "sha256": "27a2915aec9e929d5b2a9ab8cadd3bba6cfeeddcc5721b832f3db314c8ee00c3",
+    "retrieved_utc": "2026-11-02T20:45:09.455863+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210714_02_T1",
+    "date": "2021-07-14T11:04:03.510049Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210714_02_T1.npz",
+    "sha256": "582dac4c3696bfc55d33eed2a3fa04e42b92620aea24dd94c0ab7ec234beab24",
+    "retrieved_utc": "2026-11-02T20:45:09.901099+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210831_02_T1",
+    "date": "2021-08-31T11:04:22.351210Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210831_02_T1.npz",
+    "sha256": "7bfacff1f383856e97f565684594df95d5a5d1c1722feaaf914b6f2e78953505",
+    "retrieved_utc": "2026-11-02T20:45:10.240910+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20210916_02_T1",
+    "date": "2021-09-16T11:04:26.188141Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20210916_02_T1.npz",
+    "sha256": "74b02f7084917733b193972f43b1eea24d781c54cee80040937fe847a45df439",
+    "retrieved_utc": "2026-11-02T20:45:10.957830+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20211018_02_T1",
+    "date": "2021-10-18T11:04:34.740970Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20211018_02_T1.npz",
+    "sha256": "729bf4d3bc3482a4e29f6294a0bc19ace9a1d49cea8a97b8114d2550e7a12a97",
+    "retrieved_utc": "2026-11-02T20:45:10.572643+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20220428_02_T1",
+    "date": "2022-04-28T11:03:54.126738Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20220428_02_T1.npz",
+    "sha256": "c0b5b512eeb3da6784b795b9db2d9615a824d94f1004b8b08c90ce30e7a851e6",
+    "retrieved_utc": "2026-11-02T20:45:11.741418+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20220903_02_T1",
+    "date": "2022-09-03T11:04:40.790974Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20220903_02_T1.npz",
+    "sha256": "40ef110f5a45791a8f7750bd111862d4e37e64f20ad2c7309c5e9e5c31bea6c4",
+    "retrieved_utc": "2026-11-02T20:45:13.056371+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20221021_02_T1",
+    "date": "2022-10-21T11:04:44.036966Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20221021_02_T1.npz",
+    "sha256": "af566268a119754747853f93004c7d150abd6d9ea3ce150e2eb86b917471bef7",
+    "retrieved_utc": "2026-11-02T20:45:12.909208+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20221106_02_T1",
+    "date": "2022-11-06T11:04:47.046499Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20221106_02_T1.npz",
+    "sha256": "bb251a7ea0b82284d61d3ccc09d7969307d655dcff0fb363212845075ce4a1ac",
+    "retrieved_utc": "2026-11-02T20:45:12.883021+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20221224_02_T1",
+    "date": "2022-12-24T11:04:32.127787Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20221224_02_T1.npz",
+    "sha256": "33643f1733f0f8bc44f892a0d9a966ce9e89e15acd3df53303d4214bbeae4e53",
+    "retrieved_utc": "2026-11-02T20:45:14.353329+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230125_02_T1",
+    "date": "2023-01-25T11:04:30.895687Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230125_02_T1.npz",
+    "sha256": "5f37b3e258410435cec8bcc3d32c714cb6acfbfa5c1197e419a7df0b5af81844",
+    "retrieved_utc": "2026-11-02T20:45:13.543822+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230330_02_T1",
+    "date": "2023-03-30T11:03:56.800619Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230330_02_T1.npz",
+    "sha256": "05b88755096fcb12d4dc70b536b34f14c06490bf7f91dc428e96ec6bf4508c8d",
+    "retrieved_utc": "2026-11-02T20:45:14.215718+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230415_02_T1",
+    "date": "2023-04-15T11:03:41.960459Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230415_02_T1.npz",
+    "sha256": "42045f58ec46740cbe313a6c8f5b1d2dc77c7e3f5005c55705170a704408b135",
+    "retrieved_utc": "2026-11-02T20:45:14.145591+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230501_02_T1",
+    "date": "2023-05-01T11:03:37.290794Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230501_02_T1.npz",
+    "sha256": "089122ae00672dbd423d2de8d5c900c05c5d3e5310e5647dbf56b0bd1b030526",
+    "retrieved_utc": "2026-11-02T20:45:14.411565+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230618_02_T1",
+    "date": "2023-06-18T11:03:37.075204Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230618_02_T1.npz",
+    "sha256": "f573a659270b11ba5b477add0aa0396221a0777be0c95345d478c750dfbb9fff",
+    "retrieved_utc": "2026-11-02T20:45:15.126354+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20230805_02_T1",
+    "date": "2023-08-05T11:04:00.492470Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20230805_02_T1.npz",
+    "sha256": "c8761fa16d4af17e0e5114ddf084946e0b44155a7166f774596e9fce281bf28b",
+    "retrieved_utc": "2026-11-02T20:45:15.616136+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20231008_02_T1",
+    "date": "2023-10-08T11:04:17.499738Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20231008_02_T1.npz",
+    "sha256": "3c7ea5985339bc773a84872f33482ca667c4d09600b5622eb01673351c4b397c",
+    "retrieved_utc": "2026-11-02T20:45:15.649707+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20231109_02_T1",
+    "date": "2023-11-09T11:04:16.349769Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20231109_02_T1.npz",
+    "sha256": "b24ae203c1d1fcaa04e4a6a193ac80d7d3b84b46c3c4a63fcef0187f2a94af8e",
+    "retrieved_utc": "2026-11-02T20:45:16.241175+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240112_02_T1",
+    "date": "2024-01-12T11:04:16.537474Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240112_02_T1.npz",
+    "sha256": "319bba9bf153086256d56e5991e54ce0c50f9c7d784a963889e3a37099d7dbd9",
+    "retrieved_utc": "2026-11-02T20:45:15.959463+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240316_02_T1",
+    "date": "2024-03-16T11:03:57.792812Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240316_02_T1.npz",
+    "sha256": "697d387ff49bf149a8a60199c95c9b43150f3bf9138eebd784d79a04fd6f05a7",
+    "retrieved_utc": "2026-11-02T20:45:16.834597+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240417_02_T1",
+    "date": "2024-04-17T11:03:38.749902Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240417_02_T1.npz",
+    "sha256": "ca45c1b9f8f379d5a9cb40958aaed007c449c598e72f4f0c46ce76d62e30a4a0",
+    "retrieved_utc": "2026-11-02T20:45:17.306847+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240503_02_T1",
+    "date": "2024-05-03T11:03:28.465910Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240503_02_T1.npz",
+    "sha256": "12f4474ea250048aade2f950ad9afdac2bc2be254692ab28f6c1f8e8456a0e42",
+    "retrieved_utc": "2026-11-02T20:45:17.142045+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240620_02_T1",
+    "date": "2024-06-20T11:03:21.677593Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240620_02_T1.npz",
+    "sha256": "955002650f3ccf6c94a9c40f1c31ebff88882b66f4a58633004b11b6017d50f5",
+    "retrieved_utc": "2026-11-02T20:34:44.612890+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20240924_02_T1",
+    "date": "2024-09-24T11:04:02.280848Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20240924_02_T1.npz",
+    "sha256": "482719f412655059e77524230099548103e37aef68938bbfea0ae06fbe868e1a",
+    "retrieved_utc": "2026-11-02T20:45:18.126478+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20241111_02_T1",
+    "date": "2024-11-11T11:04:09.339077Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20241111_02_T1.npz",
+    "sha256": "20d2140e833c5abd41609e3853484ebfcd30f38249b01e49c006f1e4955baf27",
+    "retrieved_utc": "2026-11-02T20:45:18.201879+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202038_20241213_02_T1",
+    "date": "2024-12-13T11:04:08.521865Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC08_L2SP_202038_20241213_02_T1.npz",
+    "sha256": "375beeea99f4f1c74c9dde87e5fc7000baf8cfdd68ce68ee81c1eedcdb503d28",
+    "retrieved_utc": "2026-11-02T20:45:19.451370+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20211112_02_T1",
+    "date": "2021-11-12T11:05:53.235937Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20211112_02_T1.npz",
+    "sha256": "6bb62aa73f5f3f447b1834d6d233b895de56bcf22c363d0cefbdf1cbe73eb7f5",
+    "retrieved_utc": "2026-11-02T20:45:11.093527+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20211229_02_T1",
+    "date": "2021-12-29T11:04:26.389043Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20211229_02_T1.npz",
+    "sha256": "6c50a07177085ed1eb28ec359d6249bfdbf09e2f0abb292e451dcbcbe7d5bc2a",
+    "retrieved_utc": "2026-11-02T20:45:10.642614+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220114_02_T1",
+    "date": "2022-01-14T11:04:22.944878Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220114_02_T1.npz",
+    "sha256": "205af6f1e13690cd68b2da12d4c8a9eb598436da4b19a47af98469d272567bcf",
+    "retrieved_utc": "2026-11-02T20:45:10.861010+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220215_02_T1",
+    "date": "2022-02-15T11:04:20.677399Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220215_02_T1.npz",
+    "sha256": "9455f1f5f097cd8005700e37d036aae738cd85d2713e0d723302ed28fc49c69e",
+    "retrieved_utc": "2026-11-02T20:45:11.046026+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220303_02_T1",
+    "date": "2022-03-03T11:04:10.183939Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220303_02_T1.npz",
+    "sha256": "7710d86209b9937279cc812d58772814178d18e1a8a6b01cc9fad501a86cb731",
+    "retrieved_utc": "2026-11-02T20:45:11.482602+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220506_02_T1",
+    "date": "2022-05-06T11:03:50.903558Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220506_02_T1.npz",
+    "sha256": "903e880974a4cb34211ec23b180de05298ba50e2f03475f18521ef50f824348e",
+    "retrieved_utc": "2026-11-02T20:45:12.049121+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220607_02_T1",
+    "date": "2022-06-07T11:03:41.056291Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220607_02_T1.npz",
+    "sha256": "5f7efd7869955d7d130ceabb6b54352704ec85db394b4169e6f4d959aa77b98a",
+    "retrieved_utc": "2026-11-02T20:45:12.557224+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220709_02_T1",
+    "date": "2022-07-09T11:03:59.019330Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220709_02_T1.npz",
+    "sha256": "ce51a4091d7b6ac15c2336a3333839f562c84970bfdb25f4f5b6ed211fbd092b",
+    "retrieved_utc": "2026-11-02T20:45:12.577338+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20220810_02_T1",
+    "date": "2022-08-10T11:04:18.743230Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20220810_02_T1.npz",
+    "sha256": "80b5c98117c2a3030d7847d4052688c4e60537aea7a4a45fcd1bf279e6dbe38c",
+    "retrieved_utc": "2026-11-02T20:45:12.644632+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20230202_02_T1",
+    "date": "2023-02-02T11:04:37.829584Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20230202_02_T1.npz",
+    "sha256": "75f62ef0c7eedb1e233f6b3df5f96a718c16edac751fe6b6e740b8967f44afdb",
+    "retrieved_utc": "2026-11-02T20:45:13.982283+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20230728_02_T1",
+    "date": "2023-07-28T11:03:47.557326Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20230728_02_T1.npz",
+    "sha256": "3f6648a4256783418fc767ac807f71bce8aa8e02ee8c2e97e62c16eace2fe532",
+    "retrieved_utc": "2026-11-02T20:45:15.088689+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20230930_02_T1",
+    "date": "2023-09-30T11:04:11.397457Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20230930_02_T1.npz",
+    "sha256": "ea8f3ea873253bf0c718def1c22345847c8151bc58792b02c85eb13c87aafd41",
+    "retrieved_utc": "2026-11-02T20:45:15.728154+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20231219_02_T1",
+    "date": "2023-12-19T11:04:29.200189Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20231219_02_T1.npz",
+    "sha256": "f32f89867f4a9d708cfbdd65c34fd61b258cde1ab22f366e08315af1e9361e4f",
+    "retrieved_utc": "2026-11-02T20:45:16.251351+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20240221_02_T1",
+    "date": "2024-02-21T11:04:15.358454Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20240221_02_T1.npz",
+    "sha256": "5a4aa9ae0e6900a92b1d2930605b77169cf5b1ad682ac3085a0e5240413f0e5d",
+    "retrieved_utc": "2026-11-02T20:45:17.305690+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20240714_02_T1",
+    "date": "2024-07-14T11:03:34.812636Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20240714_02_T1.npz",
+    "sha256": "e62dea0a70eda38dd46104bbf98e77664e91caba7c2acac86ffff2e100902fa5",
+    "retrieved_utc": "2026-11-02T20:45:17.372575+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20240815_02_T1",
+    "date": "2024-08-15T11:03:44.208485Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20240815_02_T1.npz",
+    "sha256": "07d9f156cbdba72dc2417a6c43c41738dfca4892daad06a10ad32d4104da1b42",
+    "retrieved_utc": "2026-11-02T20:45:17.568883+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202038_20241018_02_T1",
+    "date": "2024-10-18T11:04:14.801278Z",
+    "file": "data\\raw\\pilot\\landsat\\el_haouz\\LC09_L2SP_202038_20241018_02_T1.npz",
+    "sha256": "a512504cdcdae043096a7ecd06e0884fc10b5afee46221bff8eb5cb091715ecf",
+    "retrieved_utc": "2026-11-02T20:45:17.949415+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20150402_02_T1",
+    "date": "2015-04-02T10:56:57.362241Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20150402_02_T1.npz",
+    "sha256": "15254bf999cbfd8d1c99fd2941a4f9872c908a757793e85bb2b0156c0cea0478",
+    "retrieved_utc": "2026-11-02T20:42:36.937624+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20150723_02_T1",
+    "date": "2015-07-23T10:57:09.842525Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20150723_02_T1.npz",
+    "sha256": "bd0569c288a719832f72609001c9aef455a5855f9d40f1b5897a92833e3a922f",
+    "retrieved_utc": "2026-11-02T20:42:36.897048+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20150909_02_T1",
+    "date": "2015-09-09T10:57:27.010933Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20150909_02_T1.npz",
+    "sha256": "c41d79a99e5ff82bf9d2e2a7fbcfdea3cd848a9d4c1024c610f9a0e5e7a47307",
+    "retrieved_utc": "2026-11-02T20:42:38.655707+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20160131_02_T1",
+    "date": "2016-01-31T10:57:37.620235Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20160131_02_T1.npz",
+    "sha256": "f9619e045e2765c4a94aa2a7397ed0b6a2d8c8e21a1863f5fb07281848571fb0",
+    "retrieved_utc": "2026-11-02T20:42:38.635060+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20160522_02_T1",
+    "date": "2016-05-22T10:57:10.734910Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20160522_02_T1.npz",
+    "sha256": "9bafdceb25c94d5f00d7a43605ca979c6fdbb0fd9d900a1944cf8f42f5e6d7fd",
+    "retrieved_utc": "2026-11-02T20:42:40.708922+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20160709_02_T1",
+    "date": "2016-07-09T10:57:29.119535Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20160709_02_T1.npz",
+    "sha256": "6e2fceaa70ec52e9d199a9fe19e4f90f52f8831f76ea2495eb514c2aa1a4f462",
+    "retrieved_utc": "2026-11-02T20:42:40.603344+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20161114_02_T1",
+    "date": "2016-11-14T10:57:54.303091Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20161114_02_T1.npz",
+    "sha256": "0240c0aabd38223c163749f2c269b67155a6ee11fbd85aae3721378f630f0a2b",
+    "retrieved_utc": "2026-11-02T20:42:42.244823+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20170117_02_T1",
+    "date": "2017-01-17T10:57:43.105497Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20170117_02_T1.npz",
+    "sha256": "6c0a0550b87a7e59af7fec74ee3a0f23dccc448ffdf80b798a8e41954c08f2b3",
+    "retrieved_utc": "2026-11-02T20:42:42.482878+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20170407_02_T1",
+    "date": "2017-04-07T10:57:05.948856Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20170407_02_T1.npz",
+    "sha256": "fa85baa1174f7e41bfecb4003f17979202e833088254bfa5e084f740c085fd9b",
+    "retrieved_utc": "2026-11-02T20:42:42.587832+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20171203_02_T1",
+    "date": "2017-12-03T10:57:43.073185Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20171203_02_T1.npz",
+    "sha256": "313a0b4caf78d672674a6b29722db9650bbcb4a43e7f2bb6068fd12a8c20b104",
+    "retrieved_utc": "2026-11-02T20:42:45.272267+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20180629_02_T1",
+    "date": "2018-06-29T10:56:36.636063Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20180629_02_T1.npz",
+    "sha256": "3e13a482554cc697dd62cb04055bb8a05a371601188977c2701c6badefb4ffc0",
+    "retrieved_utc": "2026-11-02T20:42:46.346477+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20180901_02_T1",
+    "date": "2018-09-01T10:57:07.604722Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20180901_02_T1.npz",
+    "sha256": "3c77a19db9628ee48d5adaf378c134300e396a261b879a1fc2be4a90b4219c7b",
+    "retrieved_utc": "2026-11-02T20:42:47.392333+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20181003_02_T1",
+    "date": "2018-10-03T10:57:19.619867Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20181003_02_T1.npz",
+    "sha256": "561af698f897f29f7e7ca81cdf14310158d908f6e525b0b1a865993c5d7a85ec",
+    "retrieved_utc": "2026-11-02T20:42:47.839216+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20181222_02_T1",
+    "date": "2018-12-22T10:57:26.890574Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20181222_02_T1.npz",
+    "sha256": "ef378689e01432f68fe4be82843275339b7acaec30428d84af27d46477ff7afe",
+    "retrieved_utc": "2026-11-02T20:42:48.019852+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190107_02_T1",
+    "date": "2019-01-07T10:57:25.943676Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190107_02_T1.npz",
+    "sha256": "ffd6396fb62503a4df8b92528c120267921e4232b2bcfac75680bbe0d5cc7b3e",
+    "retrieved_utc": "2026-11-02T20:42:48.024912+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190224_02_T1",
+    "date": "2019-02-24T10:57:16.638577Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190224_02_T1.npz",
+    "sha256": "5c62934f2079f3c9477cdc04595591348c25bf98967b8c491a9a6d21a98663c7",
+    "retrieved_utc": "2026-11-02T20:42:48.667486+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190312_02_T1",
+    "date": "2019-03-12T10:57:10.982010Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190312_02_T1.npz",
+    "sha256": "4eb881864c9f4f2252517db52291cda3d15f10421c1a480ea4753dc04d0efda4",
+    "retrieved_utc": "2026-11-02T20:42:48.211338+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190413_02_T1",
+    "date": "2019-04-13T10:57:02.791798Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190413_02_T1.npz",
+    "sha256": "fa0c891a52514998d4db811f85b6cd3de8394eb9c85ab56b38d23e6c73803c3f",
+    "retrieved_utc": "2026-11-02T20:42:49.213929+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190515_02_T1",
+    "date": "2019-05-15T10:57:08.682135Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190515_02_T1.npz",
+    "sha256": "0820b55070ef30f6ccc53c702b43d965f78e1bae6da681bade95449dbfd7bc2c",
+    "retrieved_utc": "2026-11-02T20:42:48.877173+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190718_02_T1",
+    "date": "2019-07-18T10:57:31.312433Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190718_02_T1.npz",
+    "sha256": "07b39f20dbe2e5e5168495d8b9d5a07f75cea825db734410e87025df157b6ab0",
+    "retrieved_utc": "2026-11-02T20:42:50.045793+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20190819_02_T1",
+    "date": "2019-08-19T10:57:43.495873Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20190819_02_T1.npz",
+    "sha256": "03da0e410b1919a1179c8ae9b922382acfe39a8e513752dcd4a331489f3b2b4a",
+    "retrieved_utc": "2026-11-02T20:42:49.617509+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20191006_02_T1",
+    "date": "2019-10-06T10:57:56.561215Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20191006_02_T1.npz",
+    "sha256": "3465a35953cdb035502695b8b1e0b3ced8e0e08372d22be700f19f6bd95d1ff5",
+    "retrieved_utc": "2026-11-02T20:42:49.640357+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20191209_02_T1",
+    "date": "2019-12-09T10:57:52.851470Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20191209_02_T1.npz",
+    "sha256": "2bdb3c7681d4cb7c0369a307d076b9499bab5c7301bf4519163ae7e552d53434",
+    "retrieved_utc": "2026-11-02T20:42:50.550522+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20200330_02_T1",
+    "date": "2020-03-30T10:57:17.069445Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20200330_02_T1.npz",
+    "sha256": "821958bb7a02ae7d62be2fefe540bf4460a4dcfa5bec7dd15bbf603d4d3c2d6f",
+    "retrieved_utc": "2026-11-02T20:42:51.675821+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20200805_02_T1",
+    "date": "2020-08-05T10:57:31.938684Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20200805_02_T1.npz",
+    "sha256": "fae4c530b66212fa63433ff0525ba48873938dedc09facf8db7369e66b4e3d15",
+    "retrieved_utc": "2026-11-02T20:42:52.185288+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20201024_02_T1",
+    "date": "2020-10-24T10:57:54.235006Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20201024_02_T1.npz",
+    "sha256": "76e284386d20e5d42d5a9e5c694a173995cc77430d5fdce176844a62654f402a",
+    "retrieved_utc": "2026-11-02T20:42:53.425118+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20201227_02_T1",
+    "date": "2020-12-27T10:57:52.555717Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20201227_02_T1.npz",
+    "sha256": "547e2581f8ca939f12b9eb846fdc135c098293836af052f4b86c17c697b89592",
+    "retrieved_utc": "2026-11-02T20:42:53.614910+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20210213_02_T1",
+    "date": "2021-02-13T10:57:39.448728Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20210213_02_T1.npz",
+    "sha256": "4c531eec76b026536789aa5aa451e3f6b0a865f51440854a696b26c1130f927c",
+    "retrieved_utc": "2026-11-02T20:42:54.079144+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20210418_02_T1",
+    "date": "2021-04-18T10:57:14.210973Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20210418_02_T1.npz",
+    "sha256": "592e516dba304e7d4696024da772ad29aef7f374aeb5f1ac482e5a4a283836be",
+    "retrieved_utc": "2026-11-02T20:42:54.178353+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20210520_02_T1",
+    "date": "2021-05-20T10:57:12.666108Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20210520_02_T1.npz",
+    "sha256": "1e1dd6cf0dadafa129fec35f819d60e392c81979b2c1d2bdf799143a4485e35f",
+    "retrieved_utc": "2026-11-02T20:42:54.568062+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20210808_02_T1",
+    "date": "2021-08-08T10:57:40.689196Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20210808_02_T1.npz",
+    "sha256": "4d71d6b516831585270b8735cda4eb397a08486cf91eaed18b05afa4a3eefc23",
+    "retrieved_utc": "2026-11-02T20:42:55.345365+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20211230_02_T1",
+    "date": "2021-12-30T10:57:49.134771Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20211230_02_T1.npz",
+    "sha256": "61bf98ab4af905b5a751845e877540b6711e1789b7fc8ff2ece3f0e6173d2cd8",
+    "retrieved_utc": "2026-11-02T20:42:55.634849+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20220216_02_T1",
+    "date": "2022-02-16T10:57:38.126120Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20220216_02_T1.npz",
+    "sha256": "fced81a6ad7e5ae663691faa4aec269463e27b5bddb806e21231f642de82d99a",
+    "retrieved_utc": "2026-11-02T20:42:56.648179+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20220608_02_T1",
+    "date": "2022-06-08T10:57:40.097016Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20220608_02_T1.npz",
+    "sha256": "97c401d5d750f64e8258dc0d2b2345ddf8324b5c184c26b5f857ee56cfa829ea",
+    "retrieved_utc": "2026-11-02T20:42:57.213966+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20220710_02_T1",
+    "date": "2022-07-10T10:57:48.374753Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20220710_02_T1.npz",
+    "sha256": "f15046c997228aedcf1e42ce9c2e450df3d17725f2e54966695ba6ce4b417127",
+    "retrieved_utc": "2026-11-02T20:42:57.302870+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20230510_02_T1",
+    "date": "2023-05-10T10:56:54.052053Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20230510_02_T1.npz",
+    "sha256": "c5c7197ab84613d4bebcbc49b534e06897373da44b9b21d59bc0d16caae3bc39",
+    "retrieved_utc": "2026-11-02T20:43:00.797698+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20231001_02_T1",
+    "date": "2023-10-01T10:57:41.823368Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20231001_02_T1.npz",
+    "sha256": "2eb493132a612be94ea7e785873faa74c3d61b22bc19eeeade7ef7109750b45a",
+    "retrieved_utc": "2026-11-02T20:43:01.690606+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20231118_02_T1",
+    "date": "2023-11-18T10:57:47.696927Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20231118_02_T1.npz",
+    "sha256": "2ef6504ad16f41be46d5e85a9efacaba69425ffc2839fe6665e7fcc3048fb6c4",
+    "retrieved_utc": "2026-11-02T20:43:01.681821+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20240206_02_T1",
+    "date": "2024-02-06T10:57:40.336858Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20240206_02_T1.npz",
+    "sha256": "8d71f328fd77b8adb972bb36885706fa5af5aaa5a6115d6d3bc55f9e04ae3112",
+    "retrieved_utc": "2026-11-02T20:43:03.203648+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20240410_02_T1",
+    "date": "2024-04-10T10:57:09.414793Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20240410_02_T1.npz",
+    "sha256": "bb5f43d6683672ec7668bac923e85bcd1df65038590b0a00d23656523ade66f4",
+    "retrieved_utc": "2026-11-02T20:43:03.900153+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20240816_02_T1",
+    "date": "2024-08-16T10:57:15.908579Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20240816_02_T1.npz",
+    "sha256": "169cd2257ae1eaf198569155421db44980afd38f46e71b79e80f2012d4c919e0",
+    "retrieved_utc": "2026-11-02T20:43:03.567391+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201037_20241206_02_T1",
+    "date": "2024-12-06T10:57:40.820456Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201037_20241206_02_T1.npz",
+    "sha256": "78045737fd3ab6564a17fd0213c8717b3e0bdb4159428de9a5c3c3697eb817c7",
+    "retrieved_utc": "2026-11-02T20:43:04.713620+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20150621_02_T1",
+    "date": "2015-06-21T10:57:17.071522Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20150621_02_T1.npz",
+    "sha256": "51ce6635dcf48bf3274fe8b21706567d9f3ee2b8cc3e21773a4005601fdda516",
+    "retrieved_utc": "2026-11-02T20:42:36.851400+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20150824_02_T1",
+    "date": "2015-08-24T10:57:44.775659Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20150824_02_T1.npz",
+    "sha256": "c99a5f6334cb2d74da5be35863d9006810b942dc08d7f53d789da0df7a30ef20",
+    "retrieved_utc": "2026-11-02T20:42:37.067197+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20151011_02_T1",
+    "date": "2015-10-11T10:57:58.902712Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20151011_02_T1.npz",
+    "sha256": "c9aabd664ce132aae124783a509e7d88ce43edd9aa969e3d07cac885f0b8087b",
+    "retrieved_utc": "2026-11-02T20:42:38.740230+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20151112_02_T1",
+    "date": "2015-11-12T10:58:04.013046Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20151112_02_T1.npz",
+    "sha256": "ffeeff337fa0e9e00a8ebc3ae5e73273d092b501ec49234f2780864ed21e42ac",
+    "retrieved_utc": "2026-11-02T20:42:38.706012+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20151230_02_T1",
+    "date": "2015-12-30T10:58:05.091610Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20151230_02_T1.npz",
+    "sha256": "6d6e77f9ec8b9cd22ffbcffbb78a6ce935d3976de6f56037f8d29571c6b29a0c",
+    "retrieved_utc": "2026-11-02T20:42:38.577079+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20160319_02_T1",
+    "date": "2016-03-19T10:57:45.808307Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20160319_02_T1.npz",
+    "sha256": "6b8c21adc27563789749145f9a5a22828924b36c0bd27c86403a34acd51fc692",
+    "retrieved_utc": "2026-11-02T20:42:39.928455+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20160404_02_T1",
+    "date": "2016-04-04T10:57:36.686911Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20160404_02_T1.npz",
+    "sha256": "1c0c10dfe2669252d65dc9fa85ab111bf8108d909ef02bd5149bdb530d87a09a",
+    "retrieved_utc": "2026-11-02T20:42:40.632298+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20160623_02_T1",
+    "date": "2016-06-23T10:57:44.492081Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20160623_02_T1.npz",
+    "sha256": "300e18bc03591a945b9db8da0ee81db77343b49dbe62550404a3466e2758e8c5",
+    "retrieved_utc": "2026-11-02T20:42:40.541905+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20160810_02_T1",
+    "date": "2016-08-10T10:57:59.965826Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20160810_02_T1.npz",
+    "sha256": "c45f322d7231f5928ea6829e8e5243ff487875ac9cadc505751f31adb4d76382",
+    "retrieved_utc": "2026-11-02T20:42:40.507512+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20160911_02_T1",
+    "date": "2016-09-11T10:58:11.594944Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20160911_02_T1.npz",
+    "sha256": "a9c475f2cb770dfb50249b3c82a99325dce99b1c9f779086a7c94f39dc9d1832",
+    "retrieved_utc": "2026-11-02T20:42:40.708228+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20161029_02_T1",
+    "date": "2016-10-29T10:58:19.230068Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20161029_02_T1.npz",
+    "sha256": "3ab7dc7fcade6dbdd342d715ede322508a87279c247052222115d4595d3d65a7",
+    "retrieved_utc": "2026-11-02T20:42:41.663012+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20170218_02_T1",
+    "date": "2017-02-18T10:57:53.552183Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20170218_02_T1.npz",
+    "sha256": "cecedf16dee05a9e91fdfd80cfaddfc56aa71d2363ce641b665e50b221bd528a",
+    "retrieved_utc": "2026-11-02T20:42:42.585479+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20170712_02_T1",
+    "date": "2017-07-12T10:57:46.517742Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20170712_02_T1.npz",
+    "sha256": "eaf59ca2fc8c0dc3a615fff1a1d8fbe399e4731c37f462643d5760fd3a62b03f",
+    "retrieved_utc": "2026-11-02T20:42:44.034605+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20170930_02_T1",
+    "date": "2017-09-30T10:58:11.976728Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20170930_02_T1.npz",
+    "sha256": "8052ff1fb896da8a15f49eb45e2421881793fa9e8e80abca1fd3e8d96d76a676",
+    "retrieved_utc": "2026-11-02T20:42:44.609868+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20171101_02_T1",
+    "date": "2017-11-01T10:58:15.991102Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20171101_02_T1.npz",
+    "sha256": "c23a64b39a020eece609423127117b5c5edf79a75fe4186081b8d5494ff1864a",
+    "retrieved_utc": "2026-11-02T20:42:44.968229+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20180104_02_T1",
+    "date": "2018-01-04T10:58:06.141235Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20180104_02_T1.npz",
+    "sha256": "b34a8781145783372624beb992934bd96d04216ae9f3b6719f14b39eaff5c93f",
+    "retrieved_utc": "2026-11-02T20:42:45.905231+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20180309_02_T1",
+    "date": "2018-03-09T10:57:35.695673Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20180309_02_T1.npz",
+    "sha256": "a2e9c2309b791a20d5a9887a1e5d6059b10b85d926acf2cd8d727ad78e668af2",
+    "retrieved_utc": "2026-11-02T20:42:46.003322+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20180512_02_T1",
+    "date": "2018-05-12T10:57:01.065501Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20180512_02_T1.npz",
+    "sha256": "e0feebb22bc3586fd20f2eaff6615b9d918bf7343434e58dfb86ab4bca481932",
+    "retrieved_utc": "2026-11-02T20:42:46.659361+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20180731_02_T1",
+    "date": "2018-07-31T10:57:15.552851Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20180731_02_T1.npz",
+    "sha256": "879bb2071710ae9917069f6be066f42efadd8075ea27d6b8612fe30174e0b090",
+    "retrieved_utc": "2026-11-02T20:42:46.619659+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20190616_02_T1",
+    "date": "2019-06-16T10:57:48.093053Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20190616_02_T1.npz",
+    "sha256": "2180391fe8e9a6f8aa3e568089c209a15fde98d3eabb0a3365a9c1599bc33e83",
+    "retrieved_utc": "2026-11-02T20:42:49.602569+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20191107_02_T1",
+    "date": "2019-11-07T10:58:20.698256Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20191107_02_T1.npz",
+    "sha256": "efec9f6876f056f4dad50bef0dc27334c70e79183007a523dfef74602dee80e5",
+    "retrieved_utc": "2026-11-02T20:42:50.193232+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20200415_02_T1",
+    "date": "2020-04-15T10:57:34.053648Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20200415_02_T1.npz",
+    "sha256": "3d8d5e628b298caa37df51c8c395aa6da6a17a6980fb79342d187a4e79f37ba2",
+    "retrieved_utc": "2026-11-02T20:42:51.712272+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20200602_02_T1",
+    "date": "2020-06-02T10:57:28.959692Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20200602_02_T1.npz",
+    "sha256": "c9c396cc0ff7b30ee93b1b7caabccb338453daa6edb5c469d30ae1faba041970",
+    "retrieved_utc": "2026-11-02T20:42:52.034121+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20210621_02_T1",
+    "date": "2021-06-21T10:57:50.037933Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20210621_02_T1.npz",
+    "sha256": "2b0cca316747b9409b13a172e0f879726e204fb0d8cfacbbaac658d99bb16e03",
+    "retrieved_utc": "2026-11-02T20:42:55.533360+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20210723_02_T1",
+    "date": "2021-07-23T10:57:57.216923Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20210723_02_T1.npz",
+    "sha256": "59077a838e4f1c1dc682e61de69035a798e15f39d5283ac1ebf39221815a6664",
+    "retrieved_utc": "2026-11-02T20:42:55.297543+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20210909_02_T1",
+    "date": "2021-09-09T10:58:14.132527Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20210909_02_T1.npz",
+    "sha256": "6cf58130af4e4c231942af2e6149048efb78f3a8b8ec84620d32f712fba261de",
+    "retrieved_utc": "2026-11-02T20:42:55.342914+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20211112_02_T1",
+    "date": "2021-11-12T10:58:20.324636Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20211112_02_T1.npz",
+    "sha256": "957b8667548dfbaa30d93876e11e1668b7416d78fe803e9a61122b53ba7cc529",
+    "retrieved_utc": "2026-11-02T20:42:55.802463+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20220928_02_T1",
+    "date": "2022-09-28T10:58:36.849583Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20220928_02_T1.npz",
+    "sha256": "b301cca20695a1d989c4cfc5eeae0e1694c78dcbf487ad5b287b88bc7d56daa8",
+    "retrieved_utc": "2026-11-02T20:42:58.346470+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20230611_02_T1",
+    "date": "2023-06-11T10:57:24.158416Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20230611_02_T1.npz",
+    "sha256": "258db5164c9937225966ca02751a7c537122377ad98812305d1480f5138f585c",
+    "retrieved_utc": "2026-11-02T20:43:00.502889+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20230830_02_T1",
+    "date": "2023-08-30T10:57:58.088120Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20230830_02_T1.npz",
+    "sha256": "62634cb34b8534c18648b6b1d1f5892833d031ae3c91a79dbd39c989d269dbb9",
+    "retrieved_utc": "2026-11-02T20:43:01.602603+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20231220_02_T1",
+    "date": "2023-12-20T10:58:11.299421Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20231220_02_T1.npz",
+    "sha256": "1881b7bfb0be291f485513bcceea5f01e316a4a8ced36e03803b90abc984582c",
+    "retrieved_utc": "2026-11-02T20:43:02.862057+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_201038_20241003_02_T1",
+    "date": "2024-10-03T10:57:49.930108Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_201038_20241003_02_T1.npz",
+    "sha256": "637709d449ff41d1d58af116797e91b6b348aa0656ea813d785a87ad3924203d",
+    "retrieved_utc": "2026-11-02T20:43:04.408649+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20150103_02_T1",
+    "date": "2015-01-03T11:03:47.313810Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20150103_02_T1.npz",
+    "sha256": "76f240c84f958f4697a289ddfe9013f69dd1dd824b7ad1f248a6e9fb966679b7",
+    "retrieved_utc": "2026-11-02T20:42:35.179451+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20150220_02_T1",
+    "date": "2015-02-20T11:03:33.857395Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20150220_02_T1.npz",
+    "sha256": "e1bab24097606c8db5b248c4f617af2b7d514438e4b9330aae5ddba043d2cc40",
+    "retrieved_utc": "2026-11-02T20:42:35.213609+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20150308_02_T1",
+    "date": "2015-03-08T11:03:25.874541Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20150308_02_T1.npz",
+    "sha256": "76588005e16c42e0e58e88fda9906067aa88e6190990bff14d4247569818d84a",
+    "retrieved_utc": "2026-11-02T20:42:36.213654+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20150511_02_T1",
+    "date": "2015-05-11T11:02:48.291733Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20150511_02_T1.npz",
+    "sha256": "b4f95acf8001d71a0cfa5f35563f94e5d1cd6a1aa147f59a8627246ebd3936e6",
+    "retrieved_utc": "2026-11-02T20:42:36.741180+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20160223_02_T1",
+    "date": "2016-02-23T11:03:38.762515Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20160223_02_T1.npz",
+    "sha256": "60e891560a7818eb2c4b81e95233adaaf265210a7bd5b513d28232774178818d",
+    "retrieved_utc": "2026-11-02T20:42:39.255083+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20161223_02_T1",
+    "date": "2016-12-23T11:03:59.250623Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20161223_02_T1.npz",
+    "sha256": "1388a27e3596e784a16773d81f58570377dceb71b43af3134706f57ac4cdefb5",
+    "retrieved_utc": "2026-11-02T20:42:42.558238+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20170329_02_T1",
+    "date": "2017-03-29T11:03:20.724697Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20170329_02_T1.npz",
+    "sha256": "f2bf6c17fce10d033ebcadaad641a2179fa99521ffc89fa7fc12428d64b52fd8",
+    "retrieved_utc": "2026-11-02T20:42:42.365699+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20170516_02_T1",
+    "date": "2017-05-16T11:03:11.793381Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20170516_02_T1.npz",
+    "sha256": "679ddccd0feaae157c0cb2cbee787a9d2b37bc02f0ec5a639e743c70d4d18b8b",
+    "retrieved_utc": "2026-11-02T20:42:43.714300+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20170617_02_T1",
+    "date": "2017-06-17T11:03:28.137416Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20170617_02_T1.npz",
+    "sha256": "e5baa253dff6724a84e58b01ab43083e59f778f99fb449afe5cc3353a8f7ac41",
+    "retrieved_utc": "2026-11-02T20:42:44.285788+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20170804_02_T1",
+    "date": "2017-08-04T11:03:44.238856Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20170804_02_T1.npz",
+    "sha256": "0f569677ec8ee239152dacd74c42136af52d3093a999e2f6837a77dc38c6ee64",
+    "retrieved_utc": "2026-11-02T20:42:44.441772+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20171007_02_T1",
+    "date": "2017-10-07T11:04:01.041953Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20171007_02_T1.npz",
+    "sha256": "ab6098e0b8038dc8f2d0fbaea52515d8f42a19f9c388e85ae3a9a9e359bf49eb",
+    "retrieved_utc": "2026-11-02T20:42:44.587506+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20180212_02_T1",
+    "date": "2018-02-12T11:03:34.496498Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20180212_02_T1.npz",
+    "sha256": "ffd6a1b7d1a92f29313451083dd14768d9c4ae71a2dbca04e92d636b90b0907a",
+    "retrieved_utc": "2026-11-02T20:42:46.485140+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20180417_02_T1",
+    "date": "2018-04-17T11:03:02.538349Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20180417_02_T1.npz",
+    "sha256": "e3d5bb91d7d8a5213bbf55a7f102a27c4cbeb1390b427ec6d80e707ccd5aa526",
+    "retrieved_utc": "2026-11-02T20:42:46.070658+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20180807_02_T1",
+    "date": "2018-08-07T11:03:06.692462Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20180807_02_T1.npz",
+    "sha256": "6e99b1529e01f12eec0c38d7b8fb7835cca54c62365bd01460e7743bd5addb1e",
+    "retrieved_utc": "2026-11-02T20:42:47.407534+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20181111_02_T1",
+    "date": "2018-11-11T11:03:41.159945Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20181111_02_T1.npz",
+    "sha256": "acdf373ad558b7d55e044879ef1301e33e95e8341bca84437dc2b036e82f7815",
+    "retrieved_utc": "2026-11-02T20:42:47.963739+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20190927_02_T1",
+    "date": "2019-09-27T11:04:05.416698Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20190927_02_T1.npz",
+    "sha256": "1e3546831751308173aee604659aa81c21d0025e225d4f10e908ff3a3d780f46",
+    "retrieved_utc": "2026-11-02T20:42:49.772166+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20200117_02_T1",
+    "date": "2020-01-17T11:03:55.036610Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20200117_02_T1.npz",
+    "sha256": "0c495fecfe41917ec5fb8b0c97095164c3e81c277112d90d7c55e0c4a077b45a",
+    "retrieved_utc": "2026-11-02T20:42:51.115526+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20200202_02_T1",
+    "date": "2020-02-02T11:03:49.725035Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20200202_02_T1.npz",
+    "sha256": "ddc8b3d44e74d47df0184a5414b26b0548861a1e5103f4b1ef44d023dbf861e3",
+    "retrieved_utc": "2026-11-02T20:42:51.547550+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20200524_02_T1",
+    "date": "2020-05-24T11:03:11.987569Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20200524_02_T1.npz",
+    "sha256": "90755931d12dd926d18f3af9bad3dc001eae62a78a8393a4f8745442277c29ba",
+    "retrieved_utc": "2026-11-02T20:42:51.668431+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20200711_02_T1",
+    "date": "2020-07-11T11:03:36.045085Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20200711_02_T1.npz",
+    "sha256": "73e0df39d0639f08bfe21e0e8c5831d23d24356ce94a50761a77143ca500fdbe",
+    "retrieved_utc": "2026-11-02T20:42:52.050781+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20200929_02_T1",
+    "date": "2020-09-29T11:04:03.534256Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20200929_02_T1.npz",
+    "sha256": "4b1a2ab701f20f2b59792c8172a056c59f544283ef40d4d76abb494436b1d53e",
+    "retrieved_utc": "2026-11-02T20:42:52.966463+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20201116_02_T1",
+    "date": "2020-11-16T11:04:02.598575Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20201116_02_T1.npz",
+    "sha256": "a3499bef0e28a2e397b5164a21a9cff60f16dc0d5cfbf9ed3dd69838ab034830",
+    "retrieved_utc": "2026-11-02T20:42:53.884420+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20210103_02_T1",
+    "date": "2021-01-03T11:04:00.974882Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20210103_02_T1.npz",
+    "sha256": "7b1ed93a3d19dee379341f3f8ede253d359d19a38a91b147efa63fd5e6d9a04c",
+    "retrieved_utc": "2026-11-02T20:42:53.461712+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20210324_02_T1",
+    "date": "2021-03-24T11:03:33.429153Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20210324_02_T1.npz",
+    "sha256": "b220a5bfa81209d430864877a6e4deee297aa945b9b0561fcda43c58a9a84819",
+    "retrieved_utc": "2026-11-02T20:42:54.089676+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20211018_02_T1",
+    "date": "2021-10-18T11:04:10.845695Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20211018_02_T1.npz",
+    "sha256": "c17d3a7a19800d04622cc1122f676b1b0e0bb87fe5621d6392b272fab5e4cd65",
+    "retrieved_utc": "2026-11-02T20:42:55.968690+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20221224_02_T1",
+    "date": "2022-12-24T11:04:08.228277Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20221224_02_T1.npz",
+    "sha256": "05b95bf62214395b14c65299e06c53a48be03891490b178b4675fc4559c7969f",
+    "retrieved_utc": "2026-11-02T20:42:59.300426+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20240112_02_T1",
+    "date": "2024-01-12T11:03:52.646433Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20240112_02_T1.npz",
+    "sha256": "1f636422cdf789660a486879e3d47fd7db6fc0cd54c20fe9fddae51f407c888f",
+    "retrieved_utc": "2026-11-02T20:43:02.147349+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC08_L2SP_202037_20241127_02_T1",
+    "date": "2024-11-27T11:03:56.880905Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC08_L2SP_202037_20241127_02_T1.npz",
+    "sha256": "8bd05bcc4d1f194247b606d1bf0a02e53b753f2ef78c6f993c24bb725cb25acf",
+    "retrieved_utc": "2026-11-02T20:43:04.713982+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201037_20221006_02_T1",
+    "date": "2022-10-06T10:57:54.729790Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201037_20221006_02_T1.npz",
+    "sha256": "4a3cba6149cc4636a65b951296a1f0974306bd03bb4491bc85a27ca146d86c9e",
+    "retrieved_utc": "2026-11-02T20:42:58.155811+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201037_20230331_02_T1",
+    "date": "2023-03-31T10:57:31.622637Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201037_20230331_02_T1.npz",
+    "sha256": "a9cbac49f47df1200e156700fd0f7dbd8ad0d9c485034cc2aed48400396d732d",
+    "retrieved_utc": "2026-11-02T20:42:59.941625+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201037_20230416_02_T1",
+    "date": "2023-04-16T10:57:25.311000Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201037_20230416_02_T1.npz",
+    "sha256": "69eecf408f6b31c8dfd01daa7723ca280df5eef45752393a4c3548fafed17371",
+    "retrieved_utc": "2026-11-02T20:43:00.536539+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201037_20230923_02_T1",
+    "date": "2023-09-23T10:57:37.209754Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201037_20230923_02_T1.npz",
+    "sha256": "0fb923f5f1177fcf8efda265e42c5f6f9266515d9dacb4be3dba87f1894e6e69",
+    "retrieved_utc": "2026-11-02T20:43:01.357363+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201037_20240621_02_T1",
+    "date": "2024-06-21T10:56:38.352515Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201037_20240621_02_T1.npz",
+    "sha256": "be31816b5644793e4c6688394041dfb658d8acbe231fb989890c7282ce333d7f",
+    "retrieved_utc": "2026-11-02T20:34:41.859264+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20220429_02_T1",
+    "date": "2022-04-29T10:57:43.108240Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20220429_02_T1.npz",
+    "sha256": "5256dbb8f56a279c296726e03721906507f393df89510ebe46acdadd566b1527",
+    "retrieved_utc": "2026-11-02T20:42:57.020992+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20221123_02_T1",
+    "date": "2022-11-23T10:58:25.732736Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20221123_02_T1.npz",
+    "sha256": "53da478222442d4209d7b8b5072ecdea2458639c868b345e9e92138375a2f60e",
+    "retrieved_utc": "2026-11-02T20:42:59.898680+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20230110_02_T1",
+    "date": "2023-01-10T10:58:24.250044Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20230110_02_T1.npz",
+    "sha256": "e020d1916605532b6e103023f9f2c22cc7f78a602b8c9bfa3b63da4f2713d8f0",
+    "retrieved_utc": "2026-11-02T20:42:59.882426+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20230705_02_T1",
+    "date": "2023-07-05T10:57:30.056636Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20230705_02_T1.npz",
+    "sha256": "b84c5fd3c5cb74dd069328ec127ef95dbb4d55b700e6eb99f8045a26d9c304a1",
+    "retrieved_utc": "2026-11-02T20:43:01.928451+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20240317_02_T1",
+    "date": "2024-03-17T10:58:07.595277Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20240317_02_T1.npz",
+    "sha256": "2c69917b0ea097024f0e6fd6b195073c36fa8299c817872086bf3bd2e070dabc",
+    "retrieved_utc": "2026-11-02T20:43:02.764687+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20240504_02_T1",
+    "date": "2024-05-04T10:57:34.245062Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20240504_02_T1.npz",
+    "sha256": "b600d26d7e74930cef2d1c95414268d272a307c23018b9dfbd3bba0e970b5567",
+    "retrieved_utc": "2026-11-02T20:43:04.272933+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_201038_20240925_02_T1",
+    "date": "2024-09-25T10:57:46.460876Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_201038_20240925_02_T1.npz",
+    "sha256": "69a11b9aaef0281f20d4afd0561f5b44accd5bc821f8dbaed5fd85dfd10bfb8c",
+    "retrieved_utc": "2026-11-02T20:43:03.724882+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20220114_02_T1",
+    "date": "2022-01-14T11:03:59.049626Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20220114_02_T1.npz",
+    "sha256": "8ab9fe4c6df13811ee876c5b60ed1eb09aa38e42bf679b22710b7d77d1ce29f9",
+    "retrieved_utc": "2026-11-02T20:42:56.221497+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20220319_02_T1",
+    "date": "2022-03-19T11:03:45.126032Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20220319_02_T1.npz",
+    "sha256": "469146290330fcc3dce6e8e1af0adde888d1ef0d79b56a5f85cc0bde0a98a172",
+    "retrieved_utc": "2026-11-02T20:42:56.737890+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20220506_02_T1",
+    "date": "2022-05-06T11:03:27.016777Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20220506_02_T1.npz",
+    "sha256": "b246c1813f119fe7bdbe31ff750d76122fd44f26a68f160c69c1409b29e1169b",
+    "retrieved_utc": "2026-11-02T20:42:57.728396+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20220810_02_T1",
+    "date": "2022-08-10T11:03:54.847980Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20220810_02_T1.npz",
+    "sha256": "430646c81c02011f46a6d264291a2c08329aa22184e5d6b52e1537c1997fc2d8",
+    "retrieved_utc": "2026-11-02T20:42:57.691095+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20230202_02_T1",
+    "date": "2023-02-02T11:04:13.934333Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20230202_02_T1.npz",
+    "sha256": "33c4762e16bc40c5df4943d4133f5f6b7413e2349428c609c3d2a119e26b5323",
+    "retrieved_utc": "2026-11-02T20:42:59.700350+00:00"
+  },
+  {
+    "source": "landsat",
+    "item_id": "LC09_L2SP_202037_20240714_02_T1",
+    "date": "2024-07-14T11:03:10.917385Z",
+    "file": "data\\raw\\pilot\\landsat\\Tadla\\LC09_L2SP_202037_20240714_02_T1.npz",
+    "sha256": "f586ac304ab4624b1e2279863f757daa1c2705f529e4955e178dd4b1bad9a1e3",
+    "retrieved_utc": "2026-11-02T20:43:03.848010+00:00"
+  },
+  {
+    "file": "data\\raw\\pilot\\era5_land_openmeteo\\Tadla_2021_2024.json",
+    "bytes": 70408,
+    "sha256": "fd40fb953b72e42fc644ca8c9638ad98d085074dc3b063c3b2db4a56325e97c1",
+    "published_checksum": null,
+    "source": "Copernicus ERA5-Land, accès et agrégations Open-Meteo",
+    "url": "https://archive-api.open-meteo.com/v1/archive",
+    "request": {
+      "latitude": 32.57587164871246,
+      "longitude": -6.698435657043049,
+      "start_date": "2021-01-01",
+      "end_date": "2024-12-31",
+      "models": "era5_land",
+      "daily": "temperature_2m_mean,soil_moisture_0_to_7cm_mean",
+      "timezone": "UTC",
+      "elevation": "nan",
+      "cell_selection": "nearest"
+    },
+    "response_units": {
+      "time": "iso8601",
+      "temperature_2m_mean": "°C",
+      "soil_moisture_0_to_7cm_mean": "m³/m³"
+    },
+    "response_grid": {
+      "latitude": 32.6,
+      "longitude": -6.699997
+    },
+    "integrity": "JSON, unités, calendrier complet et valeurs non nulles vérifiés",
+    "retrieved_utc": "2026-11-02T20:32:27.590424+00:00",
+    "caveat": "Point de grille régional, non une station dans la parcelle. Pas le produit Earth Engine DAILY_AGGR ; pas de pluie ERA5 ajoutée silencieusement."
+  },
+  {
+    "file": "data\\raw\\pilot\\era5_land_openmeteo\\el_haouz_2021_2024.json",
+    "bytes": 70479,
+    "sha256": "131240cefeea5ad3f6ee5234ceecee211df8d690b2b712fdf0469537ead3c871",
+    "published_checksum": null,
+    "source": "Copernicus ERA5-Land, accès et agrégations Open-Meteo",
+    "url": "https://archive-api.open-meteo.com/v1/archive",
+    "request": {
+      "latitude": 31.599366799913636,
+      "longitude": -8.154889901117203,
+      "start_date": "2021-01-01",
+      "end_date": "2024-12-31",
+      "models": "era5_land",
+      "daily": "temperature_2m_mean,soil_moisture_0_to_7cm_mean",
+      "timezone": "UTC",
+      "elevation": "nan",
+      "cell_selection": "nearest"
+    },
+    "response_units": {
+      "time": "iso8601",
+      "temperature_2m_mean": "°C",
+      "soil_moisture_0_to_7cm_mean": "m³/m³"
+    },
+    "response_grid": {
+      "latitude": 31.599998,
+      "longitude": -8.199997
+    },
+    "integrity": "JSON, unités, calendrier complet et valeurs non nulles vérifiés",
+    "retrieved_utc": "2026-11-02T20:33:01.240477+00:00",
+    "caveat": "Point de grille régional, non une station dans la parcelle. Pas le produit Earth Engine DAILY_AGGR ; pas de pluie ERA5 ajoutée silencieusement."
+  }
+]
