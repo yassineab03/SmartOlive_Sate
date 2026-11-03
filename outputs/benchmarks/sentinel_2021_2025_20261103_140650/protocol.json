@@ -1,0 +1,75 @@
+{
+  "seed": 42,
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "torch": "2.15.0",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0"
+  },
+  "python": "3.14.5",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "epoch_caps": [
+    50,
+    100,
+    150
+  ],
+  "dl_configs": [
+    {
+      "hidden": 16,
+      "lr": 0.001
+    },
+    {
+      "hidden": 32,
+      "lr": 0.003
+    }
+  ],
+  "selection": "Minimum validation RMSE or maximum validation macro F1. Test never used in tuning.",
+  "timing": "Training and search wall times; median of five warm test batch predictions per sample; CPU, 2 threads.",
+  "limitations": "Single seed, small tuning grid; no statistical superiority claim. Data tasks cannot be pooled or ranked by raw metrics.",
+  "datasets": [
+    {
+      "name": "sentinel_ndvi",
+      "kind": "regression",
+      "description": "NDVI du mois suivant à partir de six mois observés consécutifs; horizon réel variable selon les acquisitions.",
+      "features": [
+        "NDVI",
+        "savi",
+        "red",
+        "nir",
+        "month_sin",
+        "month_cos"
+      ],
+      "counts": {
+        "independent": 338,
+        "test": 1340,
+        "train": 8507,
+        "validation": 1341
+      },
+      "units": {
+        "independent": 113,
+        "test": 447,
+        "train": 448,
+        "validation": 447
+      },
+      "provenance": [
+        "https://doi.org/10.6084/m9.figshare.28486022.v2"
+      ],
+      "source_csv_sha256": "d1b47e6dedd90e6e1a030c58ece223432e6bb136893c9629e912f8979e07299c",
+      "limitations": [
+        "2022 très lacunaire; aucune interpolation.",
+        "Culture documentée à la visite seulement; continuité 2021–2025 non confirmée.",
+        "Aucun label de stress: tâche de régression, classification non évaluable.",
+        "Parcelles superposées regroupées; exploitations/bassins inconnus. Les exemples restent corrélés.",
+        "70/15/15 des 60 mois avant filtrage et holdout spatial; proportions finales des exemples différentes.",
+        "Train janvier 2021–juin 2024; validation juillet 2024–mars 2025; test avril–décembre 2025.",
+        "Groupes spatiaux réservés absents du train/validation; évaluation sur les dates du test seulement."
+      ],
+      "files_sha256": {
+        "samples.npz": "a271a1fd26c905898b261547711625a34305a0869c3baf26c537fbdee98ef515",
+        "samples.csv": "864189310e2e27437f4c08b1dcd2917a74a8be71d5169f7caa8a9cc88be17393"
+      }
+    }
+  ]
+}

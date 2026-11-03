@@ -1,0 +1,6 @@
+Exécution en kernel neuf : 01_nettoyage_pretraitement.ipynb
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+Terminé, sorties conservées : 01_nettoyage_pretraitement.ipynb
+Exécution en kernel neuf : 02_entrainement_resultats.ipynb
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+Terminé, sorties conservées : 02_entrainement_resultats.ipynb

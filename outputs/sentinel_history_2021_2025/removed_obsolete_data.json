@@ -1,0 +1,21 @@
+[
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\raw\\benchmark",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\raw\\maroc",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\raw\\morocco_reference",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\raw\\pilot",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\raw\\sentinel2",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\benchmark",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\model_inputs",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\multidataset",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\pilot",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\local_zone_indices.csv",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\olive_parcels_inventory.csv",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\olive_pilot_inventory.csv",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\olive_reference_series_2024.csv",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\zone_test_20240714T110621_indices.tif",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\zone_test_20240724T110621_indices.tif",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\zone_test_20240813T110621_indices.tif",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\zone_test_20240917T110619_indices.tif",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\processed\\zone_test_20241101T111221_indices.tif",
+  "C:\\Users\\ASUS\\Desktop\\emsi2\\MICROSERVICES\\SmartOlive_Sate\\data\\metadata"
+]

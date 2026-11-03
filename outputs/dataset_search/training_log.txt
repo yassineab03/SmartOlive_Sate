@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\emsi2\MICROSERVICES\SmartOlive_Sate\tools\run_multidataset_benchmark.py", line 25, in <module>
+    import torch
+  File "C:\Users\ASUS\Desktop\emsi2\MICROSERVICES\SmartOlive_Sate\.venv\Lib\site-packages\torch\__init__.py", line 505, in <module>
+    from torch._C import *  # noqa: F403
+    ^^^^^^^^^^^^^^^^^^^^^^
+ImportError: DLL load failed while importing _C: Une stratégie de contrôle d’application a bloqué ce fichier.

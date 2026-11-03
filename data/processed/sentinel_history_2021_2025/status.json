@@ -1,0 +1,48 @@
+{
+  "complete": true,
+  "parcels": 563,
+  "months": 60,
+  "calendar_rows": 33780,
+  "accepted": 27657,
+  "attempted_parcel_scenes": 27980,
+  "planned_item_jobs": 1614,
+  "completed_item_jobs": 208,
+  "errors": 0,
+  "first": "2021-01-13T11:11:42.085000Z",
+  "last": "2025-12-21T11:22:20.842000Z",
+  "config": {
+    "version": 1,
+    "collection": "sentinel-2-c1-l2a",
+    "start_year": 2021,
+    "end_year": 2025,
+    "frequency": "monthly",
+    "max_scene_cloud": 40,
+    "min_valid_fraction": 0.6,
+    "min_parcel_pixels": 9,
+    "candidates_per_parcel_month": 2,
+    "qa_classes": [
+      4,
+      5
+    ],
+    "bands": [
+      "B4",
+      "B8"
+    ],
+    "resolution_m": 10,
+    "indices": [
+      "NDVI=(B8-B4)/(B8+B4)",
+      "SAVI=1.5*(B8-B4)/(B8+B4+0.5)"
+    ],
+    "selection": "Minimum scene cloud covering complete parcel, local QA fallback to next ranked scene; no temporal composite.",
+    "parcels_sha256": "ac92a05be5338e732d42365b0b09ff718953aeada42d00d54ebb7b722cfd0d0a",
+    "crop_evidence": "DOI 10.6084/m9.figshare.28486022.v2; crop only confirmed at field visit.",
+    "limitations": [
+      "Pre-visit and post-visit olive continuity not verified.",
+      "No physiological stress labels.",
+      "Monthly scenes represent different days; sampling, not a monthly average.",
+      "Catalogue gaps kept; failed downloads distinct from missing acquisitions."
+    ],
+    "processing_hash": "0669b38ca0112afc2a4ef27026b55af8bcb112a6e1ca9352c83e8af1096b6e65"
+  },
+  "updated_utc": "2026-11-03T10:26:31.045902+00:00"
+}

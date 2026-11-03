@@ -109,6 +109,8 @@ def box(text):
     story.append(t);story.append(Spacer(1,10))
 
 add('OliveSmart','TitleFR')
+if RUN_NAME == 'mon_essai_01':
+    add('<b>Réalisé par :</b> Abderrazik Yassine, Essaoudi Soufiane et Amine Chekkouri','BodyFR')
 add(f'Rapport de résultats exploratoires<br/>Analyse satellitaire multi-temporelle des oliveraies marocaines<br/>Expérience : <b>{html.escape(RUN_NAME)}</b><br/>Sujet OLV-4 - Situation au 2 novembre 2026','SubtitleFR')
 box(f'<b>Expérience réalisée :</b> quatre approches, dix configurations sélectionnées sur validation et {N} observations parcelle-date communes sur le test 2024. <b>Aucun label de stress confirmé :</b> ce rapport compare les comportements des modèles, pas leur précision agronomique.')
 heading('1. Sujet et finalité')

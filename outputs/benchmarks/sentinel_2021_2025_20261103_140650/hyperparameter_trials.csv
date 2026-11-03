@@ -1,0 +1,28 @@
+dataset,model,params,validation_objective,fit_seconds,best_epoch,epochs_run
+sentinel_ndvi,RandomForest,"{""n_estimators"": 150, ""max_depth"": 3, ""random_state"": 42, ""n_jobs"": 2}",0.09136342793763363,2.4535662000000684,,
+sentinel_ndvi,RandomForest,"{""n_estimators"": 150, ""max_depth"": 5, ""random_state"": 42, ""n_jobs"": 2}",0.08736571444125628,3.8449295999998867,,
+sentinel_ndvi,RandomForest,"{""n_estimators"": 150, ""max_depth"": 8, ""random_state"": 42, ""n_jobs"": 2}",0.08600109374709948,8.183744899999965,,
+sentinel_ndvi,XGBoost,"{""n_estimators"": 150, ""max_depth"": 3, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.03, ""tree_method"": ""hist"", ""verbosity"": 0}",0.08857194357140111,0.24710249999998268,,
+sentinel_ndvi,XGBoost,"{""n_estimators"": 150, ""max_depth"": 5, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.05, ""tree_method"": ""hist"", ""verbosity"": 0}",0.08869903501401796,0.34614079999983005,,
+sentinel_ndvi,XGBoost,"{""n_estimators"": 150, ""max_depth"": 8, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.1, ""tree_method"": ""hist"", ""verbosity"": 0}",0.08940346267952703,1.4700318000000152,,
+sentinel_ndvi,LightGBM,"{""n_estimators"": 150, ""max_depth"": 3, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.03, ""verbosity"": -1, ""min_child_samples"": 5, ""num_leaves"": 8, ""deterministic"": true, ""force_col_wise"": true}",0.08875012095403981,0.10823440000012852,,
+sentinel_ndvi,LightGBM,"{""n_estimators"": 150, ""max_depth"": 5, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.05, ""verbosity"": -1, ""min_child_samples"": 5, ""num_leaves"": 31, ""deterministic"": true, ""force_col_wise"": true}",0.08900920076537171,0.21657140000002073,,
+sentinel_ndvi,LightGBM,"{""n_estimators"": 150, ""max_depth"": 8, ""random_state"": 42, ""n_jobs"": 2, ""learning_rate"": 0.1, ""verbosity"": -1, ""min_child_samples"": 5, ""num_leaves"": 31, ""deterministic"": true, ""force_col_wise"": true}",0.08949238767625202,0.2577956999998605,,
+sentinel_ndvi,LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08425395968262753,14.135790900000075,35.0,47.0
+sentinel_ndvi,LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.0829905015060831,8.579086299999972,27.0,39.0
+sentinel_ndvi,LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08425395968262753,8.044768900000008,35.0,47.0
+sentinel_ndvi,LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.0829905015060831,7.7811461000001145,27.0,39.0
+sentinel_ndvi,LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08425395968262753,12.758545400000003,35.0,47.0
+sentinel_ndvi,LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.0829905015060831,12.99588800000015,27.0,39.0
+sentinel_ndvi,GRU,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08536546689918988,11.711330999999973,45.0,50.0
+sentinel_ndvi,GRU,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08375150810403335,10.933027700000139,10.0,22.0
+sentinel_ndvi,GRU,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08453193690272978,21.529149399999824,63.0,75.0
+sentinel_ndvi,GRU,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08375150810403335,5.4757256000000325,10.0,22.0
+sentinel_ndvi,GRU,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08453193690272978,19.78593490000003,63.0,75.0
+sentinel_ndvi,GRU,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08375150810403335,5.466459600000007,10.0,22.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08363588521249046,9.434115399999882,35.0,47.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 50, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08226662597608793,16.60362800000007,44.0,50.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08363588521249046,9.524276599999894,35.0,47.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 100, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08226662597608793,18.085366099999874,44.0,56.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 16, ""lr"": 0.001, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08363588521249046,14.908705999999938,35.0,47.0
+sentinel_ndvi,CNN-LSTM,"{""hidden"": 32, ""lr"": 0.003, ""epoch_cap"": 150, ""patience"": 12, ""min_delta"": 0.0001, ""seed"": 42}",0.08226662597608793,13.377140999999938,44.0,56.0

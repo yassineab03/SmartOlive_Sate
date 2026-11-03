@@ -1,0 +1,1690 @@
+parcel_id,split,valid_windows
+Doukkala_Trees_20240422_001,train,19
+Doukkala_Trees_20240422_001,validation,3
+Doukkala_Trees_20240422_001,test,3
+Doukkala_Trees_20240422_002,train,19
+Doukkala_Trees_20240422_002,validation,3
+Doukkala_Trees_20240422_002,test,3
+Doukkala_Trees_20240422_003,train,19
+Doukkala_Trees_20240422_003,validation,3
+Doukkala_Trees_20240422_003,test,3
+Doukkala_Trees_20240422_004,train,19
+Doukkala_Trees_20240422_004,validation,3
+Doukkala_Trees_20240422_004,test,3
+Doukkala_Trees_20240422_005,train,19
+Doukkala_Trees_20240422_005,validation,3
+Doukkala_Trees_20240422_005,test,3
+Doukkala_Trees_20240423_001,train,19
+Doukkala_Trees_20240423_001,validation,3
+Doukkala_Trees_20240423_001,test,3
+Doukkala_Trees_20240423_002,train,19
+Doukkala_Trees_20240423_002,validation,3
+Doukkala_Trees_20240423_002,test,3
+Doukkala_Trees_20240425_001,train,19
+Doukkala_Trees_20240425_001,validation,3
+Doukkala_Trees_20240425_001,test,3
+Doukkala_Trees_20240425_002,train,19
+Doukkala_Trees_20240425_002,validation,3
+Doukkala_Trees_20240425_002,test,3
+Doukkala_Trees_20240425_008,train,19
+Doukkala_Trees_20240425_008,validation,3
+Doukkala_Trees_20240425_008,test,3
+Doukkala_Trees_20240425_012,train,19
+Doukkala_Trees_20240425_012,validation,3
+Doukkala_Trees_20240425_012,test,3
+Doukkala_Trees_20241214_013,train,16
+Doukkala_Trees_20241214_013,validation,3
+Doukkala_Trees_20241214_013,test,3
+Gharb_Trees_20240807_064,train,20
+Gharb_Trees_20240807_064,validation,3
+Gharb_Trees_20240807_064,test,3
+Gharb_Trees_20240807_067,train,16
+Gharb_Trees_20240807_067,validation,3
+Gharb_Trees_20240807_067,test,3
+Gharb_Trees_20240807_070,train,20
+Gharb_Trees_20240807_070,validation,3
+Gharb_Trees_20240807_070,test,3
+Gharb_Trees_20240807_155,train,20
+Gharb_Trees_20240807_155,validation,3
+Gharb_Trees_20240807_155,test,3
+Gharb_Trees_20240807_157,train,20
+Gharb_Trees_20240807_157,validation,3
+Gharb_Trees_20240807_157,test,3
+Gharb_Trees_20240807_162,train,16
+Gharb_Trees_20240807_162,validation,3
+Gharb_Trees_20240807_162,test,3
+Gharb_Trees_20240807_164,train,16
+Gharb_Trees_20240807_164,validation,3
+Gharb_Trees_20240807_164,test,3
+Gharb_Trees_20240807_165,train,20
+Gharb_Trees_20240807_165,validation,3
+Gharb_Trees_20240807_165,test,3
+Gharb_Trees_20240808_059,train,20
+Gharb_Trees_20240808_059,validation,3
+Gharb_Trees_20240808_059,test,3
+Souss_Trees_20241217_042,train,19
+Souss_Trees_20241217_042,validation,3
+Souss_Trees_20241217_042,test,3
+Souss_Trees_20241217_043,train,19
+Souss_Trees_20241217_043,validation,3
+Souss_Trees_20241217_043,test,3
+Souss_Trees_20241217_101,train,19
+Souss_Trees_20241217_101,validation,3
+Souss_Trees_20241217_101,test,3
+Souss_Trees_20241217_102,train,19
+Souss_Trees_20241217_102,validation,3
+Souss_Trees_20241217_102,test,3
+Souss_Trees_20241217_111,train,19
+Souss_Trees_20241217_111,validation,3
+Souss_Trees_20241217_111,test,3
+Souss_Trees_20241217_114,train,19
+Souss_Trees_20241217_114,validation,3
+Souss_Trees_20241217_114,test,3
+Statte_Trees_20241212_001,train,16
+Statte_Trees_20241212_001,validation,3
+Statte_Trees_20241212_001,test,3
+Statte_Trees_20241212_002,train,19
+Statte_Trees_20241212_002,validation,3
+Statte_Trees_20241212_002,test,3
+Statte_Trees_20241212_003,train,16
+Statte_Trees_20241212_003,validation,3
+Statte_Trees_20241212_003,test,3
+Statte_Trees_20241212_004,train,16
+Statte_Trees_20241212_004,validation,3
+Statte_Trees_20241212_004,test,3
+Statte_Trees_20241212_005,train,19
+Statte_Trees_20241212_005,validation,3
+Statte_Trees_20241212_005,test,3
+Tadla_Trees_20240219_001,train,12
+Tadla_Trees_20240219_001,validation,3
+Tadla_Trees_20240219_001,test,3
+Tadla_Trees_20240219_002,train,19
+Tadla_Trees_20240219_002,validation,3
+Tadla_Trees_20240219_002,test,3
+Tadla_Trees_20240219_003,train,19
+Tadla_Trees_20240219_003,validation,3
+Tadla_Trees_20240219_003,test,3
+Tadla_Trees_20240219_004,train,19
+Tadla_Trees_20240219_004,validation,3
+Tadla_Trees_20240219_004,test,3
+Tadla_Trees_20240219_005,train,12
+Tadla_Trees_20240219_005,validation,3
+Tadla_Trees_20240219_005,test,3
+Tadla_Trees_20240219_006,train,17
+Tadla_Trees_20240219_006,validation,3
+Tadla_Trees_20240219_006,test,3
+Tadla_Trees_20240219_007,train,19
+Tadla_Trees_20240219_007,validation,3
+Tadla_Trees_20240219_007,test,3
+Tadla_Trees_20240219_008,train,19
+Tadla_Trees_20240219_008,validation,3
+Tadla_Trees_20240219_008,test,3
+Tadla_Trees_20240220_004,train,20
+Tadla_Trees_20240220_004,validation,3
+Tadla_Trees_20240220_004,test,3
+Tadla_Trees_20240220_006,train,20
+Tadla_Trees_20240220_006,validation,3
+Tadla_Trees_20240220_006,test,3
+Tadla_Trees_20240220_009,train,20
+Tadla_Trees_20240220_009,validation,3
+Tadla_Trees_20240220_009,test,3
+Tadla_Trees_20240220_010,train,19
+Tadla_Trees_20240220_010,validation,3
+Tadla_Trees_20240220_010,test,3
+Tadla_Trees_20240220_025,train,20
+Tadla_Trees_20240220_025,validation,3
+Tadla_Trees_20240220_025,test,3
+Tadla_Trees_20240220_027,train,19
+Tadla_Trees_20240220_027,validation,3
+Tadla_Trees_20240220_027,test,3
+Tadla_Trees_20240220_032,train,20
+Tadla_Trees_20240220_032,validation,3
+Tadla_Trees_20240220_032,test,3
+Tadla_Trees_20240220_035,train,20
+Tadla_Trees_20240220_035,validation,3
+Tadla_Trees_20240220_035,test,3
+Tadla_Trees_20240221_001,train,20
+Tadla_Trees_20240221_001,validation,3
+Tadla_Trees_20240221_001,test,3
+Tadla_Trees_20240221_003,train,20
+Tadla_Trees_20240221_003,validation,3
+Tadla_Trees_20240221_003,test,3
+Tadla_Trees_20240221_004,train,20
+Tadla_Trees_20240221_004,validation,3
+Tadla_Trees_20240221_004,test,3
+Tadla_Trees_20240221_005,train,20
+Tadla_Trees_20240221_005,validation,3
+Tadla_Trees_20240221_005,test,3
+Tadla_Trees_20240221_006,train,20
+Tadla_Trees_20240221_006,validation,3
+Tadla_Trees_20240221_006,test,3
+Tadla_Trees_20240221_007,train,20
+Tadla_Trees_20240221_007,validation,3
+Tadla_Trees_20240221_007,test,3
+Tadla_Trees_20240221_008,train,20
+Tadla_Trees_20240221_008,validation,3
+Tadla_Trees_20240221_008,test,3
+Tadla_Trees_20240221_009,train,20
+Tadla_Trees_20240221_009,validation,3
+Tadla_Trees_20240221_009,test,3
+Tadla_Trees_20240221_013,train,20
+Tadla_Trees_20240221_013,validation,3
+Tadla_Trees_20240221_013,test,3
+Tadla_Trees_20240221_014,train,20
+Tadla_Trees_20240221_014,validation,3
+Tadla_Trees_20240221_014,test,3
+Tadla_Trees_20240221_023,train,20
+Tadla_Trees_20240221_023,validation,3
+Tadla_Trees_20240221_023,test,3
+Tadla_Trees_20240221_027,train,20
+Tadla_Trees_20240221_027,validation,3
+Tadla_Trees_20240221_027,test,3
+Tadla_Trees_20240221_029,train,20
+Tadla_Trees_20240221_029,validation,3
+Tadla_Trees_20240221_029,test,3
+Tadla_Trees_20240221_031,train,20
+Tadla_Trees_20240221_031,validation,3
+Tadla_Trees_20240221_031,test,3
+Tadla_Trees_20240221_032,train,20
+Tadla_Trees_20240221_032,validation,3
+Tadla_Trees_20240221_032,test,3
+Tadla_Trees_20240221_034,train,20
+Tadla_Trees_20240221_034,validation,3
+Tadla_Trees_20240221_034,test,3
+Tadla_Trees_20240221_035,train,20
+Tadla_Trees_20240221_035,validation,3
+Tadla_Trees_20240221_035,test,3
+Tadla_Trees_20240221_036,train,20
+Tadla_Trees_20240221_036,validation,3
+Tadla_Trees_20240221_036,test,3
+Tadla_Trees_20240221_037,train,20
+Tadla_Trees_20240221_037,validation,3
+Tadla_Trees_20240221_037,test,3
+Tadla_Trees_20240221_038,train,20
+Tadla_Trees_20240221_038,validation,3
+Tadla_Trees_20240221_038,test,3
+Tadla_Trees_20240221_043,train,20
+Tadla_Trees_20240221_043,validation,3
+Tadla_Trees_20240221_043,test,3
+Tadla_Trees_20240221_045,train,20
+Tadla_Trees_20240221_045,validation,3
+Tadla_Trees_20240221_045,test,3
+Tadla_Trees_20240221_049,train,20
+Tadla_Trees_20240221_049,validation,3
+Tadla_Trees_20240221_049,test,3
+Tadla_Trees_20240221_056,train,20
+Tadla_Trees_20240221_056,validation,3
+Tadla_Trees_20240221_056,test,3
+Tadla_Trees_20240221_057,train,20
+Tadla_Trees_20240221_057,validation,3
+Tadla_Trees_20240221_057,test,3
+Tadla_Trees_20240221_058,train,20
+Tadla_Trees_20240221_058,validation,3
+Tadla_Trees_20240221_058,test,3
+Tadla_Trees_20240222_002,train,20
+Tadla_Trees_20240222_002,validation,3
+Tadla_Trees_20240222_002,test,3
+Tadla_Trees_20240222_004,train,20
+Tadla_Trees_20240222_004,validation,3
+Tadla_Trees_20240222_004,test,3
+Tadla_Trees_20240222_005,train,20
+Tadla_Trees_20240222_005,validation,3
+Tadla_Trees_20240222_005,test,3
+Tadla_Trees_20240222_009,train,20
+Tadla_Trees_20240222_009,validation,3
+Tadla_Trees_20240222_009,test,3
+Tadla_Trees_20240222_011,train,20
+Tadla_Trees_20240222_011,validation,3
+Tadla_Trees_20240222_011,test,3
+Tadla_Trees_20240222_012,train,20
+Tadla_Trees_20240222_012,validation,3
+Tadla_Trees_20240222_012,test,3
+Tadla_Trees_20240222_013,train,20
+Tadla_Trees_20240222_013,validation,3
+Tadla_Trees_20240222_013,test,3
+Tadla_Trees_20240222_014,train,20
+Tadla_Trees_20240222_014,validation,3
+Tadla_Trees_20240222_014,test,3
+Tadla_Trees_20240222_015,train,20
+Tadla_Trees_20240222_015,validation,3
+Tadla_Trees_20240222_015,test,3
+Tadla_Trees_20240222_016,train,20
+Tadla_Trees_20240222_016,validation,3
+Tadla_Trees_20240222_016,test,3
+Tadla_Trees_20240222_017,train,20
+Tadla_Trees_20240222_017,validation,3
+Tadla_Trees_20240222_017,test,3
+Tadla_Trees_20240222_018,train,20
+Tadla_Trees_20240222_018,validation,3
+Tadla_Trees_20240222_018,test,3
+Tadla_Trees_20240222_019,train,20
+Tadla_Trees_20240222_019,validation,3
+Tadla_Trees_20240222_019,test,3
+Tadla_Trees_20240222_020,train,20
+Tadla_Trees_20240222_020,validation,3
+Tadla_Trees_20240222_020,test,3
+Tadla_Trees_20240222_021,train,20
+Tadla_Trees_20240222_021,validation,3
+Tadla_Trees_20240222_021,test,3
+Tadla_Trees_20240222_022,train,20
+Tadla_Trees_20240222_022,validation,3
+Tadla_Trees_20240222_022,test,3
+Tadla_Trees_20240222_023,train,20
+Tadla_Trees_20240222_023,validation,3
+Tadla_Trees_20240222_023,test,3
+Tadla_Trees_20240222_024,train,20
+Tadla_Trees_20240222_024,validation,3
+Tadla_Trees_20240222_024,test,3
+Tadla_Trees_20240222_027,train,19
+Tadla_Trees_20240222_027,validation,3
+Tadla_Trees_20240222_027,test,3
+Tadla_Trees_20240222_028,train,19
+Tadla_Trees_20240222_028,validation,3
+Tadla_Trees_20240222_028,test,3
+Tadla_Trees_20240222_032,train,20
+Tadla_Trees_20240222_032,validation,3
+Tadla_Trees_20240222_032,test,3
+Tadla_Trees_20240222_036,train,20
+Tadla_Trees_20240222_036,validation,3
+Tadla_Trees_20240222_036,test,3
+Tadla_Trees_20240222_038,train,20
+Tadla_Trees_20240222_038,validation,3
+Tadla_Trees_20240222_038,test,3
+Tadla_Trees_20240222_039,train,20
+Tadla_Trees_20240222_039,validation,3
+Tadla_Trees_20240222_039,test,3
+Tadla_Trees_20240222_040,train,20
+Tadla_Trees_20240222_040,validation,3
+Tadla_Trees_20240222_040,test,3
+Tadla_Trees_20240222_041,train,20
+Tadla_Trees_20240222_041,validation,3
+Tadla_Trees_20240222_041,test,3
+Tadla_Trees_20240222_042,train,20
+Tadla_Trees_20240222_042,validation,3
+Tadla_Trees_20240222_042,test,3
+Tadla_Trees_20240222_043,train,20
+Tadla_Trees_20240222_043,validation,3
+Tadla_Trees_20240222_043,test,3
+Tadla_Trees_20240222_044,train,20
+Tadla_Trees_20240222_044,validation,3
+Tadla_Trees_20240222_044,test,3
+Tadla_Trees_20240222_045,train,20
+Tadla_Trees_20240222_045,validation,3
+Tadla_Trees_20240222_045,test,3
+Tadla_Trees_20240222_047,train,20
+Tadla_Trees_20240222_047,validation,3
+Tadla_Trees_20240222_047,test,3
+Tadla_Trees_20240222_048,train,20
+Tadla_Trees_20240222_048,validation,3
+Tadla_Trees_20240222_048,test,3
+Tadla_Trees_20240222_049,train,20
+Tadla_Trees_20240222_049,validation,3
+Tadla_Trees_20240222_049,test,3
+Tadla_Trees_20240222_050,train,20
+Tadla_Trees_20240222_050,validation,3
+Tadla_Trees_20240222_050,test,3
+Tadla_Trees_20240222_051,train,20
+Tadla_Trees_20240222_051,validation,3
+Tadla_Trees_20240222_051,test,3
+Tadla_Trees_20240222_052,train,20
+Tadla_Trees_20240222_052,validation,3
+Tadla_Trees_20240222_052,test,3
+Tadla_Trees_20240222_053,train,20
+Tadla_Trees_20240222_053,validation,3
+Tadla_Trees_20240222_053,test,3
+Tadla_Trees_20240222_054,train,20
+Tadla_Trees_20240222_054,validation,3
+Tadla_Trees_20240222_054,test,3
+Tadla_Trees_20240222_055,train,20
+Tadla_Trees_20240222_055,validation,3
+Tadla_Trees_20240222_055,test,3
+Tadla_Trees_20240222_056,train,19
+Tadla_Trees_20240222_056,validation,3
+Tadla_Trees_20240222_056,test,3
+Tadla_Trees_20240222_057,train,19
+Tadla_Trees_20240222_057,validation,3
+Tadla_Trees_20240222_057,test,3
+Tadla_Trees_20240222_058,train,19
+Tadla_Trees_20240222_058,validation,3
+Tadla_Trees_20240222_058,test,3
+Tadla_Trees_20240222_059,train,19
+Tadla_Trees_20240222_059,validation,3
+Tadla_Trees_20240222_059,test,3
+Tadla_Trees_20240222_060,train,20
+Tadla_Trees_20240222_060,validation,3
+Tadla_Trees_20240222_060,test,3
+Tadla_Trees_20240223_001,train,20
+Tadla_Trees_20240223_001,validation,3
+Tadla_Trees_20240223_001,test,3
+Tadla_Trees_20240223_002,train,20
+Tadla_Trees_20240223_002,validation,3
+Tadla_Trees_20240223_002,test,3
+Tadla_Trees_20240223_003,train,19
+Tadla_Trees_20240223_003,validation,3
+Tadla_Trees_20240223_003,test,3
+Tadla_Trees_20240223_004,train,19
+Tadla_Trees_20240223_004,validation,3
+Tadla_Trees_20240223_004,test,3
+Tadla_Trees_20240223_005,train,18
+Tadla_Trees_20240223_005,validation,3
+Tadla_Trees_20240223_005,test,3
+Tadla_Trees_20240223_006,train,20
+Tadla_Trees_20240223_006,validation,3
+Tadla_Trees_20240223_006,test,3
+Tadla_Trees_20240223_007,train,20
+Tadla_Trees_20240223_007,validation,3
+Tadla_Trees_20240223_007,test,3
+Tadla_Trees_20240223_008,train,20
+Tadla_Trees_20240223_008,validation,3
+Tadla_Trees_20240223_008,test,3
+Tadla_Trees_20240223_009,train,20
+Tadla_Trees_20240223_009,validation,3
+Tadla_Trees_20240223_009,test,3
+Tadla_Trees_20240223_010,train,20
+Tadla_Trees_20240223_010,validation,3
+Tadla_Trees_20240223_010,test,3
+Tadla_Trees_20240223_011,train,20
+Tadla_Trees_20240223_011,validation,3
+Tadla_Trees_20240223_011,test,3
+Tadla_Trees_20240223_012,train,19
+Tadla_Trees_20240223_012,validation,3
+Tadla_Trees_20240223_012,test,3
+Tadla_Trees_20240223_013,train,19
+Tadla_Trees_20240223_013,validation,3
+Tadla_Trees_20240223_013,test,3
+Tadla_Trees_20240223_014,train,19
+Tadla_Trees_20240223_014,validation,3
+Tadla_Trees_20240223_014,test,3
+Tadla_Trees_20240224_001,train,19
+Tadla_Trees_20240224_001,validation,3
+Tadla_Trees_20240224_001,test,3
+Tadla_Trees_20240224_002,train,19
+Tadla_Trees_20240224_002,validation,3
+Tadla_Trees_20240224_002,test,3
+Tadla_Trees_20240224_003,train,19
+Tadla_Trees_20240224_003,validation,3
+Tadla_Trees_20240224_003,test,3
+Tadla_Trees_20240224_009,train,19
+Tadla_Trees_20240224_009,validation,3
+Tadla_Trees_20240224_009,test,3
+Tadla_Trees_20240224_010,train,12
+Tadla_Trees_20240224_010,validation,3
+Tadla_Trees_20240224_010,test,3
+Tadla_Trees_20240224_011,train,12
+Tadla_Trees_20240224_011,validation,3
+Tadla_Trees_20240224_011,test,3
+Tadla_Trees_20240224_012,train,19
+Tadla_Trees_20240224_012,validation,3
+Tadla_Trees_20240224_012,test,3
+Tadla_Trees_20240224_013,train,19
+Tadla_Trees_20240224_013,validation,3
+Tadla_Trees_20240224_013,test,3
+Tadla_Trees_20240224_016,train,19
+Tadla_Trees_20240224_016,validation,3
+Tadla_Trees_20240224_016,test,3
+Tadla_Trees_20240224_017,train,19
+Tadla_Trees_20240224_017,validation,3
+Tadla_Trees_20240224_017,test,3
+Tadla_Trees_20240224_022,train,19
+Tadla_Trees_20240224_022,validation,3
+Tadla_Trees_20240224_022,test,3
+Tadla_Trees_20240224_025,train,19
+Tadla_Trees_20240224_025,validation,3
+Tadla_Trees_20240224_025,test,3
+Tadla_Trees_20240224_026,train,19
+Tadla_Trees_20240224_026,validation,3
+Tadla_Trees_20240224_026,test,3
+Tadla_Trees_20240224_027,train,19
+Tadla_Trees_20240224_027,validation,3
+Tadla_Trees_20240224_027,test,3
+Tadla_Trees_20240224_028,train,19
+Tadla_Trees_20240224_028,validation,3
+Tadla_Trees_20240224_028,test,3
+Tadla_Trees_20240224_029,train,12
+Tadla_Trees_20240224_029,validation,3
+Tadla_Trees_20240224_029,test,3
+el haouz_Trees_20231207_001,train,19
+el haouz_Trees_20231207_001,validation,3
+el haouz_Trees_20231207_001,test,3
+el haouz_Trees_20231207_002,train,19
+el haouz_Trees_20231207_002,validation,3
+el haouz_Trees_20231207_002,test,3
+el haouz_Trees_20231207_003,train,0
+el haouz_Trees_20231207_003,validation,0
+el haouz_Trees_20231207_003,test,0
+el haouz_Trees_20231207_004,train,19
+el haouz_Trees_20231207_004,validation,3
+el haouz_Trees_20231207_004,test,3
+el haouz_Trees_20231207_005,train,19
+el haouz_Trees_20231207_005,validation,3
+el haouz_Trees_20231207_005,test,3
+el haouz_Trees_20231207_006,train,19
+el haouz_Trees_20231207_006,validation,3
+el haouz_Trees_20231207_006,test,3
+el haouz_Trees_20231207_007,train,19
+el haouz_Trees_20231207_007,validation,3
+el haouz_Trees_20231207_007,test,3
+el haouz_Trees_20231207_008,train,19
+el haouz_Trees_20231207_008,validation,3
+el haouz_Trees_20231207_008,test,3
+el haouz_Trees_20231207_009,train,19
+el haouz_Trees_20231207_009,validation,3
+el haouz_Trees_20231207_009,test,3
+el haouz_Trees_20231207_010,train,19
+el haouz_Trees_20231207_010,validation,3
+el haouz_Trees_20231207_010,test,3
+el haouz_Trees_20231207_011,train,19
+el haouz_Trees_20231207_011,validation,3
+el haouz_Trees_20231207_011,test,3
+el haouz_Trees_20231207_012,train,19
+el haouz_Trees_20231207_012,validation,3
+el haouz_Trees_20231207_012,test,2
+el haouz_Trees_20231207_013,train,19
+el haouz_Trees_20231207_013,validation,3
+el haouz_Trees_20231207_013,test,3
+el haouz_Trees_20231207_014,train,19
+el haouz_Trees_20231207_014,validation,3
+el haouz_Trees_20231207_014,test,3
+el haouz_Trees_20231207_015,train,19
+el haouz_Trees_20231207_015,validation,3
+el haouz_Trees_20231207_015,test,3
+el haouz_Trees_20231207_016,train,19
+el haouz_Trees_20231207_016,validation,3
+el haouz_Trees_20231207_016,test,3
+el haouz_Trees_20231207_017,train,19
+el haouz_Trees_20231207_017,validation,3
+el haouz_Trees_20231207_017,test,3
+el haouz_Trees_20231207_018,train,19
+el haouz_Trees_20231207_018,validation,3
+el haouz_Trees_20231207_018,test,3
+el haouz_Trees_20231207_019,train,19
+el haouz_Trees_20231207_019,validation,3
+el haouz_Trees_20231207_019,test,3
+el haouz_Trees_20231207_020,train,19
+el haouz_Trees_20231207_020,validation,3
+el haouz_Trees_20231207_020,test,3
+el haouz_Trees_20231207_021,train,19
+el haouz_Trees_20231207_021,validation,3
+el haouz_Trees_20231207_021,test,3
+el haouz_Trees_20231207_022,train,19
+el haouz_Trees_20231207_022,validation,3
+el haouz_Trees_20231207_022,test,3
+el haouz_Trees_20231207_023,train,19
+el haouz_Trees_20231207_023,validation,3
+el haouz_Trees_20231207_023,test,3
+el haouz_Trees_20231207_025,train,19
+el haouz_Trees_20231207_025,validation,3
+el haouz_Trees_20231207_025,test,3
+el haouz_Trees_20231207_026,train,19
+el haouz_Trees_20231207_026,validation,3
+el haouz_Trees_20231207_026,test,3
+el haouz_Trees_20231207_027,train,19
+el haouz_Trees_20231207_027,validation,3
+el haouz_Trees_20231207_027,test,3
+el haouz_Trees_20231207_028,train,19
+el haouz_Trees_20231207_028,validation,3
+el haouz_Trees_20231207_028,test,3
+el haouz_Trees_20231207_029,train,19
+el haouz_Trees_20231207_029,validation,3
+el haouz_Trees_20231207_029,test,3
+el haouz_Trees_20231207_030,train,19
+el haouz_Trees_20231207_030,validation,3
+el haouz_Trees_20231207_030,test,3
+el haouz_Trees_20231207_031,train,19
+el haouz_Trees_20231207_031,validation,3
+el haouz_Trees_20231207_031,test,3
+el haouz_Trees_20231207_032,train,19
+el haouz_Trees_20231207_032,validation,3
+el haouz_Trees_20231207_032,test,3
+el haouz_Trees_20231207_033,train,19
+el haouz_Trees_20231207_033,validation,3
+el haouz_Trees_20231207_033,test,3
+el haouz_Trees_20231207_034,train,19
+el haouz_Trees_20231207_034,validation,3
+el haouz_Trees_20231207_034,test,3
+el haouz_Trees_20231207_035,train,19
+el haouz_Trees_20231207_035,validation,3
+el haouz_Trees_20231207_035,test,3
+el haouz_Trees_20231207_036,train,19
+el haouz_Trees_20231207_036,validation,3
+el haouz_Trees_20231207_036,test,3
+el haouz_Trees_20231207_037,train,19
+el haouz_Trees_20231207_037,validation,3
+el haouz_Trees_20231207_037,test,3
+el haouz_Trees_20231207_038,train,19
+el haouz_Trees_20231207_038,validation,3
+el haouz_Trees_20231207_038,test,3
+el haouz_Trees_20231207_039,train,19
+el haouz_Trees_20231207_039,validation,3
+el haouz_Trees_20231207_039,test,3
+el haouz_Trees_20231207_040,train,19
+el haouz_Trees_20231207_040,validation,3
+el haouz_Trees_20231207_040,test,3
+el haouz_Trees_20231207_041,train,19
+el haouz_Trees_20231207_041,validation,3
+el haouz_Trees_20231207_041,test,3
+el haouz_Trees_20231207_042,train,19
+el haouz_Trees_20231207_042,validation,3
+el haouz_Trees_20231207_042,test,3
+el haouz_Trees_20231220_001,train,19
+el haouz_Trees_20231220_001,validation,3
+el haouz_Trees_20231220_001,test,3
+el haouz_Trees_20231220_003,train,19
+el haouz_Trees_20231220_003,validation,3
+el haouz_Trees_20231220_003,test,3
+el haouz_Trees_20231220_004,train,18
+el haouz_Trees_20231220_004,validation,3
+el haouz_Trees_20231220_004,test,3
+el haouz_Trees_20231220_005,train,19
+el haouz_Trees_20231220_005,validation,3
+el haouz_Trees_20231220_005,test,3
+el haouz_Trees_20231220_006,train,19
+el haouz_Trees_20231220_006,validation,3
+el haouz_Trees_20231220_006,test,3
+el haouz_Trees_20231220_007,train,19
+el haouz_Trees_20231220_007,validation,3
+el haouz_Trees_20231220_007,test,3
+el haouz_Trees_20231220_008,train,19
+el haouz_Trees_20231220_008,validation,3
+el haouz_Trees_20231220_008,test,3
+el haouz_Trees_20231220_013,train,19
+el haouz_Trees_20231220_013,validation,3
+el haouz_Trees_20231220_013,test,3
+el haouz_Trees_20231220_014,train,19
+el haouz_Trees_20231220_014,validation,3
+el haouz_Trees_20231220_014,test,3
+el haouz_Trees_20231220_015,train,18
+el haouz_Trees_20231220_015,validation,3
+el haouz_Trees_20231220_015,test,3
+el haouz_Trees_20231220_016,train,18
+el haouz_Trees_20231220_016,validation,3
+el haouz_Trees_20231220_016,test,3
+el haouz_Trees_20231220_017,train,18
+el haouz_Trees_20231220_017,validation,3
+el haouz_Trees_20231220_017,test,2
+el haouz_Trees_20231220_018,train,19
+el haouz_Trees_20231220_018,validation,3
+el haouz_Trees_20231220_018,test,3
+el haouz_Trees_20231220_019,train,18
+el haouz_Trees_20231220_019,validation,3
+el haouz_Trees_20231220_019,test,3
+el haouz_Trees_20231220_020,train,19
+el haouz_Trees_20231220_020,validation,3
+el haouz_Trees_20231220_020,test,3
+el haouz_Trees_20231220_021,train,19
+el haouz_Trees_20231220_021,validation,3
+el haouz_Trees_20231220_021,test,3
+el haouz_Trees_20231220_022,train,19
+el haouz_Trees_20231220_022,validation,3
+el haouz_Trees_20231220_022,test,3
+el haouz_Trees_20231220_023,train,19
+el haouz_Trees_20231220_023,validation,3
+el haouz_Trees_20231220_023,test,3
+el haouz_Trees_20231220_024,train,19
+el haouz_Trees_20231220_024,validation,3
+el haouz_Trees_20231220_024,test,3
+el haouz_Trees_20231220_025,train,19
+el haouz_Trees_20231220_025,validation,3
+el haouz_Trees_20231220_025,test,3
+el haouz_Trees_20231220_029,train,19
+el haouz_Trees_20231220_029,validation,3
+el haouz_Trees_20231220_029,test,3
+el haouz_Trees_20231220_031,train,19
+el haouz_Trees_20231220_031,validation,3
+el haouz_Trees_20231220_031,test,3
+el haouz_Trees_20231220_032,train,19
+el haouz_Trees_20231220_032,validation,3
+el haouz_Trees_20231220_032,test,3
+el haouz_Trees_20231220_033,train,19
+el haouz_Trees_20231220_033,validation,3
+el haouz_Trees_20231220_033,test,3
+el haouz_Trees_20231220_034,train,19
+el haouz_Trees_20231220_034,validation,3
+el haouz_Trees_20231220_034,test,3
+el haouz_Trees_20231220_036,train,19
+el haouz_Trees_20231220_036,validation,3
+el haouz_Trees_20231220_036,test,3
+el haouz_Trees_20231221_001,train,19
+el haouz_Trees_20231221_001,validation,3
+el haouz_Trees_20231221_001,test,3
+el haouz_Trees_20231221_004,train,19
+el haouz_Trees_20231221_004,validation,3
+el haouz_Trees_20231221_004,test,3
+el haouz_Trees_20231221_005,train,19
+el haouz_Trees_20231221_005,validation,3
+el haouz_Trees_20231221_005,test,3
+el haouz_Trees_20231221_006,train,19
+el haouz_Trees_20231221_006,validation,3
+el haouz_Trees_20231221_006,test,3
+el haouz_Trees_20231221_007,train,19
+el haouz_Trees_20231221_007,validation,3
+el haouz_Trees_20231221_007,test,3
+el haouz_Trees_20231221_008,train,19
+el haouz_Trees_20231221_008,validation,3
+el haouz_Trees_20231221_008,test,3
+el haouz_Trees_20231221_009,train,19
+el haouz_Trees_20231221_009,validation,3
+el haouz_Trees_20231221_009,test,3
+el haouz_Trees_20231221_010,train,19
+el haouz_Trees_20231221_010,validation,3
+el haouz_Trees_20231221_010,test,3
+el haouz_Trees_20231221_011,train,19
+el haouz_Trees_20231221_011,validation,3
+el haouz_Trees_20231221_011,test,3
+el haouz_Trees_20231221_012,train,19
+el haouz_Trees_20231221_012,validation,3
+el haouz_Trees_20231221_012,test,3
+el haouz_Trees_20231221_013,train,19
+el haouz_Trees_20231221_013,validation,3
+el haouz_Trees_20231221_013,test,3
+el haouz_Trees_20231221_014,train,19
+el haouz_Trees_20231221_014,validation,3
+el haouz_Trees_20231221_014,test,3
+el haouz_Trees_20231221_015,train,19
+el haouz_Trees_20231221_015,validation,3
+el haouz_Trees_20231221_015,test,3
+el haouz_Trees_20231221_016,train,19
+el haouz_Trees_20231221_016,validation,3
+el haouz_Trees_20231221_016,test,3
+el haouz_Trees_20231221_017,train,19
+el haouz_Trees_20231221_017,validation,3
+el haouz_Trees_20231221_017,test,3
+el haouz_Trees_20231221_018,train,0
+el haouz_Trees_20231221_018,validation,0
+el haouz_Trees_20231221_018,test,0
+el haouz_Trees_20231221_020,train,19
+el haouz_Trees_20231221_020,validation,3
+el haouz_Trees_20231221_020,test,3
+el haouz_Trees_20231221_021,train,19
+el haouz_Trees_20231221_021,validation,3
+el haouz_Trees_20231221_021,test,3
+el haouz_Trees_20231221_023,train,19
+el haouz_Trees_20231221_023,validation,3
+el haouz_Trees_20231221_023,test,3
+el haouz_Trees_20231221_024,train,19
+el haouz_Trees_20231221_024,validation,3
+el haouz_Trees_20231221_024,test,3
+el haouz_Trees_20231221_025,train,19
+el haouz_Trees_20231221_025,validation,3
+el haouz_Trees_20231221_025,test,3
+el haouz_Trees_20231221_026,train,19
+el haouz_Trees_20231221_026,validation,3
+el haouz_Trees_20231221_026,test,3
+el haouz_Trees_20231221_028,train,19
+el haouz_Trees_20231221_028,validation,3
+el haouz_Trees_20231221_028,test,3
+el haouz_Trees_20231221_029,train,19
+el haouz_Trees_20231221_029,validation,3
+el haouz_Trees_20231221_029,test,3
+el haouz_Trees_20231221_033,train,19
+el haouz_Trees_20231221_033,validation,3
+el haouz_Trees_20231221_033,test,3
+el haouz_Trees_20231221_034,train,19
+el haouz_Trees_20231221_034,validation,3
+el haouz_Trees_20231221_034,test,3
+el haouz_Trees_20231221_036,train,19
+el haouz_Trees_20231221_036,validation,3
+el haouz_Trees_20231221_036,test,3
+el haouz_Trees_20231221_037,train,19
+el haouz_Trees_20231221_037,validation,3
+el haouz_Trees_20231221_037,test,3
+el haouz_Trees_20231221_038,train,19
+el haouz_Trees_20231221_038,validation,3
+el haouz_Trees_20231221_038,test,3
+el haouz_Trees_20231221_039,train,19
+el haouz_Trees_20231221_039,validation,3
+el haouz_Trees_20231221_039,test,3
+el haouz_Trees_20231221_042,train,19
+el haouz_Trees_20231221_042,validation,3
+el haouz_Trees_20231221_042,test,3
+el haouz_Trees_20231221_043,train,19
+el haouz_Trees_20231221_043,validation,3
+el haouz_Trees_20231221_043,test,3
+el haouz_Trees_20231221_044,train,19
+el haouz_Trees_20231221_044,validation,3
+el haouz_Trees_20231221_044,test,3
+el haouz_Trees_20231221_046,train,19
+el haouz_Trees_20231221_046,validation,3
+el haouz_Trees_20231221_046,test,3
+el haouz_Trees_20231221_048,train,19
+el haouz_Trees_20231221_048,validation,3
+el haouz_Trees_20231221_048,test,3
+el haouz_Trees_20231221_049,train,19
+el haouz_Trees_20231221_049,validation,3
+el haouz_Trees_20231221_049,test,3
+el haouz_Trees_20231221_050,train,19
+el haouz_Trees_20231221_050,validation,3
+el haouz_Trees_20231221_050,test,3
+el haouz_Trees_20231221_051,train,19
+el haouz_Trees_20231221_051,validation,3
+el haouz_Trees_20231221_051,test,3
+el haouz_Trees_20231221_052,train,19
+el haouz_Trees_20231221_052,validation,3
+el haouz_Trees_20231221_052,test,3
+el haouz_Trees_20231221_054,train,19
+el haouz_Trees_20231221_054,validation,3
+el haouz_Trees_20231221_054,test,3
+el haouz_Trees_20231221_056,train,19
+el haouz_Trees_20231221_056,validation,3
+el haouz_Trees_20231221_056,test,3
+el haouz_Trees_20231221_060,train,19
+el haouz_Trees_20231221_060,validation,3
+el haouz_Trees_20231221_060,test,3
+el haouz_Trees_20231221_064,train,19
+el haouz_Trees_20231221_064,validation,3
+el haouz_Trees_20231221_064,test,3
+el haouz_Trees_20231221_065,train,19
+el haouz_Trees_20231221_065,validation,3
+el haouz_Trees_20231221_065,test,3
+el haouz_Trees_20231221_066,train,19
+el haouz_Trees_20231221_066,validation,3
+el haouz_Trees_20231221_066,test,3
+el haouz_Trees_20231221_069,train,19
+el haouz_Trees_20231221_069,validation,3
+el haouz_Trees_20231221_069,test,3
+el haouz_Trees_20231221_071,train,19
+el haouz_Trees_20231221_071,validation,3
+el haouz_Trees_20231221_071,test,3
+el haouz_Trees_20231221_073,train,19
+el haouz_Trees_20231221_073,validation,3
+el haouz_Trees_20231221_073,test,3
+el haouz_Trees_20231221_074,train,19
+el haouz_Trees_20231221_074,validation,3
+el haouz_Trees_20231221_074,test,3
+el haouz_Trees_20231221_075,train,19
+el haouz_Trees_20231221_075,validation,3
+el haouz_Trees_20231221_075,test,3
+el haouz_Trees_20231221_076,train,19
+el haouz_Trees_20231221_076,validation,3
+el haouz_Trees_20231221_076,test,3
+el haouz_Trees_20231221_077,train,19
+el haouz_Trees_20231221_077,validation,3
+el haouz_Trees_20231221_077,test,3
+el haouz_Trees_20231221_078,train,19
+el haouz_Trees_20231221_078,validation,3
+el haouz_Trees_20231221_078,test,3
+el haouz_Trees_20231221_079,train,19
+el haouz_Trees_20231221_079,validation,3
+el haouz_Trees_20231221_079,test,3
+el haouz_Trees_20231221_080,train,19
+el haouz_Trees_20231221_080,validation,3
+el haouz_Trees_20231221_080,test,3
+el haouz_Trees_20231221_081,train,19
+el haouz_Trees_20231221_081,validation,3
+el haouz_Trees_20231221_081,test,3
+el haouz_Trees_20231221_082,train,19
+el haouz_Trees_20231221_082,validation,3
+el haouz_Trees_20231221_082,test,3
+el haouz_Trees_20231221_083,train,19
+el haouz_Trees_20231221_083,validation,3
+el haouz_Trees_20231221_083,test,3
+el haouz_Trees_20231221_084,train,19
+el haouz_Trees_20231221_084,validation,3
+el haouz_Trees_20231221_084,test,3
+el haouz_Trees_20231221_085,train,19
+el haouz_Trees_20231221_085,validation,3
+el haouz_Trees_20231221_085,test,3
+el haouz_Trees_20231221_086,train,19
+el haouz_Trees_20231221_086,validation,3
+el haouz_Trees_20231221_086,test,3
+el haouz_Trees_20231221_087,train,19
+el haouz_Trees_20231221_087,validation,3
+el haouz_Trees_20231221_087,test,3
+el haouz_Trees_20231221_088,train,19
+el haouz_Trees_20231221_088,validation,3
+el haouz_Trees_20231221_088,test,3
+el haouz_Trees_20231221_089,train,19
+el haouz_Trees_20231221_089,validation,3
+el haouz_Trees_20231221_089,test,3
+el haouz_Trees_20231221_091,train,19
+el haouz_Trees_20231221_091,validation,3
+el haouz_Trees_20231221_091,test,3
+el haouz_Trees_20231221_092,train,19
+el haouz_Trees_20231221_092,validation,3
+el haouz_Trees_20231221_092,test,3
+el haouz_Trees_20231221_093,train,19
+el haouz_Trees_20231221_093,validation,3
+el haouz_Trees_20231221_093,test,3
+el haouz_Trees_20231221_094,train,19
+el haouz_Trees_20231221_094,validation,3
+el haouz_Trees_20231221_094,test,3
+el haouz_Trees_20231221_096,train,19
+el haouz_Trees_20231221_096,validation,3
+el haouz_Trees_20231221_096,test,3
+el haouz_Trees_20231221_099,train,19
+el haouz_Trees_20231221_099,validation,3
+el haouz_Trees_20231221_099,test,3
+el haouz_Trees_20231221_100,train,3
+el haouz_Trees_20231221_100,validation,0
+el haouz_Trees_20231221_100,test,0
+el haouz_Trees_20231221_101,train,19
+el haouz_Trees_20231221_101,validation,3
+el haouz_Trees_20231221_101,test,3
+el haouz_Trees_20231221_107,train,19
+el haouz_Trees_20231221_107,validation,3
+el haouz_Trees_20231221_107,test,3
+el haouz_Trees_20231221_108,train,19
+el haouz_Trees_20231221_108,validation,3
+el haouz_Trees_20231221_108,test,3
+el haouz_Trees_20231221_112,train,19
+el haouz_Trees_20231221_112,validation,3
+el haouz_Trees_20231221_112,test,3
+el haouz_Trees_20231221_116,train,19
+el haouz_Trees_20231221_116,validation,3
+el haouz_Trees_20231221_116,test,3
+el haouz_Trees_20231221_120,train,19
+el haouz_Trees_20231221_120,validation,3
+el haouz_Trees_20231221_120,test,3
+el haouz_Trees_20231221_121,train,19
+el haouz_Trees_20231221_121,validation,3
+el haouz_Trees_20231221_121,test,3
+el haouz_Trees_20231221_122,train,19
+el haouz_Trees_20231221_122,validation,3
+el haouz_Trees_20231221_122,test,3
+el haouz_Trees_20231221_123,train,19
+el haouz_Trees_20231221_123,validation,3
+el haouz_Trees_20231221_123,test,3
+el haouz_Trees_20231221_124,train,19
+el haouz_Trees_20231221_124,validation,3
+el haouz_Trees_20231221_124,test,3
+el haouz_Trees_20231221_125,train,19
+el haouz_Trees_20231221_125,validation,3
+el haouz_Trees_20231221_125,test,3
+el haouz_Trees_20231228_001,train,19
+el haouz_Trees_20231228_001,validation,3
+el haouz_Trees_20231228_001,test,3
+el haouz_Trees_20231228_004,train,19
+el haouz_Trees_20231228_004,validation,3
+el haouz_Trees_20231228_004,test,3
+el haouz_Trees_20231228_005,train,19
+el haouz_Trees_20231228_005,validation,3
+el haouz_Trees_20231228_005,test,3
+el haouz_Trees_20231228_006,train,19
+el haouz_Trees_20231228_006,validation,3
+el haouz_Trees_20231228_006,test,3
+el haouz_Trees_20231228_007,train,19
+el haouz_Trees_20231228_007,validation,3
+el haouz_Trees_20231228_007,test,3
+el haouz_Trees_20231228_008,train,19
+el haouz_Trees_20231228_008,validation,3
+el haouz_Trees_20231228_008,test,3
+el haouz_Trees_20231228_009,train,19
+el haouz_Trees_20231228_009,validation,3
+el haouz_Trees_20231228_009,test,3
+el haouz_Trees_20231228_010,train,19
+el haouz_Trees_20231228_010,validation,3
+el haouz_Trees_20231228_010,test,3
+el haouz_Trees_20231228_011,train,19
+el haouz_Trees_20231228_011,validation,3
+el haouz_Trees_20231228_011,test,3
+el haouz_Trees_20231228_013,train,19
+el haouz_Trees_20231228_013,validation,3
+el haouz_Trees_20231228_013,test,3
+el haouz_Trees_20231228_014,train,19
+el haouz_Trees_20231228_014,validation,3
+el haouz_Trees_20231228_014,test,3
+el haouz_Trees_20231228_016,train,19
+el haouz_Trees_20231228_016,validation,3
+el haouz_Trees_20231228_016,test,3
+el haouz_Trees_20231228_019,train,19
+el haouz_Trees_20231228_019,validation,3
+el haouz_Trees_20231228_019,test,3
+el haouz_Trees_20231228_020,train,19
+el haouz_Trees_20231228_020,validation,3
+el haouz_Trees_20231228_020,test,3
+el haouz_Trees_20231228_021,train,19
+el haouz_Trees_20231228_021,validation,3
+el haouz_Trees_20231228_021,test,3
+el haouz_Trees_20231228_023,train,19
+el haouz_Trees_20231228_023,validation,3
+el haouz_Trees_20231228_023,test,3
+el haouz_Trees_20231228_026,train,19
+el haouz_Trees_20231228_026,validation,3
+el haouz_Trees_20231228_026,test,3
+el haouz_Trees_20231228_027,train,19
+el haouz_Trees_20231228_027,validation,3
+el haouz_Trees_20231228_027,test,3
+el haouz_Trees_20231228_029,train,19
+el haouz_Trees_20231228_029,validation,3
+el haouz_Trees_20231228_029,test,3
+el haouz_Trees_20231228_036,train,19
+el haouz_Trees_20231228_036,validation,3
+el haouz_Trees_20231228_036,test,3
+el haouz_Trees_20231228_038,train,19
+el haouz_Trees_20231228_038,validation,3
+el haouz_Trees_20231228_038,test,3
+el haouz_Trees_20231228_039,train,19
+el haouz_Trees_20231228_039,validation,3
+el haouz_Trees_20231228_039,test,3
+el haouz_Trees_20231228_042,train,19
+el haouz_Trees_20231228_042,validation,3
+el haouz_Trees_20231228_042,test,3
+el haouz_Trees_20231228_043,train,19
+el haouz_Trees_20231228_043,validation,3
+el haouz_Trees_20231228_043,test,3
+el haouz_Trees_20231228_044,train,19
+el haouz_Trees_20231228_044,validation,3
+el haouz_Trees_20231228_044,test,3
+el haouz_Trees_20231228_046,train,19
+el haouz_Trees_20231228_046,validation,3
+el haouz_Trees_20231228_046,test,3
+el haouz_Trees_20231228_047,train,19
+el haouz_Trees_20231228_047,validation,3
+el haouz_Trees_20231228_047,test,3
+el haouz_Trees_20231228_048,train,19
+el haouz_Trees_20231228_048,validation,3
+el haouz_Trees_20231228_048,test,3
+el haouz_Trees_20231228_049,train,19
+el haouz_Trees_20231228_049,validation,3
+el haouz_Trees_20231228_049,test,3
+el haouz_Trees_20231228_050,train,19
+el haouz_Trees_20231228_050,validation,3
+el haouz_Trees_20231228_050,test,3
+el haouz_Trees_20231228_051,train,19
+el haouz_Trees_20231228_051,validation,3
+el haouz_Trees_20231228_051,test,3
+el haouz_Trees_20231228_052,train,19
+el haouz_Trees_20231228_052,validation,3
+el haouz_Trees_20231228_052,test,3
+el haouz_Trees_20231228_054,train,19
+el haouz_Trees_20231228_054,validation,3
+el haouz_Trees_20231228_054,test,3
+el haouz_Trees_20231228_055,train,19
+el haouz_Trees_20231228_055,validation,3
+el haouz_Trees_20231228_055,test,3
+el haouz_Trees_20231228_056,train,19
+el haouz_Trees_20231228_056,validation,3
+el haouz_Trees_20231228_056,test,3
+el haouz_Trees_20231228_058,train,19
+el haouz_Trees_20231228_058,validation,3
+el haouz_Trees_20231228_058,test,3
+el haouz_Trees_20231228_059,train,19
+el haouz_Trees_20231228_059,validation,3
+el haouz_Trees_20231228_059,test,3
+el haouz_Trees_20231228_060,train,19
+el haouz_Trees_20231228_060,validation,3
+el haouz_Trees_20231228_060,test,3
+el haouz_Trees_20231228_061,train,19
+el haouz_Trees_20231228_061,validation,3
+el haouz_Trees_20231228_061,test,3
+el haouz_Trees_20231228_062,train,19
+el haouz_Trees_20231228_062,validation,3
+el haouz_Trees_20231228_062,test,3
+el haouz_Trees_20231228_063,train,19
+el haouz_Trees_20231228_063,validation,3
+el haouz_Trees_20231228_063,test,3
+el haouz_Trees_20231228_064,train,19
+el haouz_Trees_20231228_064,validation,3
+el haouz_Trees_20231228_064,test,3
+el haouz_Trees_20231228_065,train,19
+el haouz_Trees_20231228_065,validation,3
+el haouz_Trees_20231228_065,test,3
+el haouz_Trees_20231228_067,train,19
+el haouz_Trees_20231228_067,validation,3
+el haouz_Trees_20231228_067,test,3
+el haouz_Trees_20231228_068,train,19
+el haouz_Trees_20231228_068,validation,3
+el haouz_Trees_20231228_068,test,3
+el haouz_Trees_20231228_069,train,19
+el haouz_Trees_20231228_069,validation,3
+el haouz_Trees_20231228_069,test,3
+el haouz_Trees_20231228_070,train,19
+el haouz_Trees_20231228_070,validation,3
+el haouz_Trees_20231228_070,test,3
+el haouz_Trees_20231228_072,train,19
+el haouz_Trees_20231228_072,validation,3
+el haouz_Trees_20231228_072,test,3
+el haouz_Trees_20231228_076,train,19
+el haouz_Trees_20231228_076,validation,3
+el haouz_Trees_20231228_076,test,3
+el haouz_Trees_20231228_078,train,19
+el haouz_Trees_20231228_078,validation,3
+el haouz_Trees_20231228_078,test,3
+el haouz_Trees_20231228_079,train,19
+el haouz_Trees_20231228_079,validation,3
+el haouz_Trees_20231228_079,test,3
+el haouz_Trees_20231228_080,train,19
+el haouz_Trees_20231228_080,validation,3
+el haouz_Trees_20231228_080,test,3
+el haouz_Trees_20231228_081,train,19
+el haouz_Trees_20231228_081,validation,3
+el haouz_Trees_20231228_081,test,3
+el haouz_Trees_20231228_083,train,19
+el haouz_Trees_20231228_083,validation,3
+el haouz_Trees_20231228_083,test,3
+el haouz_Trees_20231228_085,train,19
+el haouz_Trees_20231228_085,validation,3
+el haouz_Trees_20231228_085,test,3
+el haouz_Trees_20231228_086,train,19
+el haouz_Trees_20231228_086,validation,3
+el haouz_Trees_20231228_086,test,3
+el haouz_Trees_20231228_087,train,19
+el haouz_Trees_20231228_087,validation,3
+el haouz_Trees_20231228_087,test,3
+el haouz_Trees_20231228_088,train,19
+el haouz_Trees_20231228_088,validation,3
+el haouz_Trees_20231228_088,test,3
+el haouz_Trees_20231228_089,train,19
+el haouz_Trees_20231228_089,validation,3
+el haouz_Trees_20231228_089,test,3
+el haouz_Trees_20231228_090,train,19
+el haouz_Trees_20231228_090,validation,3
+el haouz_Trees_20231228_090,test,3
+el haouz_Trees_20231228_091,train,19
+el haouz_Trees_20231228_091,validation,3
+el haouz_Trees_20231228_091,test,3
+el haouz_Trees_20231228_093,train,19
+el haouz_Trees_20231228_093,validation,3
+el haouz_Trees_20231228_093,test,3
+el haouz_Trees_20231228_094,train,19
+el haouz_Trees_20231228_094,validation,3
+el haouz_Trees_20231228_094,test,3
+el haouz_Trees_20231228_095,train,19
+el haouz_Trees_20231228_095,validation,3
+el haouz_Trees_20231228_095,test,3
+el haouz_Trees_20231228_099,train,19
+el haouz_Trees_20231228_099,validation,3
+el haouz_Trees_20231228_099,test,3
+el haouz_Trees_20231228_100,train,19
+el haouz_Trees_20231228_100,validation,3
+el haouz_Trees_20231228_100,test,3
+el haouz_Trees_20231228_102,train,19
+el haouz_Trees_20231228_102,validation,3
+el haouz_Trees_20231228_102,test,3
+el haouz_Trees_20231228_103,train,19
+el haouz_Trees_20231228_103,validation,3
+el haouz_Trees_20231228_103,test,3
+el haouz_Trees_20231228_104,train,19
+el haouz_Trees_20231228_104,validation,3
+el haouz_Trees_20231228_104,test,3
+el haouz_Trees_20231228_105,train,19
+el haouz_Trees_20231228_105,validation,3
+el haouz_Trees_20231228_105,test,3
+el haouz_Trees_20231228_106,train,19
+el haouz_Trees_20231228_106,validation,3
+el haouz_Trees_20231228_106,test,3
+el haouz_Trees_20231228_107,train,19
+el haouz_Trees_20231228_107,validation,3
+el haouz_Trees_20231228_107,test,3
+el haouz_Trees_20231228_108,train,19
+el haouz_Trees_20231228_108,validation,3
+el haouz_Trees_20231228_108,test,3
+el haouz_Trees_20231228_109,train,19
+el haouz_Trees_20231228_109,validation,3
+el haouz_Trees_20231228_109,test,3
+el haouz_Trees_20231228_112,train,19
+el haouz_Trees_20231228_112,validation,3
+el haouz_Trees_20231228_112,test,3
+el haouz_Trees_20231228_113,train,19
+el haouz_Trees_20231228_113,validation,3
+el haouz_Trees_20231228_113,test,3
+el haouz_Trees_20231228_114,train,19
+el haouz_Trees_20231228_114,validation,3
+el haouz_Trees_20231228_114,test,3
+el haouz_Trees_20231228_115,train,19
+el haouz_Trees_20231228_115,validation,3
+el haouz_Trees_20231228_115,test,3
+el haouz_Trees_20231228_116,train,19
+el haouz_Trees_20231228_116,validation,3
+el haouz_Trees_20231228_116,test,3
+el haouz_Trees_20231228_118,train,19
+el haouz_Trees_20231228_118,validation,3
+el haouz_Trees_20231228_118,test,3
+el haouz_Trees_20240110_001,train,19
+el haouz_Trees_20240110_001,validation,3
+el haouz_Trees_20240110_001,test,3
+el haouz_Trees_20240110_002,train,19
+el haouz_Trees_20240110_002,validation,3
+el haouz_Trees_20240110_002,test,3
+el haouz_Trees_20240110_003,train,19
+el haouz_Trees_20240110_003,validation,3
+el haouz_Trees_20240110_003,test,3
+el haouz_Trees_20240110_004,train,19
+el haouz_Trees_20240110_004,validation,3
+el haouz_Trees_20240110_004,test,3
+el haouz_Trees_20240110_005,train,19
+el haouz_Trees_20240110_005,validation,3
+el haouz_Trees_20240110_005,test,3
+el haouz_Trees_20240110_006,train,19
+el haouz_Trees_20240110_006,validation,3
+el haouz_Trees_20240110_006,test,3
+el haouz_Trees_20240110_007,train,19
+el haouz_Trees_20240110_007,validation,3
+el haouz_Trees_20240110_007,test,3
+el haouz_Trees_20240110_010,train,19
+el haouz_Trees_20240110_010,validation,3
+el haouz_Trees_20240110_010,test,3
+el haouz_Trees_20240110_011,train,19
+el haouz_Trees_20240110_011,validation,3
+el haouz_Trees_20240110_011,test,3
+el haouz_Trees_20240110_012,train,19
+el haouz_Trees_20240110_012,validation,3
+el haouz_Trees_20240110_012,test,3
+el haouz_Trees_20240110_013,train,19
+el haouz_Trees_20240110_013,validation,3
+el haouz_Trees_20240110_013,test,3
+el haouz_Trees_20240110_017,train,19
+el haouz_Trees_20240110_017,validation,3
+el haouz_Trees_20240110_017,test,3
+el haouz_Trees_20240110_018,train,19
+el haouz_Trees_20240110_018,validation,3
+el haouz_Trees_20240110_018,test,3
+el haouz_Trees_20240110_019,train,19
+el haouz_Trees_20240110_019,validation,3
+el haouz_Trees_20240110_019,test,3
+el haouz_Trees_20240110_020,train,19
+el haouz_Trees_20240110_020,validation,3
+el haouz_Trees_20240110_020,test,3
+el haouz_Trees_20240110_021,train,19
+el haouz_Trees_20240110_021,validation,3
+el haouz_Trees_20240110_021,test,3
+el haouz_Trees_20240110_022,train,19
+el haouz_Trees_20240110_022,validation,3
+el haouz_Trees_20240110_022,test,3
+el haouz_Trees_20240110_023,train,19
+el haouz_Trees_20240110_023,validation,3
+el haouz_Trees_20240110_023,test,3
+el haouz_Trees_20240110_025,train,19
+el haouz_Trees_20240110_025,validation,3
+el haouz_Trees_20240110_025,test,3
+el haouz_Trees_20240110_027,train,19
+el haouz_Trees_20240110_027,validation,3
+el haouz_Trees_20240110_027,test,3
+el haouz_Trees_20240110_028,train,19
+el haouz_Trees_20240110_028,validation,3
+el haouz_Trees_20240110_028,test,3
+el haouz_Trees_20240110_029,train,19
+el haouz_Trees_20240110_029,validation,3
+el haouz_Trees_20240110_029,test,3
+el haouz_Trees_20240110_030,train,19
+el haouz_Trees_20240110_030,validation,3
+el haouz_Trees_20240110_030,test,3
+el haouz_Trees_20240110_031,train,19
+el haouz_Trees_20240110_031,validation,3
+el haouz_Trees_20240110_031,test,3
+el haouz_Trees_20240110_032,train,19
+el haouz_Trees_20240110_032,validation,3
+el haouz_Trees_20240110_032,test,3
+el haouz_Trees_20240110_037,train,19
+el haouz_Trees_20240110_037,validation,3
+el haouz_Trees_20240110_037,test,3
+el haouz_Trees_20240110_038,train,19
+el haouz_Trees_20240110_038,validation,3
+el haouz_Trees_20240110_038,test,3
+el haouz_Trees_20240110_039,train,19
+el haouz_Trees_20240110_039,validation,3
+el haouz_Trees_20240110_039,test,3
+el haouz_Trees_20240110_040,train,19
+el haouz_Trees_20240110_040,validation,3
+el haouz_Trees_20240110_040,test,3
+el haouz_Trees_20240110_041,train,19
+el haouz_Trees_20240110_041,validation,3
+el haouz_Trees_20240110_041,test,3
+el haouz_Trees_20240110_042,train,19
+el haouz_Trees_20240110_042,validation,3
+el haouz_Trees_20240110_042,test,3
+el haouz_Trees_20240110_043,train,19
+el haouz_Trees_20240110_043,validation,3
+el haouz_Trees_20240110_043,test,3
+el haouz_Trees_20240110_044,train,19
+el haouz_Trees_20240110_044,validation,3
+el haouz_Trees_20240110_044,test,3
+el haouz_Trees_20240110_045,train,19
+el haouz_Trees_20240110_045,validation,3
+el haouz_Trees_20240110_045,test,3
+el haouz_Trees_20240110_046,train,19
+el haouz_Trees_20240110_046,validation,3
+el haouz_Trees_20240110_046,test,3
+el haouz_Trees_20240110_047,train,19
+el haouz_Trees_20240110_047,validation,3
+el haouz_Trees_20240110_047,test,3
+el haouz_Trees_20240110_048,train,19
+el haouz_Trees_20240110_048,validation,3
+el haouz_Trees_20240110_048,test,3
+el haouz_Trees_20240110_049,train,19
+el haouz_Trees_20240110_049,validation,3
+el haouz_Trees_20240110_049,test,3
+el haouz_Trees_20240110_051,train,19
+el haouz_Trees_20240110_051,validation,3
+el haouz_Trees_20240110_051,test,3
+el haouz_Trees_20240110_052,train,19
+el haouz_Trees_20240110_052,validation,3
+el haouz_Trees_20240110_052,test,3
+el haouz_Trees_20240110_053,train,19
+el haouz_Trees_20240110_053,validation,3
+el haouz_Trees_20240110_053,test,3
+el haouz_Trees_20240110_054,train,19
+el haouz_Trees_20240110_054,validation,3
+el haouz_Trees_20240110_054,test,3
+el haouz_Trees_20240110_055,train,19
+el haouz_Trees_20240110_055,validation,3
+el haouz_Trees_20240110_055,test,3
+el haouz_Trees_20240110_057,train,19
+el haouz_Trees_20240110_057,validation,3
+el haouz_Trees_20240110_057,test,3
+el haouz_Trees_20240110_058,train,19
+el haouz_Trees_20240110_058,validation,3
+el haouz_Trees_20240110_058,test,3
+el haouz_Trees_20240110_059,train,19
+el haouz_Trees_20240110_059,validation,3
+el haouz_Trees_20240110_059,test,3
+el haouz_Trees_20240110_060,train,19
+el haouz_Trees_20240110_060,validation,3
+el haouz_Trees_20240110_060,test,3
+el haouz_Trees_20240110_061,train,19
+el haouz_Trees_20240110_061,validation,3
+el haouz_Trees_20240110_061,test,3
+el haouz_Trees_20240110_062,train,19
+el haouz_Trees_20240110_062,validation,3
+el haouz_Trees_20240110_062,test,3
+el haouz_Trees_20240110_063,train,19
+el haouz_Trees_20240110_063,validation,3
+el haouz_Trees_20240110_063,test,3
+el haouz_Trees_20240110_064,train,19
+el haouz_Trees_20240110_064,validation,3
+el haouz_Trees_20240110_064,test,3
+el haouz_Trees_20240110_067,train,19
+el haouz_Trees_20240110_067,validation,3
+el haouz_Trees_20240110_067,test,3
+el haouz_Trees_20240118_001,train,19
+el haouz_Trees_20240118_001,validation,3
+el haouz_Trees_20240118_001,test,3
+el haouz_Trees_20240118_002,train,19
+el haouz_Trees_20240118_002,validation,3
+el haouz_Trees_20240118_002,test,3
+el haouz_Trees_20240118_003,train,19
+el haouz_Trees_20240118_003,validation,3
+el haouz_Trees_20240118_003,test,3
+el haouz_Trees_20240118_004,train,19
+el haouz_Trees_20240118_004,validation,3
+el haouz_Trees_20240118_004,test,3
+el haouz_Trees_20240118_005,train,19
+el haouz_Trees_20240118_005,validation,3
+el haouz_Trees_20240118_005,test,3
+el haouz_Trees_20240118_006,train,19
+el haouz_Trees_20240118_006,validation,3
+el haouz_Trees_20240118_006,test,3
+el haouz_Trees_20240118_007,train,19
+el haouz_Trees_20240118_007,validation,3
+el haouz_Trees_20240118_007,test,3
+el haouz_Trees_20240118_008,train,19
+el haouz_Trees_20240118_008,validation,3
+el haouz_Trees_20240118_008,test,3
+el haouz_Trees_20240118_009,train,19
+el haouz_Trees_20240118_009,validation,3
+el haouz_Trees_20240118_009,test,3
+el haouz_Trees_20240118_010,train,19
+el haouz_Trees_20240118_010,validation,3
+el haouz_Trees_20240118_010,test,3
+el haouz_Trees_20240118_011,train,19
+el haouz_Trees_20240118_011,validation,3
+el haouz_Trees_20240118_011,test,3
+el haouz_Trees_20240118_012,train,19
+el haouz_Trees_20240118_012,validation,3
+el haouz_Trees_20240118_012,test,3
+el haouz_Trees_20240118_013,train,19
+el haouz_Trees_20240118_013,validation,3
+el haouz_Trees_20240118_013,test,3
+el haouz_Trees_20240118_014,train,19
+el haouz_Trees_20240118_014,validation,3
+el haouz_Trees_20240118_014,test,3
+el haouz_Trees_20240118_015,train,19
+el haouz_Trees_20240118_015,validation,3
+el haouz_Trees_20240118_015,test,3
+el haouz_Trees_20240118_016,train,19
+el haouz_Trees_20240118_016,validation,3
+el haouz_Trees_20240118_016,test,3
+el haouz_Trees_20240118_017,train,19
+el haouz_Trees_20240118_017,validation,3
+el haouz_Trees_20240118_017,test,3
+el haouz_Trees_20240118_018,train,19
+el haouz_Trees_20240118_018,validation,3
+el haouz_Trees_20240118_018,test,3
+el haouz_Trees_20240118_019,train,19
+el haouz_Trees_20240118_019,validation,3
+el haouz_Trees_20240118_019,test,3
+el haouz_Trees_20240118_020,train,19
+el haouz_Trees_20240118_020,validation,3
+el haouz_Trees_20240118_020,test,3
+el haouz_Trees_20240118_021,train,19
+el haouz_Trees_20240118_021,validation,3
+el haouz_Trees_20240118_021,test,3
+el haouz_Trees_20240118_022,train,19
+el haouz_Trees_20240118_022,validation,3
+el haouz_Trees_20240118_022,test,3
+el haouz_Trees_20240118_023,train,19
+el haouz_Trees_20240118_023,validation,3
+el haouz_Trees_20240118_023,test,3
+el haouz_Trees_20240118_024,train,19
+el haouz_Trees_20240118_024,validation,3
+el haouz_Trees_20240118_024,test,3
+el haouz_Trees_20240118_025,train,19
+el haouz_Trees_20240118_025,validation,3
+el haouz_Trees_20240118_025,test,3
+el haouz_Trees_20240118_026,train,19
+el haouz_Trees_20240118_026,validation,3
+el haouz_Trees_20240118_026,test,3
+el haouz_Trees_20240118_027,train,19
+el haouz_Trees_20240118_027,validation,3
+el haouz_Trees_20240118_027,test,3
+el haouz_Trees_20240118_028,train,19
+el haouz_Trees_20240118_028,validation,3
+el haouz_Trees_20240118_028,test,3
+el haouz_Trees_20240118_029,train,19
+el haouz_Trees_20240118_029,validation,3
+el haouz_Trees_20240118_029,test,3
+el haouz_Trees_20240118_030,train,19
+el haouz_Trees_20240118_030,validation,3
+el haouz_Trees_20240118_030,test,3
+el haouz_Trees_20240118_031,train,19
+el haouz_Trees_20240118_031,validation,3
+el haouz_Trees_20240118_031,test,3
+el haouz_Trees_20240118_032,train,19
+el haouz_Trees_20240118_032,validation,3
+el haouz_Trees_20240118_032,test,3
+el haouz_Trees_20240118_033,train,19
+el haouz_Trees_20240118_033,validation,3
+el haouz_Trees_20240118_033,test,3
+el haouz_Trees_20240118_034,train,19
+el haouz_Trees_20240118_034,validation,3
+el haouz_Trees_20240118_034,test,3
+el haouz_Trees_20240118_035,train,19
+el haouz_Trees_20240118_035,validation,3
+el haouz_Trees_20240118_035,test,3
+el haouz_Trees_20240118_036,train,19
+el haouz_Trees_20240118_036,validation,3
+el haouz_Trees_20240118_036,test,3
+el haouz_Trees_20240118_037,train,19
+el haouz_Trees_20240118_037,validation,3
+el haouz_Trees_20240118_037,test,3
+el haouz_Trees_20240118_038,train,19
+el haouz_Trees_20240118_038,validation,3
+el haouz_Trees_20240118_038,test,3
+el haouz_Trees_20240118_039,train,19
+el haouz_Trees_20240118_039,validation,3
+el haouz_Trees_20240118_039,test,3
+el haouz_Trees_20240118_040,train,19
+el haouz_Trees_20240118_040,validation,3
+el haouz_Trees_20240118_040,test,3
+el haouz_Trees_20240118_041,train,19
+el haouz_Trees_20240118_041,validation,3
+el haouz_Trees_20240118_041,test,3
+el haouz_Trees_20240118_042,train,19
+el haouz_Trees_20240118_042,validation,3
+el haouz_Trees_20240118_042,test,3
+el haouz_Trees_20240118_043,train,19
+el haouz_Trees_20240118_043,validation,3
+el haouz_Trees_20240118_043,test,3
+el haouz_Trees_20240118_044,train,19
+el haouz_Trees_20240118_044,validation,3
+el haouz_Trees_20240118_044,test,3
+el haouz_Trees_20240118_045,train,19
+el haouz_Trees_20240118_045,validation,3
+el haouz_Trees_20240118_045,test,3
+el haouz_Trees_20240118_046,train,19
+el haouz_Trees_20240118_046,validation,3
+el haouz_Trees_20240118_046,test,3
+el haouz_Trees_20240118_047,train,19
+el haouz_Trees_20240118_047,validation,3
+el haouz_Trees_20240118_047,test,3
+el haouz_Trees_20240118_049,train,19
+el haouz_Trees_20240118_049,validation,3
+el haouz_Trees_20240118_049,test,3
+el haouz_Trees_20240118_050,train,19
+el haouz_Trees_20240118_050,validation,3
+el haouz_Trees_20240118_050,test,3
+el haouz_Trees_20240118_051,train,19
+el haouz_Trees_20240118_051,validation,3
+el haouz_Trees_20240118_051,test,3
+el haouz_Trees_20240118_052,train,19
+el haouz_Trees_20240118_052,validation,3
+el haouz_Trees_20240118_052,test,3
+el haouz_Trees_20240118_053,train,19
+el haouz_Trees_20240118_053,validation,3
+el haouz_Trees_20240118_053,test,3
+el haouz_Trees_20240118_054,train,19
+el haouz_Trees_20240118_054,validation,3
+el haouz_Trees_20240118_054,test,3
+el haouz_Trees_20240118_055,train,19
+el haouz_Trees_20240118_055,validation,3
+el haouz_Trees_20240118_055,test,3
+el haouz_Trees_20240118_056,train,19
+el haouz_Trees_20240118_056,validation,3
+el haouz_Trees_20240118_056,test,3
+el haouz_Trees_20240527_001,train,19
+el haouz_Trees_20240527_001,validation,3
+el haouz_Trees_20240527_001,test,3
+el haouz_Trees_20240527_002,train,19
+el haouz_Trees_20240527_002,validation,3
+el haouz_Trees_20240527_002,test,3
+el haouz_Trees_20240527_005,train,19
+el haouz_Trees_20240527_005,validation,3
+el haouz_Trees_20240527_005,test,3
+el haouz_Trees_20240527_006,train,19
+el haouz_Trees_20240527_006,validation,3
+el haouz_Trees_20240527_006,test,3
+el haouz_Trees_20240527_008,train,19
+el haouz_Trees_20240527_008,validation,3
+el haouz_Trees_20240527_008,test,3
+el haouz_Trees_20240527_009,train,19
+el haouz_Trees_20240527_009,validation,3
+el haouz_Trees_20240527_009,test,3
+el haouz_Trees_20240527_010,train,19
+el haouz_Trees_20240527_010,validation,3
+el haouz_Trees_20240527_010,test,3
+el haouz_Trees_20240527_011,train,19
+el haouz_Trees_20240527_011,validation,3
+el haouz_Trees_20240527_011,test,3
+el haouz_Trees_20240527_012,train,19
+el haouz_Trees_20240527_012,validation,3
+el haouz_Trees_20240527_012,test,3
+el haouz_Trees_20240527_013,train,19
+el haouz_Trees_20240527_013,validation,3
+el haouz_Trees_20240527_013,test,3
+el haouz_Trees_20240527_014,train,19
+el haouz_Trees_20240527_014,validation,3
+el haouz_Trees_20240527_014,test,3
+el haouz_Trees_20240527_015,train,19
+el haouz_Trees_20240527_015,validation,3
+el haouz_Trees_20240527_015,test,3
+el haouz_Trees_20240527_016,train,19
+el haouz_Trees_20240527_016,validation,3
+el haouz_Trees_20240527_016,test,3
+el haouz_Trees_20240527_017,train,19
+el haouz_Trees_20240527_017,validation,3
+el haouz_Trees_20240527_017,test,3
+el haouz_Trees_20240527_019,train,19
+el haouz_Trees_20240527_019,validation,3
+el haouz_Trees_20240527_019,test,3
+el haouz_Trees_20240527_020,train,19
+el haouz_Trees_20240527_020,validation,3
+el haouz_Trees_20240527_020,test,3
+el haouz_Trees_20240527_021,train,19
+el haouz_Trees_20240527_021,validation,3
+el haouz_Trees_20240527_021,test,3
+el haouz_Trees_20240527_022,train,19
+el haouz_Trees_20240527_022,validation,3
+el haouz_Trees_20240527_022,test,3
+el haouz_Trees_20240527_023,train,19
+el haouz_Trees_20240527_023,validation,3
+el haouz_Trees_20240527_023,test,3
+el haouz_Trees_20240527_024,train,19
+el haouz_Trees_20240527_024,validation,3
+el haouz_Trees_20240527_024,test,3
+el haouz_Trees_20240527_025,train,19
+el haouz_Trees_20240527_025,validation,3
+el haouz_Trees_20240527_025,test,3
+el haouz_Trees_20240527_026,train,19
+el haouz_Trees_20240527_026,validation,3
+el haouz_Trees_20240527_026,test,3
+el haouz_Trees_20240527_028,train,19
+el haouz_Trees_20240527_028,validation,3
+el haouz_Trees_20240527_028,test,3
+el haouz_Trees_20240527_029,train,19
+el haouz_Trees_20240527_029,validation,3
+el haouz_Trees_20240527_029,test,3
+el haouz_Trees_20240527_030,train,19
+el haouz_Trees_20240527_030,validation,3
+el haouz_Trees_20240527_030,test,3
+el haouz_Trees_20240527_031,train,19
+el haouz_Trees_20240527_031,validation,3
+el haouz_Trees_20240527_031,test,3
+el haouz_Trees_20240527_032,train,19
+el haouz_Trees_20240527_032,validation,3
+el haouz_Trees_20240527_032,test,3
+el haouz_Trees_20240527_033,train,19
+el haouz_Trees_20240527_033,validation,3
+el haouz_Trees_20240527_033,test,3
+el haouz_Trees_20240527_034,train,19
+el haouz_Trees_20240527_034,validation,3
+el haouz_Trees_20240527_034,test,3
+el haouz_Trees_20240527_035,train,19
+el haouz_Trees_20240527_035,validation,3
+el haouz_Trees_20240527_035,test,3
+el haouz_Trees_20240527_036,train,19
+el haouz_Trees_20240527_036,validation,3
+el haouz_Trees_20240527_036,test,3
+el haouz_Trees_20240527_037,train,19
+el haouz_Trees_20240527_037,validation,3
+el haouz_Trees_20240527_037,test,3
+el haouz_Trees_20240527_038,train,19
+el haouz_Trees_20240527_038,validation,3
+el haouz_Trees_20240527_038,test,3
+el haouz_Trees_20240527_041,train,19
+el haouz_Trees_20240527_041,validation,3
+el haouz_Trees_20240527_041,test,3
+el haouz_Trees_20240527_043,train,19
+el haouz_Trees_20240527_043,validation,3
+el haouz_Trees_20240527_043,test,3
+el haouz_Trees_20240527_044,train,19
+el haouz_Trees_20240527_044,validation,3
+el haouz_Trees_20240527_044,test,3
+el haouz_Trees_20240527_045,train,19
+el haouz_Trees_20240527_045,validation,3
+el haouz_Trees_20240527_045,test,3
+el haouz_Trees_20240527_048,train,19
+el haouz_Trees_20240527_048,validation,3
+el haouz_Trees_20240527_048,test,3
+el haouz_Trees_20240527_049,train,19
+el haouz_Trees_20240527_049,validation,3
+el haouz_Trees_20240527_049,test,3
+el haouz_Trees_20240527_050,train,19
+el haouz_Trees_20240527_050,validation,3
+el haouz_Trees_20240527_050,test,3
+el haouz_Trees_20240527_051,train,19
+el haouz_Trees_20240527_051,validation,3
+el haouz_Trees_20240527_051,test,3
+el haouz_Trees_20240527_053,train,19
+el haouz_Trees_20240527_053,validation,3
+el haouz_Trees_20240527_053,test,3
+el haouz_Trees_20240527_054,train,19
+el haouz_Trees_20240527_054,validation,3
+el haouz_Trees_20240527_054,test,3
+el haouz_Trees_20240527_055,train,19
+el haouz_Trees_20240527_055,validation,3
+el haouz_Trees_20240527_055,test,3
+el haouz_Trees_20240527_056,train,19
+el haouz_Trees_20240527_056,validation,3
+el haouz_Trees_20240527_056,test,3
+el haouz_Trees_20240527_057,train,19
+el haouz_Trees_20240527_057,validation,3
+el haouz_Trees_20240527_057,test,3
+el haouz_Trees_20240527_058,train,19
+el haouz_Trees_20240527_058,validation,3
+el haouz_Trees_20240527_058,test,3
+el haouz_Trees_20240527_060,train,19
+el haouz_Trees_20240527_060,validation,3
+el haouz_Trees_20240527_060,test,3
+el haouz_Trees_20240527_062,train,19
+el haouz_Trees_20240527_062,validation,3
+el haouz_Trees_20240527_062,test,3
+el haouz_Trees_20250120_001,train,19
+el haouz_Trees_20250120_001,validation,3
+el haouz_Trees_20250120_001,test,3
+el haouz_Trees_20250120_002,train,19
+el haouz_Trees_20250120_002,validation,3
+el haouz_Trees_20250120_002,test,3
+el haouz_Trees_20250120_003,train,19
+el haouz_Trees_20250120_003,validation,3
+el haouz_Trees_20250120_003,test,3
+el haouz_Trees_20250120_004,train,19
+el haouz_Trees_20250120_004,validation,3
+el haouz_Trees_20250120_004,test,3
+el haouz_Trees_20250120_005,train,19
+el haouz_Trees_20250120_005,validation,3
+el haouz_Trees_20250120_005,test,3
+el haouz_Trees_20250120_006,train,19
+el haouz_Trees_20250120_006,validation,3
+el haouz_Trees_20250120_006,test,3
+el haouz_Trees_20250120_007,train,19
+el haouz_Trees_20250120_007,validation,3
+el haouz_Trees_20250120_007,test,3
+el haouz_Trees_20250120_008,train,19
+el haouz_Trees_20250120_008,validation,3
+el haouz_Trees_20250120_008,test,3
+el haouz_Trees_20250120_009,train,19
+el haouz_Trees_20250120_009,validation,3
+el haouz_Trees_20250120_009,test,3
+el haouz_Trees_20250120_010,train,19
+el haouz_Trees_20250120_010,validation,3
+el haouz_Trees_20250120_010,test,3
+el haouz_Trees_20250120_011,train,19
+el haouz_Trees_20250120_011,validation,3
+el haouz_Trees_20250120_011,test,3
+el haouz_Trees_20250120_012,train,19
+el haouz_Trees_20250120_012,validation,3
+el haouz_Trees_20250120_012,test,3
+el haouz_Trees_20250120_013,train,19
+el haouz_Trees_20250120_013,validation,3
+el haouz_Trees_20250120_013,test,3
+el haouz_Trees_20250120_014,train,19
+el haouz_Trees_20250120_014,validation,3
+el haouz_Trees_20250120_014,test,3
+el haouz_Trees_20250120_015,train,19
+el haouz_Trees_20250120_015,validation,3
+el haouz_Trees_20250120_015,test,3
+el haouz_Trees_20250120_016,train,19
+el haouz_Trees_20250120_016,validation,3
+el haouz_Trees_20250120_016,test,3
+el haouz_Trees_20250120_017,train,19
+el haouz_Trees_20250120_017,validation,3
+el haouz_Trees_20250120_017,test,3
+el haouz_Trees_20250120_018,train,19
+el haouz_Trees_20250120_018,validation,3
+el haouz_Trees_20250120_018,test,3
+el haouz_Trees_20250120_019,train,19
+el haouz_Trees_20250120_019,validation,3
+el haouz_Trees_20250120_019,test,3
+el haouz_Trees_20250120_020,train,19
+el haouz_Trees_20250120_020,validation,3
+el haouz_Trees_20250120_020,test,3
+el haouz_Trees_20250120_021,train,19
+el haouz_Trees_20250120_021,validation,3
+el haouz_Trees_20250120_021,test,3
+el haouz_Trees_20250120_022,train,19
+el haouz_Trees_20250120_022,validation,3
+el haouz_Trees_20250120_022,test,3
+el haouz_Trees_20250120_023,train,19
+el haouz_Trees_20250120_023,validation,3
+el haouz_Trees_20250120_023,test,3
+el haouz_Trees_20250120_024,train,19
+el haouz_Trees_20250120_024,validation,3
+el haouz_Trees_20250120_024,test,3
+el haouz_Trees_20250120_025,train,19
+el haouz_Trees_20250120_025,validation,3
+el haouz_Trees_20250120_025,test,3
+el haouz_Trees_20250120_026,train,19
+el haouz_Trees_20250120_026,validation,3
+el haouz_Trees_20250120_026,test,3
+el haouz_Trees_20250120_027,train,19
+el haouz_Trees_20250120_027,validation,3
+el haouz_Trees_20250120_027,test,3
+el haouz_Trees_20250120_028,train,19
+el haouz_Trees_20250120_028,validation,3
+el haouz_Trees_20250120_028,test,3
+el haouz_Trees_20250120_029,train,19
+el haouz_Trees_20250120_029,validation,3
+el haouz_Trees_20250120_029,test,3
+el haouz_Trees_20250120_030,train,19
+el haouz_Trees_20250120_030,validation,3
+el haouz_Trees_20250120_030,test,3

@@ -1,5 +1,15 @@
 # Import des oliveraies documentées
 
+## Extension multi-temporelle à 563 parcelles (2021–2025)
+
+L'extension mensuelle se trouve dans `data/processed/sentinel_history_2021_2025/`. Le fichier `status.json` donne l'état réel, le nombre d'observations acceptées et les erreurs éventuelles. Le calendrier théorique contient 563 × 60 = 33 780 emplacements ; les valeurs sans acquisition exploitable restent manquantes.
+
+Lancer `tools/extend_sentinel_history.py --workers 8` pour reprendre le téléchargement, puis `tools/report_sentinel_history.py` pour vérifier toutes les empreintes et produire le rapport. Les notebooks 01 et 02 assurent la préparation et l'entraînement sur cet historique.
+
+Les découpes contiennent les bandes B4/B8 natives à 10 m et les masques SCL. NDVI et SAVI sont moyennés sur les pixels du polygone, après calibration STAC et contrôle local (SCL 4/5, au moins 60 % valides, au moins neuf pixels). Deux candidats couvrant entièrement la parcelle au plus par mois sont classés sur les nuages de scène ; le second est essayé en cas de rejet du premier. Les lectures sont isolées par processus sur Windows et reprennent les caches vérifiés. Il s'agit d'un échantillonnage mensuel, pas d'un composite de toutes les acquisitions.
+
+La géométrie valide et l'absence de culture intercalaire déclarée déterminent les 563 parcelles éligibles. La culture n'est attestée qu'à la visite ; sa stabilité avant/après celle-ci est inconnue. L'extension ne crée aucun label de stress et ne mélange pas ces extractions avec les séries publiées de 2024 comme exemples indépendants. Les anciens fichiers du pilote et notebooks 01/02 restent distincts.
+
 La nouvelle référence ne remplace pas silencieusement l'ancienne zone exploratoire. Les cinq ZIP initiaux ont été supprimés à la demande de l'utilisateur ; leurs résultats historiques restent distincts. Les nouvelles données proviennent des parcelles marocaines publiées par Ouassanouan et al. : https://doi.org/10.6084/m9.figshare.28486022.v2 (CC BY 4.0).
 
 ## Données originales et audit

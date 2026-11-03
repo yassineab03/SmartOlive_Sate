@@ -1,0 +1,19 @@
+station,split,hourly_rows,input_hours,forecast_horizon_hours,valid_windows
+Control 59,train,6148,24,24,6101
+Control 59,validation,1318,24,24,1271
+Control 59,test,1318,24,24,1246
+Control 60,train,6148,24,24,6101
+Control 60,validation,1318,24,24,1271
+Control 60,test,1318,24,24,1246
+RDC 49,train,6148,24,24,6045
+RDC 49,validation,1318,24,24,1271
+RDC 49,test,1318,24,24,1246
+RDC 62,train,6148,24,24,6048
+RDC 62,validation,1318,24,24,1271
+RDC 62,test,1318,24,24,1246
+Secano 46,train,6148,24,24,6047
+Secano 46,validation,1318,24,24,1271
+Secano 46,test,1318,24,24,1246
+Secano 53,train,6148,24,24,6101
+Secano 53,validation,1318,24,24,1271
+Secano 53,test,1318,24,24,1246

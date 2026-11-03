@@ -1,0 +1,2 @@
+dataset,selected_model,validation_objective
+sentinel_ndvi,CNN-LSTM_50,0.08226662597608793
